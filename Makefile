@@ -8,7 +8,7 @@ run:
 b:
 	npm run build
 deploy:
-	git pull
+	git pull origin HEAD
 	sh ./scripts/kill.sh
 	npm run build
 	sudo node server.js &
