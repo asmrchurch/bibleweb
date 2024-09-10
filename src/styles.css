@@ -95,14 +95,17 @@ rt {
 }
 
 em {
-    color: black !important;
-    background-color: #FFD700;
     padding: 0 8px 0 0;
+
+    background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b) !important; 
+    -webkit-background-clip: text !important;
+    color: transparent !important; 
 }
 
 em:hover {
     color: #00FFFF !important;
     background-color: black;
+
 }
 
 .toggle-button {

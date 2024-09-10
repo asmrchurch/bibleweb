@@ -5,12 +5,14 @@
 #verse {
     background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b); /* Gradient */
     -webkit-background-clip: text; /* Clips the background to the text */
+    transition: all 0.3s ease; /* Smooth transition */
     color: transparent; /* Makes the actual text color transparent */
-
 }
 
 #verse:hover {
-   color: white;
+  background: linear-gradient(45deg, #C0C0C0, #D8D8D8, #E0E0E0, #F0F0F0);
+  -webkit-background-clip: text; /* Clips the background to the text */
+  color: transparent; /* Makes the actual text color transparent */
 }
 
 body {
@@ -29,6 +31,10 @@ body {
 h2, h3, p {
     margin-left: 0;
     letter-spacing: normal; /* 見出しや段落の文字間隔をデフォルトに設定 */
+    background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b); /* Gradient */
+    -webkit-background-clip: text; /* Clips the background to the text */
+    color: transparent; /* Makes the actual text color transparent */
+
 }
 ruby {
     font-size: 24px;
