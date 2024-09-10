@@ -3,16 +3,10 @@
 }
 
 #verse {
-    background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b); /* Gradient */
-    -webkit-background-clip: text; /* Clips the background to the text */
-    transition: all 0.3s ease; /* Smooth transition */
-    color: transparent; /* Makes the actual text color transparent */
 }
 
+
 #verse:hover {
-  background: linear-gradient(45deg, #C0C0C0, #D8D8D8, #E0E0E0, #F0F0F0);
-  -webkit-background-clip: text; /* Clips the background to the text */
-  color: transparent; /* Makes the actual text color transparent */
 }
 
 body {
@@ -53,7 +47,12 @@ rt,rb {
 .section {
     flex: 1;        
     padding: 10px;
-    background-color: black;
+  font-size: 24px;
+  background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b); /* Gradient */
+  -webkit-background-clip: text; /* Clips the gradient to the text */
+  color: transparent; /* Makes the actual text color transparent */
+  transition: background 0.5s ease, color 0.5s ease; /* Smooth transition for background and color */
+
 }
 .section + .section {
     margin-left: 20px;      

@@ -5,7 +5,9 @@ ul {
 }
 
 .li:hover {
-    color: white;
+  background: linear-gradient(45deg, #fff9e6, #fef3cc, #ffebb3, #ffe599);
+  -webkit-background-clip: text; /* Clips the background to the text */
+  color: transparent; /* Text remains transparent to show the gradient */
 }
 
 .ad {
