@@ -2,8 +2,15 @@
     color: white;
 }
 
+#verse {
+    background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b); /* Gradient */
+    -webkit-background-clip: text; /* Clips the background to the text */
+    color: transparent; /* Makes the actual text color transparent */
+
+}
+
 #verse:hover {
-    color: #FFD700;
+   color: white;
 }
 
 body {
