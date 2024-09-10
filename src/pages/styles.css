@@ -2,6 +2,10 @@
     color: white;
 }
 
+#verse:hover {
+    color: #FFD700;
+}
+
 body {
     text-align: left; /* 左寄せに設定 */
     font-family: 'Arial', sans-serif;

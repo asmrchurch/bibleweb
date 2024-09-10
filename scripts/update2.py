@@ -12,8 +12,10 @@ with open(filename, 'r') as file:
         line = line.strip()
         if("</em>" in line):
             em, text = line.split("</em>" )
-            text = f"<span id='verse'>{text}</span>"
+            text = f"<span id='verse' onclick='discover()'>{text}</span>"
             lines.append(f"{em}</em>{text}")
+        else:
+            lines.append(line)
 
 linestr = "".join(lines)
 with open(filename, 'w') as file:
