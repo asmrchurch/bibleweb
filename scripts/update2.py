@@ -17,7 +17,7 @@ with open(filename, 'r') as file:
         else:
             lines.append(line)
 
-linestr = "".join(lines)
+linestr = "\n".join(lines)
 with open(filename, 'w') as file:
     file.write(linestr)
 
