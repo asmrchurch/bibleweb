@@ -8,9 +8,10 @@ run:
 b:
 	npm run build
 deploy:
+	sudo systemctl stop cron
 	git pull origin HEAD
 	npm run build
-	sudo node server.js &
+	sudo systemctl start cron
 open:
 	open https://keitaroemotion.github.io/bibleasmr/
 setup:
