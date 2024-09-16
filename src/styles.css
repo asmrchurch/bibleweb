@@ -119,19 +119,6 @@ em:hover {
     background-color: black !important;
     color: white;
 }
-.c1 {
-    color: #FFD700;    
-    width: 80%;
-}
-.c2 {
-    color: white;    
-}
-.c3 {
-    color: #FFD700;    
-    width: 300px;
-    text-align: right;
-}
-
 @media screen and (max-width: 480px) {
     #contenten {
         width: 90%;

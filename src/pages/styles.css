@@ -93,19 +93,52 @@ html {
     margin: 0;
     padding: 10px 20px;
     z-index: 1000;
+    height: 26px;
 }
+
+.csub {
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    height: 70px;
+    background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b); 
+    margin: auto;
+    z-index: 900;
+}
+
+.ll {
+    margin: auto;
+    font-size: 0.8em;
+    text-align: center;
+    padding: 45px 0;
+}
+
+.c1 {
+    color: #FFD700;    
+    width: 80%;
+    margin: auto;
+}
+
+.c2 {
+    color: white;    
+}
+
+.c3 {
+    color: #FFD700;    
+    width: 300px;
+    margin: auto;
+    text-align: right;
+}
+
+.al:hover {
+   color: red;
+}
+
 .content {
     margin-top: 75px;
     margin-left: 1em;
 }
 
-.c1 {
-    padding: 0.1em;
-    color: #FFD700;    
-}
-.c2 {
-    color: white;    
-}
 a:link,
 a:visited,
 a:hover,

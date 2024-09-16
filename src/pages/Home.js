@@ -30,7 +30,7 @@ function Home() {
 
   return (
     <div className="body">
-      <Header />
+      <Header subon={true} />
       <div className="container">
         <BibleList
           title={oldTitle}

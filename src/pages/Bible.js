@@ -24,7 +24,7 @@ function Bible() {
 
   return (
     <div>
-      <Header bible={true} />
+      <Header bible={true} subon={true}/>
       <div className="content">
         <section>
           <div dangerouslySetInnerHTML={{ __html: content }} />
