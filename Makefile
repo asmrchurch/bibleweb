@@ -13,7 +13,7 @@ deploy:
 	npm run build
 	sh ./scripts/kill.sh 
 	sudo node server.js &
-        sleep 10
+	sleep 10
 	sudo systemctl start cron
 	
 open:
