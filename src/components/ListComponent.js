@@ -7,6 +7,8 @@ import MarkDown from '../components/MarkDown';
 
 function ListComponent({ type, title }) {
   const [articles, setArticles] = useState([]);
+  const [currentPage, setCurrentPage] = useState(1);
+  const postsPerPage = 3;
 
   useEffect(() => {
     fetch(`/static/markdown/${type}/list.json`)
@@ -15,21 +17,49 @@ function ListComponent({ type, title }) {
       .catch((error) => console.error('Error fetching list:', error));
   }, [type]);
 
+  // Calculate the current articles to display
+  const indexOfLastPost = currentPage * postsPerPage;
+  const indexOfFirstPost = indexOfLastPost - postsPerPage;
+  const currentArticles = articles.slice().reverse().slice(indexOfFirstPost, indexOfLastPost);
+
+  // Change page
+  const nextPage = () => {
+    if (currentPage < Math.ceil(articles.length / postsPerPage)) {
+      setCurrentPage(currentPage + 1);
+    }
+  };
+
+  const prevPage = () => {
+    if (currentPage > 1) {
+      setCurrentPage(currentPage - 1);
+    }
+  };
+
   return (
     <div>
       <Header />
       <div className="blog-section">
         <h1>{title}</h1>
-        <hr/>
+        <hr />
         <div className="blog-list">
-          {articles.slice().reverse().map((id) => (
+          {currentArticles.map((id) => (
             <div key={id}>
               <a href={`/${type}/${id}`}>
                 <MarkDown path={`/${type}/${id}`} />
               </a>
-              <hr/>
+              <hr />
             </div>
           ))}
+        </div>
+        {/* Pagination controls */}
+        <div className="pagination">
+          <button onClick={prevPage} disabled={currentPage === 1}>
+           ← 
+          </button>
+          <span className="pagecount">{currentPage} / {Math.ceil(articles.length / postsPerPage)}</span>
+          <button onClick={nextPage} disabled={currentPage === Math.ceil(articles.length / postsPerPage)}>
+          →
+          </button>
         </div>
       </div>
       <Footer />
