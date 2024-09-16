@@ -1,7 +1,7 @@
 #!/bin/bash
 
 current_date=$(date +"%Y%m%d")
-LOGFILE="/home/ubuntu/bibleweb/$current_date.log"
+LOGFILE="/home/ubuntu/bibleweb/logs/$current_date.log"
 
 if ! pgrep -f "node" > /dev/null
     echo "[OK] React app ok at $(date)" >> $LOGFILE
