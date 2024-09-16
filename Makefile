@@ -11,6 +11,7 @@ deploy:
 	sudo systemctl stop cron
 	git pull origin HEAD
 	npm run build
+	sh ./scripts/kill.sh 
 	sudo node server.js &
         sleep 10
 	sudo systemctl start cron
