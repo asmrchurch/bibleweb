@@ -103,7 +103,6 @@ rt {
 
 em {
     padding: 0 8px 0 0;
-
     background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b) !important; 
     -webkit-background-clip: text !important;
     color: transparent !important; 

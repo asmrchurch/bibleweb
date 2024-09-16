@@ -7,7 +7,9 @@
 
 .blog-section {
   padding: 2.5em 10px;
-  color: #FFD700;
+  background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b) !important; 
+  -webkit-background-clip: text !important;
+  color: transparent !important; 
 }
 
 .blog-list {

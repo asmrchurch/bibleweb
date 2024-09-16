@@ -8,7 +8,7 @@ import MarkDown from '../components/MarkDown';
 function ListComponent({ type, title }) {
   const [articles, setArticles] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const postsPerPage = 3;
+  const postsPerPage = 5;
 
   useEffect(() => {
     fetch(`/static/markdown/${type}/list.json`)
@@ -44,9 +44,10 @@ function ListComponent({ type, title }) {
         <div className="blog-list">
           {currentArticles.map((id) => (
             <div key={id}>
-              <a href={`/${type}/${id}`}>
-                <MarkDown path={`/${type}/${id}`} />
-              </a>
+              <MarkDown path={`/${type}/${id}`} preview={true} />
+              <div className="readarticle">
+                  <a href={`/${type}/${id}`}> 続きを読む </a>
+              </div>
               <hr />
             </div>
           ))}
