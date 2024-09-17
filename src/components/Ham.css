@@ -19,18 +19,22 @@
 }
 
 .hamburger .line.open {
-  background-color: #ccc; /* Change color when open */
+  background: linear-gradient(45deg, #b87333, #a65e2e, #8c4b2e, #754321) !important;
 }
 
-/* The navigation menu is initially hidden */
+.hmb:hover {
+  background: linear-gradient(45deg, #2e2e2e, #1c1c1c, #0d0d0d, #000000) !important;
+  color: #FFD700;
+}
 .nav-menu {
   display: none;
   position: absolute;
   top: 40px;
   right: 0;
-  background-color: #333;
-  padding: 20px;
   border-radius: 5px;
+  width: 4em;
+  text-align: center;
+  background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b) !important; 
 }
 
 .nav-menu ul {
@@ -48,7 +52,6 @@
 }
 
 .nav-menu ul li a {
-  color: #fff;
   text-decoration: none;
   font-size: 18px;
 }
