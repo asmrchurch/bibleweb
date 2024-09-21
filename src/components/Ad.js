@@ -31,16 +31,29 @@ function Ad() {
         </a>
       </div>
 
-      {/* Corrected iframe in React */}
-      <iframe 
-        style={{ border: 0, width: '100%', height: '120px' }} 
-        src="https://bandcamp.com/EmbeddedPlayer/album=3571744779/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" 
-        title="bandcamp-player"
-      >
-        <a href="https://asmrchruch.bandcamp.com/album/asmr-27">
-          新約聖書ASMR｜ルカによる福音書 by 橆綴,七七七七,ちぇーしゃん
-        </a>
-      </iframe>
+      <div className="">
+      <iframe
+        width="100%"
+        src="https://www.youtube.com/embed/videoseries?si=ZBTKC0dj3cqZi8o6&amp;list=PLDCOwaH2cXdbuMI9_DB3sfd3Bpp2JHFmr"
+        title="YouTube video player"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerPolicy="strict-origin-when-cross-origin"
+        allowFullScreen
+      ></iframe>
+      </div>
+
+      <div className="">
+      <iframe
+        width="100%"
+        src="https://www.youtube.com/embed/videoseries?si=-5p_8r09By3tOHtM&amp;list=PLKI5DIl1FM15uwG9QtAoeElYJrF43YyN9"
+        title="YouTube video player"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerPolicy="strict-origin-when-cross-origin"
+        allowFullScreen
+      ></iframe>
+      </div>
     </div>
   );
 }
