@@ -5,7 +5,7 @@ import Bible from './pages/Bible';
 import Blog from './pages/Blog';
 import Sermon from './pages/Sermon';
 import Caption from './pages/Caption';
-import Love from './pages/Love';
+import Manga from './pages/Manga';
 import ListComponent from './components/ListComponent';
 
 function App() {
@@ -17,8 +17,8 @@ function App() {
         <Route path="/blog" element={<ListComponent type="blog" title={`ブログ`}/>} />
         <Route path="/blog/:id" element={<Blog />} />
         <Route path="/sermon/:id" element={<Sermon />} />
-        <Route path="/love/:id" element={<Love />} />
-        <Route path="/love" element={<ListComponent type="love" title={`恋愛講座`}/>} />
+        <Route path="/manga/:id" element={<Manga />} />
+        <Route path="/manga" element={<ListComponent type="manga" title={`漫画`}/>} />
         <Route path="/sermon" element={<ListComponent type="sermon" title={`説教`}/>} />
         <Route path="/caption" element={<Caption />} />
       </Routes>

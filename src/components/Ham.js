@@ -45,7 +45,7 @@ function Ham() {
           <li className="hmb"><a href="/" onClick={handleLinkClick}>Home</a></li>
           <li className="hmb"><a href="/blog" onClick={handleLinkClick}>Blog</a></li>
           <li className="hmb"><a href="/sermon" onClick={handleLinkClick}>説教</a></li>
-          <li className="hmb"><a href="/love" onClick={handleLinkClick}>恋愛講座</a></li>
+          <li className="hmb"><a href="/manga" onClick={handleLinkClick}>漫画</a></li>
         </ul>
       </nav>
     </div>

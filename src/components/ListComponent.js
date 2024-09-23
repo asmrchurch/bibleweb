@@ -44,7 +44,7 @@ function ListComponent({ type, title }) {
         <div className="blog-list">
           {currentArticles.map((id) => (
             <div key={id}>
-              <MarkDown path={`/${type}/${id}`} preview={true} />
+              <MarkDown path={`/${type}/${id}`} preview={true} type={type}/>
               <div className="readarticle">
                   <a href={`/${type}/${id}`}> 続きを読む </a>
               </div>

@@ -4,7 +4,7 @@ import remarkGfm from 'remark-gfm';
 import '../blog.css';
 import Share from './Share';
 
-function MarkDown({ path, preview }) {  // Add 'preview' prop
+function MarkDown({ path, preview, type }) {
   const [markdown, setMarkdown] = useState('');
   const [title, setTitle] = useState('');
   const url = `https://www.asmrchurch.com${path}`;
@@ -38,7 +38,7 @@ function MarkDown({ path, preview }) {  // Add 'preview' prop
 
   return (
     <div>
-      <div className="blog-section">
+      <div className={`${type === 'manga' ? 'manga' : 'blog-section'}`}>
         <ReactMarkdown children={previewContent} remarkPlugins={[remarkGfm]} />
       </div>
       {/* Show the Share component only if it's not in preview mode */}

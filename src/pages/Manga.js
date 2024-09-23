@@ -7,7 +7,7 @@ import MarkDown from '../components/MarkDown';
 import Footer from '../components/Footer';
 import '../blog.css';
 
-function Love() {
+function Manga() {
   const [markdown, setMarkdown] = useState('');
   const { id } = useParams();
 
@@ -23,4 +23,4 @@ function Love() {
   );
 }
 
-export default Love;
+export default Manga;
