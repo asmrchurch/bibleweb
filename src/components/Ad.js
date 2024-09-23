@@ -65,6 +65,18 @@ function Ad() {
         allowFullScreen
       ></iframe>
       </div>
+
+      <div className="">
+        <iframe
+        height="162"
+        width="375"
+        src="https://suzuri.jp/asmrchurch2/16638827/cushion/free/white/embed"
+        title="Suzuri Embed"
+        frameBorder="0"
+        allowFullScreen
+      ></iframe>
+      </div>
+
     </div>
   );
 }
