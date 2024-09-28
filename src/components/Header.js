@@ -50,7 +50,6 @@ function Header({ bible, title, description, url, image, subon }) {
     <div>
       <div className="header">
         <Helmet>
-          <meta name="google-adsense-account" content="ca-pub-5725051464771855" />
           <meta charSet="UTF-8" />
           <link rel="icon" href="/static/favicon/favicon.ico" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
