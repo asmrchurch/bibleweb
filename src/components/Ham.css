@@ -44,7 +44,9 @@
 }
 
 .ham {
-    padding: 0em 2.2em 0 1em;
+    width: 3%;
+    text-align: center;
+    padding: 0.4em 0.4em;
 }
 
 .nav-menu ul li {

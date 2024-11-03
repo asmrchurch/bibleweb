@@ -6,7 +6,7 @@ function Ad() {
     <div className="section ad">
       <h1></h1>
 
-      <div>
+     <div>
         <div>
           <div>
             <a target="_blank" rel="noopener noreferrer" href="https://www.kirishin.com/2024/05/19/66663/">
@@ -20,7 +20,7 @@ function Ad() {
           </div>
         </div>
       </div>
-      
+
       <div className="">
         <a target="_blank" rel="noopener noreferrer" href="https://www.dlsite.com/home/work/=/product_id/RJ433352.html">
           <img 
@@ -31,51 +31,47 @@ function Ad() {
         </a>
       </div>
 
-      <div className="">
-      <iframe
-        width="100%"
-        src="https://www.youtube.com/embed/videoseries?si=ZBTKC0dj3cqZi8o6&amp;list=PLDCOwaH2cXdbuMI9_DB3sfd3Bpp2JHFmr"
-        title="YouTube video player"
-        frameBorder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerPolicy="strict-origin-when-cross-origin"
-        allowFullScreen
-      ></iframe>
+      <div className="kirikan">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@asmrchurch">
+          <img 
+            src={`${process.env.PUBLIC_URL}/static/images/tube2.jpg`}
+            alt="x" 
+            style={{ height: '130px' }}
+          />
+        </a>
       </div>
 
-      <div className="">
-      <iframe
-        width="100%"
-        src="https://www.youtube.com/embed/videoseries?si=-5p_8r09By3tOHtM&amp;list=PLKI5DIl1FM15uwG9QtAoeElYJrF43YyN9"
-        title="YouTube video player"
-        frameBorder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerPolicy="strict-origin-when-cross-origin"
-        allowFullScreen
-      ></iframe>
+      <div className="kirikan">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.pixiv.net/en/users/107379276">
+          <img 
+            src={`${process.env.PUBLIC_URL}/static/images/pixiv.jpg`}
+            alt="x" 
+            style={{ height: '130px' }}
+          />
+        </a>
       </div>
 
-      <div className="">
-        <iframe
-        height="162"
-        width="375"
-        src="https://suzuri.jp/asmrchurch2/16625378/full-graphic-t-shirt/xl/white/embed"
-        title="Suzuri Embed"
-        frameBorder="0"
-        allowFullScreen
-      ></iframe>
+      <div className="kirikan">
+        <a target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/@sexybible">
+          <img 
+            src={`${process.env.PUBLIC_URL}/static/images/tiktok.jpg`}
+            alt="x"
+            style={{ height: '130px' }}
+          />
+        </a>
       </div>
 
-      <div className="">
-        <iframe
-        height="162"
-        width="375"
-        src="https://suzuri.jp/asmrchurch2/16638827/cushion/free/white/embed"
-        title="Suzuri Embed"
-        frameBorder="0"
-        allowFullScreen
-      ></iframe>
+      <div className="kirikan">
+        <a target="_blank" rel="noopener noreferrer" href="https://asmrchruch.bandcamp.com/">
+          <img 
+            src={`${process.env.PUBLIC_URL}/static/images/bandcamp.jpg`}
+            alt="x"
+            style={{ height: '130px' }}
+          />
+        </a>
       </div>
+
+
 
     </div>
   );

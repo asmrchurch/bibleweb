@@ -75,6 +75,15 @@ rt,rb {
         padding: 1.5em 0em;
         font-size: 1.5em;
     }
+    .ham {
+        width: 10% !important;
+    }
+    .c3 {
+        width: 50% !important;
+    }
+    .c1 {
+        width: 40% !important;
+    }
 }
 
 .leftarea {
@@ -86,23 +95,25 @@ html {
 }
 
 .header {
-    position: fixed;
     top: 0;
     width: 100%;
-    background-color: black;
+    background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b); 
     margin: 0;
-    padding: 10px 20px;
     z-index: 1000;
-    height: 26px;
+    display: flex;
+    position: fixed;
+    top: 0;
+    height: 50px;
 }
 
 .csub {
     position: fixed;
     width: 100%;
     top: 0px;
+    color: #ffd700; 
+    background-color: rgba(0, 0, 0, 0.5);
     height: 70px;
-    background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b); 
-    margin: auto;
+    padding: 8px;
     z-index: 900;
 }
 
@@ -114,9 +125,11 @@ html {
 }
 
 .c1 {
-    color: #FFD700;    
+    text-align: left;
+    color: black;    
     width: 80%;
-    margin: auto;
+    font-size: 1em;
+    padding: 0.4em 0.3em;
 }
 
 .c2 {
@@ -124,9 +137,8 @@ html {
 }
 
 .c3 {
-    color: #FFD700;    
-    width: 300px;
-    margin: auto;
+    color: black;    
+    width: 17%;
     text-align: right;
 }
 
