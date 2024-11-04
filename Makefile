@@ -23,4 +23,4 @@ setup:
 	npm install react-markdown remark-gfm
 	npm install react-helmet
 	npm install react-share
-        npm install dotenv
+	npm install dotenv
