@@ -70,9 +70,6 @@ function Ad() {
           />
         </a>
       </div>
-
-
-
     </div>
   );
 }

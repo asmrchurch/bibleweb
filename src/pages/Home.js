@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import BibleList from '../components/BibleList';
+import PayComponent from '../components/PayComponent';
 import Ad from '../components/Ad';
 import './styles.css';
 import './main.css';
@@ -114,6 +115,7 @@ function Home() {
         <br/>
         <Ad />
       </div>
+      <PayComponent />
       <Footer />
     </div>
   );
