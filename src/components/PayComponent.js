@@ -11,15 +11,19 @@ const ProductDisplay = () => (
         </div>
       </div>
 
+<span className="pad">
 <stripe-buy-button
   buy-button-id="buy_btn_1QHPjSJrEFc0aoshlEXLL0iI"
   publishable-key="pk_live_51L77y9JrEFc0aoshDbT8faRDJBWQJjQTGvMb6jngK3GGGpMtIYf8omncPkMd8e0be0ZsfG2yEWaxYdMSlGSS9pgX00RNzmWvfw"
 > </stripe-buy-button>
+</span>
 
+<span className="pad">
 <stripe-buy-button
   buy-button-id="buy_btn_1QHPZqJrEFc0aoshadCn7Xkb"
   publishable-key="pk_live_51L77y9JrEFc0aoshDbT8faRDJBWQJjQTGvMb6jngK3GGGpMtIYf8omncPkMd8e0be0ZsfG2yEWaxYdMSlGSS9pgX00RNzmWvfw"
 > </stripe-buy-button>
+</span>
 
     </div>
   </div>

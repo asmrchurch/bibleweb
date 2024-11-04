@@ -1,6 +1,13 @@
 .pad {
     padding: 1em;
+    transition: transform 0.3s ease, filter 0.3s ease;
+    filter: brightness(0.8);
 }
+.pad:hover {
+    transform: scale(1.01) translateX(1px);
+    filter: brightness(1.1);
+}
+
 
 .product {
     color: white;
