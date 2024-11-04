@@ -6,6 +6,7 @@ import Blog from './pages/Blog';
 import Sermon from './pages/Sermon';
 import Caption from './pages/Caption';
 import Manga from './pages/Manga';
+import Pay from './pages/Pay';
 import ListComponent from './components/ListComponent';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path="/manga" element={<ListComponent type="manga" title={`漫画`}/>} />
         <Route path="/sermon" element={<ListComponent type="sermon" title={`説教`}/>} />
         <Route path="/caption" element={<Caption />} />
+        <Route path="/pay" element={<Pay />} />
       </Routes>
     </Router>
   );
