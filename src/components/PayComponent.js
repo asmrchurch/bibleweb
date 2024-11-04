@@ -10,11 +10,11 @@ const ProductDisplay = () => (
             <h5>ASMRキリスト教会は、聖書ASMRの製造、口語訳聖書のアーカイブ保存公開、若者の伝道活動、いのちのASMR電話、その他日本のキリスト教をプロテスタントの観点から維持・発展させる活動を継続しております。もし当教会の理念に賛同いただける方は、献金サポートしていただけますと弊社の活動の重要な資金源になります。</h5>
         </div>
       </div>
-
-      <stripe-buy-button
-        buy-button-id="buy_btn_1QHOukJrEFc0aosh3vOvliXi"
-        publishable-key="pk_live_51L77y9JrEFc0aoshDbT8faRDJBWQJjQTGvMb6jngK3GGGpMtIYf8omncPkMd8e0be0ZsfG2yEWaxYdMSlGSS9pgX00RNzmWvfw"
-      ></stripe-buy-button>
+<stripe-buy-button
+  buy-button-id="buy_btn_1QHPZqJrEFc0aoshadCn7Xkb"
+  publishable-key="pk_live_51L77y9JrEFc0aoshDbT8faRDJBWQJjQTGvMb6jngK3GGGpMtIYf8omncPkMd8e0be0ZsfG2yEWaxYdMSlGSS9pgX00RNzmWvfw"
+>
+</stripe-buy-button>
     </div>
   </div>
 );
