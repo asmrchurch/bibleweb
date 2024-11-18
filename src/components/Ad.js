@@ -4,9 +4,8 @@ import './styles.css';
 function Ad() {
   return (
     <div className="section ad">
-      <h1></h1>
-
-     <div>
+     <h1>記事一覧</h1>
+     <div className="">
         <div>
           <a target="_blank" rel="noopener noreferrer" href="https://www.kirishin.com/2024/05/19/66663/">
             メディア掲載: キリスト新聞様

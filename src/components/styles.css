@@ -1,3 +1,7 @@
+.admain {
+    padding: 3em 0 0 0;
+}
+
 .pad {
     padding: 1em;
     transition: transform 0.3s ease, filter 0.3s ease;
