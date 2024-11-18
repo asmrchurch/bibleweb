@@ -115,7 +115,6 @@ function Home() {
         <br/>
         <Ad />
       </div>
-      <PayComponent />
       <Footer />
     </div>
   );
