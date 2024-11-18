@@ -91,6 +91,13 @@ function Header({ bible, title, description, url, image, subon }) {
               style={{ width: '50px' }}
             />
           </a>
+          <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/wpwSjjnSs8">
+            <img
+              src={`${process.env.PUBLIC_URL}/static/images/discord.png`}
+              alt="Discord logo"
+              style={{ width: '50px' }}
+            />
+          </a>
         </div>
 
         <div className="ham">
