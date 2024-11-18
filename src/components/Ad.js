@@ -8,16 +8,19 @@ function Ad() {
 
      <div>
         <div>
-          <div>
-            <a target="_blank" rel="noopener noreferrer" href="https://www.kirishin.com/2024/05/19/66663/">
-              メディア掲載: キリスト新聞様
-            </a>
-          </div>
-          <div>
-            <a target="_blank" rel="noopener noreferrer" href="/caption">
-              コスパ名言集
-            </a>
-          </div>
+          <a target="_blank" rel="noopener noreferrer" href="https://www.kirishin.com/2024/05/19/66663/">
+            メディア掲載: キリスト新聞様
+          </a>
+        </div>
+        <div>
+          <a target="_blank" rel="noopener noreferrer" href="/caption">
+            コスパ名言集
+          </a>
+        </div>
+        <div>
+          <a target="_blank" rel="noopener noreferrer" href="/article/1">
+            いのちのASMR電話
+          </a>
         </div>
       </div>
 
