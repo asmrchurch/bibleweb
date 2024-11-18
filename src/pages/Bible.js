@@ -16,10 +16,10 @@ function Bible() {
       setSearchParams({ type });
     }
 
-    //fetch(`${process.env.PUBLIC_URL}/static/html/${type}/${section}.htm`)
-    //  .then(response => response.text())
-    //  .then(data => setContent(data))
-    //  .catch(error => console.error('Error loading the HTML content:', error));
+    fetch(`${process.env.PUBLIC_URL}/static/html/${type}/${section}.htm`)
+      .then(response => response.text())
+      .then(data => setContent(data))
+      .catch(error => console.error('Error loading the HTML content:', error));
   }, [section, searchParams, setSearchParams]); // Include setSearchParams as a dependency
 
   return (
