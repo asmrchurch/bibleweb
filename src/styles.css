@@ -32,11 +32,6 @@ td {
     margin: auto; 
 }
 
-#contenten {
-    width: 46%;
-    margin: auto !important;
-}
-
 .sharecontainer {
 }
 
@@ -85,14 +80,14 @@ rt {
 }
 
 .content {
+    padding: 3.5em 0;
     color: white;
-    width: 60%;
+    width: 50%;
+    text-align: left;
     margin: auto !important;
-    background-color: red;
 }
 
 .bibleframe {
-    background-color: blue;
     width: 100%;
     text-align: center;
 }
@@ -123,14 +118,9 @@ em:hover {
 }
 
 @media screen and (max-width: 480px) {
-    #contenten {
-        width: 90%;
+    .content {
         margin: auto !important;
-    }
-
-    #content {
         width: 90%;
-        margin: auto !important;
     }
 
     body {
