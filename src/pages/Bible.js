@@ -26,7 +26,11 @@ function Bible() {
   return (
     <div className="bibleframe">
       <Header bible={true} subon={true}/>
-      <div className="content" dangerouslySetInnerHTML={{ __html: content }} />
+      <div className="content">
+        <section>
+          <div dangerouslySetInnerHTML={{ __html: content }} />
+        </section>
+      </div>
       <Footer />
     </div>
   );

@@ -87,13 +87,14 @@ rt {
 .content {
     color: white;
     width: 60%;
-    margin: auto;
+    margin: auto !important;
     background-color: red;
 }
 
 .bibleframe {
     background-color: blue;
     width: 100%;
+    text-align: center;
 }
 
 em {
