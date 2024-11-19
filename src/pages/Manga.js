@@ -14,9 +14,11 @@ function Manga() {
   return (
     <div>
       <Header />
-      <MarkDown path={`/love/${id}`} />
+      <div className="cont2">
+      <MarkDown path={`/manga/${id}`} />
       <div className="return">
-      <a href="/blog">恋愛講座一覧</a>
+      </div>
+      <a href="/manga">漫画一覧</a>
       </div>
       <Footer />
     </div>

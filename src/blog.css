@@ -9,6 +9,12 @@
       width: 100%;
       color: white;
     }
+    .blog-section-container {
+      padding: 2.5em 10px;
+      color: white;
+      margin: auto;
+      max-width: 100%;
+    }
 } 
 
 .manga {
@@ -26,6 +32,19 @@
     color: white;
     width: 50%;
     margin: auto;
+  }
+  .blog-section-container img {
+    max-width: 100%;
+    height: auto; /* Maintain the aspect ratio */
+    display: block; /* Prevent inline elements from causing layout issues */
+    margin: 0 auto; /* Center the image */
+  }
+  
+  .blog-section-container {
+    padding: 2.5em 10px;
+    color: white;
+    margin: auto;
+    max-width: 60%;
   }
 }
 

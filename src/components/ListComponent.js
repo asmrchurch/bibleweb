@@ -38,15 +38,15 @@ function ListComponent({ type, title }) {
   return (
     <div>
       <Header />
-      <div className="blog-section">
-        <h1>{title}</h1>
+      <div className="blog-section-container">
+        <h1 class="kirikantitle">{title}</h1>
         <hr />
         <div className="blog-list">
           {currentArticles.map((id) => (
             <div key={id}>
               <MarkDown path={`/${type}/${id}`} preview={true} type={type}/>
               <div className="readarticle">
-                  <a href={`/${type}/${id}`}> 続きを読む </a>
+                  <a className="ttz" href={`/${type}/${id}`}> 続きを読む </a>
               </div>
               <hr />
             </div>
