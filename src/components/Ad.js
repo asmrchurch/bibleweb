@@ -17,6 +17,11 @@ function Ad() {
           </a>
         </div>
         <div>
+          <a target="_blank" rel="noopener noreferrer" href="/actor">
+           聖書ASMR・声優図鑑
+          </a>
+        </div>
+        <div>
           <a target="_blank" rel="noopener noreferrer" href="/article/1">
             いのちのASMR電話
           </a>

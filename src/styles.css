@@ -130,6 +130,10 @@ em:hover {
     }
 }
 
+a:hover {
+    color: yellow !important; 
+}
+
 a:link,
 a:visited,
 a:hover,
