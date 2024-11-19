@@ -85,9 +85,15 @@ rt {
 }
 
 .content {
-    margin-top: 60px; /* Offset the content to account for the fixed header */
-    margin-left: 1em;
     color: white;
+    width: 60%;
+    margin: auto;
+    background-color: red;
+}
+
+.bibleframe {
+    background-color: blue;
+    width: 100%;
 }
 
 em {
@@ -117,6 +123,11 @@ em:hover {
 
 @media screen and (max-width: 480px) {
     #contenten {
+        width: 90%;
+        margin: auto !important;
+    }
+
+    #content {
         width: 90%;
         margin: auto !important;
     }

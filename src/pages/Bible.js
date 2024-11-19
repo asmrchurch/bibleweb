@@ -24,13 +24,9 @@ function Bible() {
   }, [section, searchParams, setSearchParams]); // Include setSearchParams as a dependency
 
   return (
-    <div>
+    <div className="bibleframe">
       <Header bible={true} subon={true}/>
-      <div className="content">
-        <section>
-          <div dangerouslySetInnerHTML={{ __html: content }} />
-        </section>
-      </div>
+      <div className="content" dangerouslySetInnerHTML={{ __html: content }} />
       <Footer />
     </div>
   );
