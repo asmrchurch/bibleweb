@@ -14,7 +14,9 @@ function Blog() {
   return (
     <div>
       <Header />
+      <div className="cont2">
       <MarkDown path={`/blog/${id}`} />
+      </div>
       <div className="return">
       <a href="/blog">ブログ一覧</a>
       </div>

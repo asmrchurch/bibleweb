@@ -14,7 +14,9 @@ function Article() {
   return (
     <div>
       <Header />
+      <div className="cont2">
       <MarkDown path={`/article/${id}`} />
+      </div>
       <div className="return">
       <a href="/article">記事一覧</a>
       </div>

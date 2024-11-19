@@ -14,7 +14,9 @@ function Sermon() {
   return (
     <div>
       <Header />
+      <div className="cont2">
       <MarkDown path={`/sermon/${id}`} />
+      </div>
       <div className="return">
         <a href="/sermon">説教一覧</a>
       </div>

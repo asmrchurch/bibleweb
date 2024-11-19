@@ -5,6 +5,9 @@
       text-align: center;
       margin: auto;
     }
+    .cont2 {
+      width: 100%;
+    }
 } 
 
 .manga {
@@ -15,6 +18,13 @@
 }
 
 .manga img {
+}
+
+@media screen and (min-width: 480px) {
+  .cont2 {
+    width: 50%;
+    margin: auto;
+  }
 }
 
 .blog-section img {
