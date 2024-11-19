@@ -7,6 +7,7 @@
     }
     .cont2 {
       width: 100%;
+      color: white;
     }
 } 
 
@@ -22,6 +23,7 @@
 
 @media screen and (min-width: 480px) {
   .cont2 {
+    color: white;
     width: 50%;
     margin: auto;
   }

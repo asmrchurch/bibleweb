@@ -15,10 +15,10 @@ function Blog() {
     <div>
       <Header />
       <div className="cont2">
-      <MarkDown path={`/blog/${id}`} />
-      </div>
-      <div className="return">
-      <a href="/blog">ブログ一覧</a>
+        <MarkDown path={`/blog/${id}`} />
+        <a href="/blog">ブログ一覧</a>
+        <div className="return">
+        </div>
       </div>
       <Footer />
     </div>

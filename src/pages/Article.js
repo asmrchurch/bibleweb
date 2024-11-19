@@ -15,10 +15,10 @@ function Article() {
     <div>
       <Header />
       <div className="cont2">
-      <MarkDown path={`/article/${id}`} />
-      </div>
-      <div className="return">
-      <a href="/article">記事一覧</a>
+        <MarkDown path={`/article/${id}`} />
+        <div className="return">
+        </div>
+        <a href="/article">記事一覧</a>
       </div>
       <Footer />
     </div>
