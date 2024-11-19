@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Bible from './pages/Bible';
 import Blog from './pages/Blog';
 import Article from './pages/Article';
+import Actor from './pages/Actor';
 import Sermon from './pages/Sermon';
 import Caption from './pages/Caption';
 import Manga from './pages/Manga';
@@ -18,6 +19,8 @@ function App() {
         <Route path="/bible/:section" element={<Bible />} />
         <Route path="/blog" element={<ListComponent type="blog" title={`ブログ`}/>} />
         <Route path="/blog/:id" element={<Blog />} />
+        <Route path="/actor/:id" element={<Actor />} />
+        <Route path="/actor" element={<ListComponent type="actor" title={`声優図鑑`}/>} />
         <Route path="/article/:id" element={<Article />} />
         <Route path="/article" element={<ListComponent type="article" title={`記事`}/>} />
         <Route path="/sermon/:id" element={<Sermon />} />
