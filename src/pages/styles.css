@@ -80,9 +80,13 @@ rt,rb {
     }
     .c3 {
         width: 50% !important;
+        text-align: right;
     }
     .c1 {
         width: 40% !important;
+    }
+    .c11 {
+        width: 0% !important;
     }
 }
 
@@ -127,10 +131,28 @@ html {
 .c1 {
     text-align: left;
     color: black;    
-    width: 80%;
+    width: 30%;
     font-size: 1em;
     padding: 0.4em 0.3em;
 }
+
+.ind {
+    margin: auto;
+    padding: 1em;
+}
+.pipe {
+    margin: auto;
+}
+
+.c11 {
+    text-align: left;
+    color: black;    
+    width: 55%;
+    text-align: right;
+    font-size: 1em;
+    padding: 0.4em 0.3em;
+}
+
 
 .c2 {
     color: white;    
@@ -138,8 +160,8 @@ html {
 
 .c3 {
     color: black;    
-    width: 17%;
-    text-align: right;
+    width: 15%;
+    text-align: center;
 }
 
 .al:hover {

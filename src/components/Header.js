@@ -4,12 +4,26 @@ import '../styles.css';
 import Ham from './Ham';
 
 function Header({ bible, title, description, url, image, subon }) {
-  const [pageType, setState] = useState('norm');
+  const [pageType, setPageType] = useState('norm');
+  const [isSmartphone, setIsSmartphone] = useState(false);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsSmartphone(window.innerWidth < 768);
+    };
+
+    // Initial check and listener for resize
+    handleResize();
+    window.addEventListener('resize', handleResize);
+
+    // Cleanup listener
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
   useEffect(() => {
     const urlParams = new URLSearchParams(window.location.search);
     const currentRuby = urlParams.get('type');
-    setState(currentRuby || 'norm');
+    setPageType(currentRuby || 'norm');
   }, []);
 
   const toggleRuby = () => {
@@ -27,7 +41,7 @@ function Header({ bible, title, description, url, image, subon }) {
     urlParams.set('type', newState);
     window.location.search = urlParams.toString(); // Reload the page with the new state
 
-    setState(newState); // Update the state
+    setPageType(newState); // Update the state
   };
 
   const toggleLang = () => {
@@ -43,7 +57,7 @@ function Header({ bible, title, description, url, image, subon }) {
     urlParams.set('type', newState);
     window.location.search = urlParams.toString(); // Reload the page with the new state
 
-    setState(newState); // Update the state
+    setPageType(newState); // Update the state
   };
 
   return (
@@ -56,7 +70,7 @@ function Header({ bible, title, description, url, image, subon }) {
           <title>{title || "ASMRキリスト教会"}</title>
           <meta name="description" content={description || "10代〜20代の若者へ..."} />
           <meta name="keywords" content="聖書, キリスト教, ASMR, 教会" />
-          
+
           {/* Open Graph / Facebook */}
           <meta property="og:type" content="article" />
           <meta property="og:title" content={title || "ASMRキリスト教会"} />
@@ -76,7 +90,26 @@ function Header({ bible, title, description, url, image, subon }) {
           <a href="/">聖書ASMR</a>
         </div>
 
+        <div className="c11">
+        {!isSmartphone && (
+               <span>
+               <span className="ind"><a href="/" >Home</a></span> 
+               <span className="pipe">| </span>
+               <span className="ind"><a href="/article/2">教会概要</a></span> 
+               <span className="pipe">| </span>
+               <span className="ind"><a href="/blog">Blog</a></span> 
+               <span className="pipe">| </span>
+               <span className="ind"><a href="/sermon">説教</a></span> 
+               <span className="pipe">| </span>
+               <span className="ind"><a href="/manga">漫画</a></span>
+               <span className="pipe">| </span>
+               <span className="ind"><a href="https://suzuri.jp/asmrchurch2">SHOP</a></span>
+               </span>
+        )}
+        </div>
+
         <div className="c3">
+
           <a target="_blank" rel="noopener noreferrer" href="https://x.com/asmrchurch">
             <img
               src={`${process.env.PUBLIC_URL}/static/images/x.png`}
@@ -100,9 +133,13 @@ function Header({ bible, title, description, url, image, subon }) {
           </a>
         </div>
 
-        <div className="ham">
-          <Ham />
-        </div>
+        {/* Render Ham only for smartphones */}
+        {isSmartphone && (
+          <div className="ham">
+            <Ham />
+          </div>
+        )}
+
       </div>
      
      {subon === true && (
