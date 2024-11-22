@@ -74,16 +74,23 @@ ul {
   color: black;
 }
 
-.kirikan {
+.symbol {
     margin: auto;
     transition: transform 0.3s ease, filter 0.3s ease;
     filter: brightness(0.8);
     border-radius: 10px;
 }
 
-.kirikan:hover {
+.symbol:hover {
   transform: scale(1.01) translateX(1px);
   filter: brightness(1.1);
+}
+
+.symbols {
+    max-width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 10px;
 }
 
 @media screen and (max-width: 959px) {

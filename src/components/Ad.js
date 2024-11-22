@@ -28,54 +28,76 @@ function Ad() {
         </div>
       </div>
 
-      <div className="">
-        <a target="_blank" rel="noopener noreferrer" href="https://www.dlsite.com/home/work/=/product_id/RJ433352.html">
-          <img 
-            src={`${process.env.PUBLIC_URL}/static/images/dlsite.png`}
-            alt="x" 
-            style={{ height: '35px' }}
-          />
-        </a>
-      </div>
+      <div className="symbols">
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.dlsite.com/home/work/=/product_id/RJ433352.html">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/dlsite.png`}
+              alt="x" 
+              style={{ height: '50px' }}
+            />
+          </a>
+        </div>
 
-      <div className="kirikan">
-        <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@asmrchurch">
-          <img 
-            src={`${process.env.PUBLIC_URL}/static/images/tube2.jpg`}
-            alt="x" 
-            style={{ height: '130px' }}
-          />
-        </a>
-      </div>
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@asmrchurch">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/youtube.png`}
+              alt="x" 
+              style={{ height: '80px' }}
+            />
+          </a>
+        </div>
 
-      <div className="kirikan">
-        <a target="_blank" rel="noopener noreferrer" href="https://www.pixiv.net/en/users/107379276">
-          <img 
-            src={`${process.env.PUBLIC_URL}/static/images/pixiv.jpg`}
-            alt="x" 
-            style={{ height: '130px' }}
-          />
-        </a>
-      </div>
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.pixiv.net/en/users/107379276">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/pixiv.png`}
+              alt="x" 
+              style={{ height: '50px' }}
+            />
+          </a>
+        </div>
 
-      <div className="kirikan">
-        <a target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/@sexybible">
-          <img 
-            src={`${process.env.PUBLIC_URL}/static/images/tiktok.jpg`}
-            alt="x"
-            style={{ height: '130px' }}
-          />
-        </a>
-      </div>
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.tiktok.com/@sexybible">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/tiktok.png`}
+              alt="x"
+              style={{ height: '50px' }}
+            />
+          </a>
+        </div>
 
-      <div className="kirikan">
-        <a target="_blank" rel="noopener noreferrer" href="https://asmrchruch.bandcamp.com/">
-          <img 
-            src={`${process.env.PUBLIC_URL}/static/images/bandcamp.jpg`}
-            alt="x"
-            style={{ height: '130px' }}
-          />
-        </a>
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://asmrchruch.bandcamp.com/">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/bandcamp.png`}
+              alt="x"
+              style={{ height: '70px' }}
+            />
+          </a>
+        </div>
+
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/wpwSjjnSs8">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/discord.png`}
+              alt="x"
+              style={{ height: '70px' }}
+            />
+          </a>
+        </div>
+
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://x.com/asmrchurch">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/x.png`}
+              alt="x"
+              style={{ height: '70px' }}
+            />
+          </a>
+        </div>
       </div>
     </div>
   );
