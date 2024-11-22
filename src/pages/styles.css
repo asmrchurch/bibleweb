@@ -83,7 +83,9 @@ rt,rb {
         text-align: right;
     }
     .c1 {
-        width: 40% !important;
+        width: 55% !important;
+        font-size: 0.9em !important;
+        vertical-align: center !important;
     }
     .c11 {
         width: 0% !important;
