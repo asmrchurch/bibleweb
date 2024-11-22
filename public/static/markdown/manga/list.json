@@ -1,8 +1,8 @@
 {
   "articles": [
-    "1",
-    "2",
-    "3",
-    "4"
+    { "id": "1", "creationDate": "" },
+    { "id": "2", "creationDate": "" },
+    { "id": "3", "creationDate": "" },
+    { "id": "4", "creationDate": "" }
   ]
 }

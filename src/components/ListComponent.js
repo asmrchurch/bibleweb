@@ -39,14 +39,18 @@ function ListComponent({ type, title }) {
     <div>
       <Header />
       <div className="blog-section-container">
-        <h1 class="kirikantitle">{title}</h1>
+        <h1 className="kirikantitle">{title}</h1>
         <hr />
         <div className="blog-list">
-          {currentArticles.map((id) => (
+          {currentArticles.map(({ id, title, creationDate }) => (
             <div key={id}>
-              <MarkDown path={`/${type}/${id}`} preview={true} type={type}/>
+              <MarkDown path={`/${type}/${id}`} preview={true} type={type} />
+              <div className="article-metadata">
+                <span className="article-title">{title}</span>
+                <span className="article-date">{creationDate}</span>
+              </div>
               <div className="readarticle">
-                  <a className="ttz" href={`/${type}/${id}`}> 続きを読む </a>
+                <a className="ttz" href={`/${type}/${id}`}> 続きを読む </a>
               </div>
               <hr />
             </div>
@@ -55,11 +59,13 @@ function ListComponent({ type, title }) {
         {/* Pagination controls */}
         <div className="pagination">
           <button onClick={prevPage} disabled={currentPage === 1}>
-           ← 
+            ←
           </button>
-          <span className="pagecount">{currentPage} / {Math.ceil(articles.length / postsPerPage)}</span>
+          <span className="pagecount">
+            {currentPage} / {Math.ceil(articles.length / postsPerPage)}
+          </span>
           <button onClick={nextPage} disabled={currentPage === Math.ceil(articles.length / postsPerPage)}>
-          →
+            →
           </button>
         </div>
       </div>
@@ -69,3 +75,4 @@ function ListComponent({ type, title }) {
 }
 
 export default ListComponent;
+

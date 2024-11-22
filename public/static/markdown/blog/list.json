@@ -1,12 +1,12 @@
 {
   "articles": [
-    "1",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7",
-    "8"
+    { "id": "1", "creationDate": "" },
+    { "id": "2", "creationDate": "" },
+    { "id": "3", "creationDate": "" },
+    { "id": "4", "creationDate": "" },
+    { "id": "5", "creationDate": "" },
+    { "id": "6", "creationDate": "" },
+    { "id": "7", "creationDate": "" },
+    { "id": "8", "creationDate": "" }
   ]
 }
