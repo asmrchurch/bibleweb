@@ -87,7 +87,7 @@ function Header({ bible, title, description, url, image, subon }) {
         </Helmet>
 
         <div className="c1">
-          <a href="/">✝ ASMRキリスト教会</a>
+          <a href="/">ASMRキリスト教会</a>
         </div>
 
         <div className="c11">
