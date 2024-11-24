@@ -1,5 +1,12 @@
 {
   "articles": [
-    { "id": "1", "creationDate": "2024-11-19" }
+    {
+      "id": "1",
+      "creationDate": "2024-11-19"
+    },
+    {
+      "id": "2",
+      "creationDate": "2024-11-24"
+    }
   ]
 }
