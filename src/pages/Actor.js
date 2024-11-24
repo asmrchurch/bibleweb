@@ -18,7 +18,7 @@ function Actor() {
         <MarkDown path={`/actor/${id}`} />
         <div className="return">
         </div>
-        <a href="/article">声優図鑑</a>
+        <a href="/actor">声優図鑑</a>
       </div>
       <Footer />
     </div>
