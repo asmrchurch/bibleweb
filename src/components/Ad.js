@@ -98,6 +98,17 @@ function Ad() {
             />
           </a>
         </div>
+
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://podcasts.apple.com/us/podcast/asmrキリスト教会/id1772229960">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/podcast.png`}
+              alt="x"
+              style={{ height: '50px' }}
+            />
+          </a>
+        </div>
+
       </div>
     </div>
   );
