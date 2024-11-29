@@ -21,6 +21,9 @@ function App() {
         <Route path="/blog/:id" element={<Blog />} />
         <Route path="/actor/:id" element={<Actor />} />
         <Route path="/actor" element={<ListComponent type="actor" title={`声優図鑑`}/>} />
+        <Route path="/english/:id" element={<Actor />} />
+        <Route path="/english" element={<ListComponent type="english" title={`英語講座`}/>} />
+
         <Route path="/article/:id" element={<Article />} />
         <Route path="/article" element={<ListComponent type="article" title={`記事`}/>} />
         <Route path="/sermon/:id" element={<Sermon />} />
