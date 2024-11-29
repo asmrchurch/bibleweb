@@ -17,6 +17,11 @@ function Ad() {
           </a>
         </div>
         <div>
+          <a target="_blank" rel="noopener noreferrer" href="/english">
+           聖書で学ぶ！受験英語🇬🇧
+          </a>
+        </div>
+        <div>
           <a target="_blank" rel="noopener noreferrer" href="/actor">
            聖書ASMR・声優図鑑
           </a>
