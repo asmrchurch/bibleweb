@@ -1,5 +1,7 @@
 start:
 	npm start
+pm2:
+	pm2 start server.js --name react-app
 kill:
 	sh ./scripts/kill.sh 
 run:
@@ -11,8 +13,9 @@ deploy:
 	sudo systemctl stop cron
 	git pull origin HEAD
 	npm run build
-	sh ./scripts/kill.sh 
-	sudo node server.js &
+	# sh ./scripts/kill.sh
+	# sudo node server.js &
+	pm2 reload server.js --name react-app
 	sudo systemctl start cron &
 open:
 	open https://keitaroemotion.github.io/bibleasmr/
@@ -24,3 +27,4 @@ setup:
 	npm install react-helmet
 	npm install react-share
 	npm install dotenv
+	npm install -g pm2
