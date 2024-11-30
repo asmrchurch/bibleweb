@@ -1,7 +1,7 @@
 start:
 	npm start
 pm2:
-	pm2 start server.js --name react-app
+	sudo pm2 start server.js --name react-app
 kill:
 	sh ./scripts/kill.sh 
 run:
@@ -15,7 +15,7 @@ deploy:
 	npm run build
 	# sh ./scripts/kill.sh
 	# sudo node server.js &
-	pm2 reload server.js --name react-app
+	sudo pm2 reload server.js --name react-app
 	sudo systemctl start cron &
 open:
 	open https://keitaroemotion.github.io/bibleasmr/
