@@ -12,7 +12,8 @@ deploy:
 	git pull origin HEAD
 	npm run build
 	sh ./scripts/kill.sh 
-	sudo node server.js &
+	# sudo node server.js &
+	npm start &
 	sudo systemctl start cron &
 open:
 	open https://keitaroemotion.github.io/bibleasmr/
