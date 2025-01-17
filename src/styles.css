@@ -157,6 +157,13 @@ em:hover {
     }
 }
 
+@media screen and (max-width: 1200px) {
+    .left-area,
+    .right-area {
+        display: none;
+    }
+}
+
 @media screen and (max-width: 480px) {
     .left-area,
     .right-area {
