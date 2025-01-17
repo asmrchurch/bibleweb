@@ -155,6 +155,9 @@ em:hover {
     .bottom2 {
       display: none; 
     }
+    .amensec {
+      height: 20px;
+    }
 }
 
 @media screen and (max-width: 1200px) {

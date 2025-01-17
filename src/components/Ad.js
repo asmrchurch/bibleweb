@@ -4,11 +4,24 @@ import './styles.css';
 function Ad() {
   return (
     <div className="section ad">
-     <h1>記事一覧</h1>
      <div className="">
+      <div className="amensec">
+      </div>
+      <div>
+      <stripe-buy-button
+  buy-button-id="buy_btn_1QiEyXJrEFc0aoshZrg6uGA0"
+  publishable-key="pk_live_51L77y9JrEFc0aoshDbT8faRDJBWQJjQTGvMb6jngK3GGGpMtIYf8omncPkMd8e0be0ZsfG2yEWaxYdMSlGSS9pgX00RNzmWvfw"
+>
+</stripe-buy-button>
+        </div>
         <div>
-          <a target="_blank" rel="noopener noreferrer" href="https://www.kirishin.com/2024/05/19/66663/">
-            メディア掲載: キリスト新聞様
+          <a target="_blank" rel="noopener noreferrer" href="/wiki">
+           聖書ASMRウィキ
+          </a>
+        </div>
+        <div>
+          <a target="_blank" rel="noopener noreferrer" href="/article/1">
+            いのちのASMR電話
           </a>
         </div>
         <div>
@@ -17,18 +30,8 @@ function Ad() {
           </a>
         </div>
         <div>
-          <a target="_blank" rel="noopener noreferrer" href="/wiki">
-           聖書ASMRウィキ
-          </a>
-        </div>
-        <div>
-          <a target="_blank" rel="noopener noreferrer" href="/actor">
-           聖書ASMR・声優図鑑
-          </a>
-        </div>
-        <div>
-          <a target="_blank" rel="noopener noreferrer" href="/article/1">
-            いのちのASMR電話
+          <a target="_blank" rel="noopener noreferrer" href="https://www.kirishin.com/2024/05/19/66663/">
+            メディア掲載: キリスト新聞様
           </a>
         </div>
       </div>
