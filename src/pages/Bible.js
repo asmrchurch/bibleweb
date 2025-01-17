@@ -25,11 +25,41 @@ function Bible() {
 
   return (
     <div className="bibleframe">
-      <Header bible={true} subon={true}/>
-      <div className="content">
-        <section>
-          <div dangerouslySetInnerHTML={{ __html: content }} />
-        </section>
+      <Header bible={true} subon={true} />
+      <div className="flex-container">
+        <div className="left-area">
+          <span className="pad">
+      <stripe-buy-button
+  buy-button-id="buy_btn_1QiEyXJrEFc0aoshZrg6uGA0"
+  publishable-key="pk_live_51L77y9JrEFc0aoshDbT8faRDJBWQJjQTGvMb6jngK3GGGpMtIYf8omncPkMd8e0be0ZsfG2yEWaxYdMSlGSS9pgX00RNzmWvfw"
+>
+</stripe-buy-button>
+          </span>
+        </div>
+    
+        <div className="content">
+          <section>
+            <div dangerouslySetInnerHTML={{ __html: content }} />
+          </section>
+        </div>
+    
+        <div className="right-area">
+          <span className="pad">
+            <iframe
+              style={{
+                border: 0,
+                width: '100%',
+                height: '80%',
+              }}
+              src="https://bandcamp.com/EmbeddedPlayer/album=3869678226/size=large/bgcol=333333/linkcol=e99708/transparent=true/"
+              seamless
+            >
+              <a href="https://asmrchruch.bandcamp.com/album/asmr-32">
+                旧​​​約​​​聖​​​書​​​ASMR​​​｜​​​詩篇 by ASMRキリスト教会
+              </a>
+            </iframe>
+          </span>
+        </div>
       </div>
       <Footer />
     </div>

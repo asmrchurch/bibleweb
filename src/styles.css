@@ -86,12 +86,39 @@ rt {
     padding: 0 5px; 
 }
 
-.content {
-    padding: 3.5em 0;
+.left-area,
+.right-area {
+    position: fixed;
+    top: 50px;
+    height: 100vh;
+    width: 20%;
     color: white;
+    padding: 1em; /* Add padding for content */
+    box-sizing: border-box;
+}
+
+.left-area {
+    left: 0; /* Fix to the left edge */
+}
+
+.right-area {
+    right: 67px; /* Fix to the right edge */
+}
+
+.content {
+    color: white; /* Retain text color */
+    text-align: left; /* Retain text alignment */
     width: 50%;
-    text-align: left;
-    margin: auto !important;
+    box-sizing: border-box; /* Include padding in width calculations */
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center; /* Center content */
+    align-items: flex-start; /* Align items at the top */
+    width: 100%; /* Full width */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
 }
 
 .bibleframe {
@@ -124,8 +151,20 @@ em:hover {
     color: white;
 }
 
+@media screen and (min-width: 480px) {
+    .bottom2 {
+      display: none; 
+    }
+}
+
 @media screen and (max-width: 480px) {
+    .left-area,
+    .right-area {
+        display: none;
+    }
+
     .content {
+        padding: 3.3em 0;
         margin: auto !important;
         width: 90%;
     }
