@@ -9,6 +9,30 @@ function Bible() {
   const [searchParams, setSearchParams] = useSearchParams();
   const [content, setContent] = useState('');
 
+  const sectionMap = {
+    psalms: '3869678226',
+    john: "3493586185",
+    nahum: "2341997426",
+    joel: "1554179965",
+    haggai: "2264983860",
+    luke: "3571744779",
+    philippians: "160214243",
+    titus: "4084456418",
+    jonah: "3140582404",
+    songofsongs: "1335264384",
+    ecclesiastes: "3906097047",
+    "2samuel": "4072766808",
+    lamentations: "1475919099",
+    leviticus: "2606473253",
+    mark: "2251790182",
+    zephaniah: "3193855292",
+    numbers: "777940117",
+    genesis: '1234567890',
+    exodus: '9876543210',
+  };
+
+  const album = sectionMap[section] || '3869678226';
+
   useEffect(() => {
     let type = searchParams.get('type');
 
@@ -51,12 +75,10 @@ function Bible() {
                 width: '100%',
                 height: '80%',
               }}
-              src="https://bandcamp.com/EmbeddedPlayer/album=3869678226/size=large/bgcol=333333/linkcol=e99708/transparent=true/"
+              src={`https://bandcamp.com/EmbeddedPlayer/album=${album}/size=large/bgcol=333333/linkcol=e99708/transparent=true/`}
               seamless
             >
-              <a href="https://asmrchruch.bandcamp.com/album/asmr-32">
-                旧​​​約​​​聖​​​書​​​ASMR​​​｜​​​詩篇 by ASMRキリスト教会
-              </a>
+              <a href="https://asmrchruch.bandcamp.com/album/asmr-32"></a>
             </iframe>
           </span>
         </div>
