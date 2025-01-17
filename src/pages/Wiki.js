@@ -9,13 +9,13 @@ import '../blog.css';
 
 function Wiki() {
   const [markdown, setMarkdown] = useState('');
-  const { name } = useParams();
+  const { id } = useParams();
 
   return (
     <div>
       <Header />
       <div className="cont2">
-        <MarkDown path={`/wiki/${name}`} />
+        <MarkDown path={`/wiki/${id}`} />
         <div className="return">
         </div>
         <a href="/wiki">Wiki一覧</a>
