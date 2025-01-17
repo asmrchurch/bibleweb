@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "ジャン・カルバン",
+      "creationDate": "2025-01-17"
+    },
+    {
+      "id": "2",
+      "title": "三位一体",
+      "creationDate": "2025-01-17"
+    },
+    {
+      "id": "3",
+      "title": "プロテスタント",
+      "creationDate": "2025-01-17"
+    }
+  ]
+}
