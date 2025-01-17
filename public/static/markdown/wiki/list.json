@@ -1,29 +1,34 @@
 {
-  "articles": [
-    {
-      "id": "1",
-      "title": "ジャン・カルバン",
-      "creationDate": "2025-01-17"
-    },
-    {
-      "id": "2",
-      "title": "三位一体",
-      "creationDate": "2025-01-17"
-    },
-    {
-      "id": "3",
-      "title": "プロテスタント",
-      "creationDate": "2025-01-17"
-    },
-    {
-      "id": "4",
-      "title": "聖路加国際病院",
-      "creationDate": "2025-01-17"
-    },
-    {
-      "id": "5",
-      "title": "イエス・キリスト",
-      "creationDate": "2025-01-18"
-    }
-  ]
+    "articles": [
+        {
+            "id": "1",
+            "title": "\u30b8\u30e3\u30f3\u30fb\u30ab\u30eb\u30d0\u30f3",
+            "creationDate": "2025-01-17"
+        },
+        {
+            "id": "2",
+            "title": "\u4e09\u4f4d\u4e00\u4f53",
+            "creationDate": "2025-01-17"
+        },
+        {
+            "id": "3",
+            "title": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8",
+            "creationDate": "2025-01-17"
+        },
+        {
+            "id": "4",
+            "title": "\u8056\u8def\u52a0\u56fd\u969b\u75c5\u9662",
+            "creationDate": "2025-01-17"
+        },
+        {
+            "id": "5",
+            "title": "\u30a4\u30a8\u30b9\u30fb\u30ad\u30ea\u30b9\u30c8",
+            "creationDate": "2025-01-18"
+        },
+        {
+            "id": "6",
+            "title": "\u6551\u4e16\u8ecd",
+            "creationDate": "2025-01-18"
+        }
+    ]
 }
