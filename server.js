@@ -8,7 +8,7 @@ app.use(express.static('build'));
 
 app.use((req, res, next) => {
     const userIP = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
-    const logMessage = `${new Date().toISOString()} - IP: ${userIP} - ${req.method} ${req.url}\n`;
+    const logMessage = `${new Date().toISOString()} - IP: ${userIP} - ${req.method} ${req.url}`;
 
     console.log(logMessage);
 
