@@ -4,7 +4,7 @@ const path = require('path');
 
 const app = express();
 
-app.use(express.static('build'));
+app.use(express.static(path.join(__dirname, 'build')));
 
 app.use((req, res, next) => {
     const userIP = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
