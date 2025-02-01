@@ -1,17 +1,21 @@
 const express = require('express');
+const fs = require('fs');
 const path = require('path');
+
 const app = express();
 
-// Serve the static files from the React app
-app.use(express.static(path.join(__dirname, 'build')));
+app.use(express.static('build'));
 
-// Handles any requests that don't match the ones above
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+app.use((req, res, next) => {
+    const userIP = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
+    const logMessage = `${new Date().toISOString()} - IP: ${userIP} - ${req.method} ${req.url}\n`;
+
+    console.log(logMessage);
+
+    fs.appendFileSync(path.join(__dirname, 'access.log'), logMessage);
+
+    next();
 });
 
-const port = process.env.PORT || 80;
-app.listen(port, () => {
-  console.log(`Server is running on port ${port}`);
-});
-
+const PORT = process.env.PORT || 80;
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
