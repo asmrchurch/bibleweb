@@ -118,7 +118,7 @@ function Ad() {
         </div>
 
         <div className="symbol">
-          <a target="_blank" rel="noopener noreferrer" href="https://x.com/asmrchurch">
+          <a target="_blank" rel="noopener noreferrer" href="https://note.com/asmrchurch">
             <img 
               src={`${process.env.PUBLIC_URL}/static/images/note.png`}
               alt="x"
