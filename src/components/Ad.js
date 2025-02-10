@@ -117,6 +117,17 @@ function Ad() {
           </a>
         </div>
 
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://x.com/asmrchurch">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/note.png`}
+              alt="x"
+              style={{ height: '50px' }}
+            />
+          </a>
+        </div>
+
+
       </div>
     </div>
   );

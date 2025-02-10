@@ -95,7 +95,7 @@ function Header({ bible, title, description, url, image, subon }) {
                <span>
                <span className="ind"><a href="/" >Home</a></span> 
                <span className="pipe">| </span>
-               <span className="ind"><a href="/article/2">教会概要</a></span> 
+               <span className="ind"><a href="/article/2">概要</a></span> 
                <span className="pipe">| </span>
                <span className="ind"><a href="/blog">Blog</a></span> 
                <span className="pipe">| </span>
@@ -109,26 +109,11 @@ function Header({ bible, title, description, url, image, subon }) {
         </div>
 
         <div className="c3">
-
-          <a target="_blank" rel="noopener noreferrer" href="https://x.com/asmrchurch">
-            <img
-              src={`${process.env.PUBLIC_URL}/static/images/x.png`}
-              alt="X (formerly Twitter) logo"
-              style={{ width: '50px' }}
-            />
-          </a>
           <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@asmrchurch">
             <img
+              className="logo"
               src={`${process.env.PUBLIC_URL}/static/images/youtube.png`}
               alt="YouTube logo"
-              style={{ width: '50px' }}
-            />
-          </a>
-          <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/wpwSjjnSs8">
-            <img
-              src={`${process.env.PUBLIC_URL}/static/images/discord.png`}
-              alt="Discord logo"
-              style={{ width: '50px' }}
             />
           </a>
         </div>
