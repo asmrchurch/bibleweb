@@ -127,6 +127,27 @@ function Ad() {
           </a>
         </div>
 
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://store.line.me/stickershop/product/15455680">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/chibipanda.jpg`}
+              alt="x" 
+              style={{ width: '100%' }}
+            />
+          </a>
+        </div>
+        <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://store.line.me/stickershop/product/15364918">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/chibiyome.jpg`}
+              alt="x" 
+              style={{ width: '100%' }}
+            />
+          </a>
+        </div>
+
+
+
 
       </div>
     </div>

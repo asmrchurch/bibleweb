@@ -74,7 +74,7 @@ function Header({ bible, title, description, url, image, subon }) {
           {/* Open Graph / Facebook */}
           <meta property="og:type" content="article" />
           <meta property="og:title" content={title || "ASMRキリスト教会"} />
-          <meta property="og:description" content={description || "10代〜20代の若者へ..."} />
+          <meta property="og:description" content={description || "口語訳聖書 旧約：1955年版・新約：1954年版 ルビ付き・振り仮名付き"} />
           <meta property="og:url" content={url || "https://www.asmrchurch.com"} />
           <meta property="og:image" content={image || "https://www.asmrchurch.com/static/images/kirikan.jpg"} />
 
