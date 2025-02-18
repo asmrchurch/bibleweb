@@ -132,23 +132,14 @@ function Ad() {
             <img 
               src={`${process.env.PUBLIC_URL}/static/images/chibipanda.jpg`}
               alt="x" 
-              style={{ width: '100%' }}
+              style={{ width: '375px' }}
             />
           </a>
         </div>
+
         <div className="symbol">
-          <a target="_blank" rel="noopener noreferrer" href="https://store.line.me/stickershop/product/15364918">
-            <img 
-              src={`${process.env.PUBLIC_URL}/static/images/chibiyome.jpg`}
-              alt="x" 
-              style={{ width: '100%' }}
-            />
-          </a>
+          <iframe height="162" width="375" src="https://suzuri.jp/asmrchurch2/17265152/full-graphic-t-shirt/xl/white/embed"></iframe>
         </div>
-
-
-
-
       </div>
     </div>
   );
