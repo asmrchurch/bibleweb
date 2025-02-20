@@ -142,13 +142,9 @@ function Ad() {
             <img 
               src={`${process.env.PUBLIC_URL}/static/images/chibipanda.jpg`}
               alt="x" 
-              style={{ width: '375px' }}
+              style={{ width: '100%' }}
             />
           </a>
-        </div>
-
-        <div className="symbol">
-          <iframe height="162" width="375" src="https://suzuri.jp/asmrchurch2/17265152/full-graphic-t-shirt/xl/white/embed"></iframe>
         </div>
       </div>
     </div>
