@@ -128,9 +128,9 @@ function Ad() {
         </div>
 
         <div className="symbol">
-          <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/c/asmrchurch">
+          <a target="_blank" rel="noopener noreferrer" href="https://asmrchurch.booth.pm/">
             <img 
-              src={`${process.env.PUBLIC_URL}/static/images/pat.png`}
+              src={`${process.env.PUBLIC_URL}/static/images/booth.svg`}
               alt="x"
               style={{ height: '50px' }}
             />
