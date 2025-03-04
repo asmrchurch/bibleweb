@@ -148,6 +148,16 @@ function Ad() {
         </div>
 
         <div className="symbol">
+          <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/posts/123580385?pr=true">
+            <img 
+              src={`${process.env.PUBLIC_URL}/static/images/irmz.jpeg`}
+              alt="x"
+              style={{ width: '100%' }}
+            />
+          </a>
+        </div>
+
+        <div className="symbol">
           <a target="_blank" rel="noopener noreferrer" href="https://store.line.me/stickershop/product/15455680">
             <img 
               src={`${process.env.PUBLIC_URL}/static/images/chibipanda.jpg`}
