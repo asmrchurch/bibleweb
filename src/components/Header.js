@@ -83,7 +83,7 @@ function Header({ bible, title, description, url, image, subon }) {
           <meta name="twitter:title" content={title || "ASMRキリスト教会"} />
           <meta name="twitter:description" content={description || "10代〜20代の若者へ..."} />
           <meta name="twitter:url" content={url || "https://www.asmrchurch.com"} />
-          <meta name="twitter:image" content={image || "https://www.asmrchurch.com/static/images/kirikan.jpg"} />
+          <meta name="twitter:image" content={image || "https://www.asmrchurch.com/static/images/i4.jpg"} />
         </Helmet>
 
         <div className="c1">
