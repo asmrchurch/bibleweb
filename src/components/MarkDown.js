@@ -34,7 +34,7 @@ function MarkDown({ path, preview, type }) {
   }, [path]);
 
   // If preview mode is on, only show the first three lines
-  const previewContent = preview ? markdown.split('\n').slice(0, 1).join('\n') : markdown;
+  const previewContent = preview ? markdown.split('\n').slice(0, 10).join('\n') : markdown;
 
   return (
     <div>

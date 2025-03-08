@@ -47,7 +47,6 @@ function ListComponent({ type, title }) {
               <MarkDown path={`/${type}/${id}`} preview={true} type={type} />
               <div className="article-metadata">
                 <span className="article-title">{title}</span>
-                <span className="article-date">{creationDate}</span>
               </div>
               <div className="readarticle">
                 <a className="ttz" href={`/${type}/${id}`}> 続きを読む </a>
