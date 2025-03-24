@@ -84,6 +84,15 @@ function Header({ bible, title, description, url, image, subon }) {
           <meta name="twitter:description" content={description || "10代〜20代の若者へ..."} />
           <meta name="twitter:url" content={url || "https://www.asmrchurch.com"} />
           <meta name="twitter:image" content={image || "https://www.asmrchurch.com/static/images/i4.jpg"} />
+          <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16949700128"></script>
+          <script>
+            {`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'AW-16949700128');
+            `}
+          </script>
         </Helmet>
 
         <div className="c1">
