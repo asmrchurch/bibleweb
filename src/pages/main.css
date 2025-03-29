@@ -38,6 +38,7 @@
 }
 .grid-text-description {
     color: white !important;
+    font-size: 0.8rem !important;
 }
 
 .grid-object img {
@@ -87,5 +88,8 @@
   .grid-text {
     max-width: 100%; /* Ensure text takes full width */
     padding: 1em;
+  }
+  .grid-text-description {
+      font-size: 1rem !important;
   }
 }
