@@ -15,6 +15,11 @@ function Ad() {
 </stripe-buy-button>
         </div>
         <div>
+          <a target="_blank" rel="noopener noreferrer" href="/characters">
+           キャラクター紹介
+          </a>
+        </div>
+        <div>
           <a target="_blank" rel="noopener noreferrer" href="/wiki">
            聖書ASMRウィキ
           </a>

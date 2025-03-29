@@ -13,6 +13,7 @@ import Manga from './pages/Manga';
 import Pay from './pages/Pay';
 import ListComponent from './components/ListComponent';
 import WikiComponent from './components/WikiComponent';
+import Characters from './pages/Characters';
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
         <Route path="/sermon/:id" element={<Sermon />} />
         <Route path="/manga/:id" element={<Manga />} />
         <Route path="/manga" element={<ListComponent type="manga" title={`漫画`}/>} />
+        <Route path="/characters" element={<Characters />} />
         <Route path="/sermon" element={<ListComponent type="sermon" title={`説教`}/>} />
         <Route path="/caption" element={<Caption />} />
         <Route path="/pay" element={<Pay />} />

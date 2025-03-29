@@ -1,2 +1,93 @@
+.gridbox {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  padding: 1rem;
+  color: #FFD700;
+}
+
 .body {
+}
+
+.gridtitlepad {
+    height: 50px;
+}
+.gridtitle {
+    color: #FFD700 !important;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.grid-object {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
+.grid-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align text to the left */
+  justify-content: flex-start; /* Align text to the top */
+  height: 200px;
+}
+
+.grid-text-title {
+    height: 20%;
+}
+.grid-text-description {
+    height: 80%;
+    color: white !important;
+}
+
+.grid-object img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  margin-right: 1rem;
+}
+
+.grid-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 200px;
+}
+
+.grid-text h3 {
+  font-size: 1.125rem; /* ~text-lg */
+  font-weight: bold;
+  margin: 0;
+}
+
+.grid-text p {
+  font-size: 0.875rem; /* ~text-sm */
+  color: #4B5563; /* Tailwind's gray-600 */
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .grid-object {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .gridbox {
+    grid-template-columns: 1fr; /* Single column */
+  }
+  .grid-text {
+    padding: 1em;
+    text-align: left;
+  }
+  .grid-text h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0;
+  }
+  .grid-text-description {
+    font-size: 1em !important;
+    padding: 0;
+  }
 }
