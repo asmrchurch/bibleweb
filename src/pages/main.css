@@ -67,25 +67,25 @@
 }
 
 @media (max-width: 768px) {
+  .gridbox {
+    grid-template-columns: 1fr; /* Switch to 1 column */
+  }
+
   .grid-object {
-    flex-direction: column;
+    flex-direction: column; /* Stack image on top of text */
     align-items: center;
     text-align: center;
+    width: 100%; /* Ensure full width */
+    padding-bottom: 1rem; /* Adds spacing between items */
   }
-  .gridbox {
-    grid-template-columns: 1fr; /* Single column */
+
+  .grid-object img {
+    margin-right: 0; /* Remove right margin when stacked */
+    margin-bottom: 1rem; /* Space between image and text */
   }
+
   .grid-text {
+    max-width: 100%; /* Ensure text takes full width */
     padding: 1em;
-    text-align: left;
-  }
-  .grid-text h3 {
-    font-size: 1.5em;
-    font-weight: bold;
-    margin: 0;
-  }
-  .grid-text-description {
-    font-size: 1em !important;
-    padding: 0;
   }
 }
