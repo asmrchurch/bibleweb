@@ -110,7 +110,7 @@ function Header({ bible, title, description, url, image, subon }) {
                <span className="pipe">| </span>
                <span className="ind"><a href="/sermon">説教</a></span> 
                <span className="pipe">| </span>
-               <span className="ind"><a href="/manga">漫画</a></span>
+               <span className="ind"><a href="/qa">Q&A</a></span>
                <span className="pipe">| </span>
                <span className="ind"><a href="https://suzuri.jp/asmrchurch2">SHOP</a></span>
                </span>

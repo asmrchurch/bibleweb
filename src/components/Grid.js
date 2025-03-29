@@ -2,7 +2,7 @@ import React from "react";
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 
-const GridComponent = ({ title, data }) => {
+const GridComponent = ({ title, data, dir }) => {
   return (
     <div>
       <Header />
@@ -11,10 +11,11 @@ const GridComponent = ({ title, data }) => {
       <div className="gridbox">
         {data.map((item) => {
           const imgSrc = item.image
-            ? `/static/images/chars/${item.image}`
+            ? `/static/images/${dir}/${item.image}`
             : "/static/images/chars/default.jpg";
 
           return (
+            <a href={item.url}>
             <div key={item.id} className="grid-object">
               <img src={imgSrc} alt={item.title} className="icon-1" />
               <div className="grid-text">
@@ -22,6 +23,7 @@ const GridComponent = ({ title, data }) => {
                 <p className="grid-text-description">{item.description}</p>
               </div>
             </div>
+            </a>
           );
         })}
       </div>
