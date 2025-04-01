@@ -15,7 +15,7 @@ const GridComponent = ({ title, data, dir }) => {
             : "/static/images/chars/default.jpg";
 
           return (
-            <a href={item.url}>
+            <a href="blog/{item.id}">
             <div key={item.id} className="grid-object">
               <img src={imgSrc} alt={item.title} className="icon-1" />
               <div className="grid-text">
