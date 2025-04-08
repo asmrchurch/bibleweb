@@ -44,7 +44,7 @@ function ListComponent({ type, title }) {
         <div className="blog-list">
           {currentArticles.map(({ id, title, creationDate }) => (
             <div key={id}>
-              <MarkDown path={`/${type}/${id}`} preview={true} type={type} />
+              <MarkDown path={`/${type}/${id}`} preview={true} type={type} creationDate={creationDate} />
               <div className="article-metadata">
                 <span className="article-title">{title}</span>
               </div>
