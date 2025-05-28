@@ -62,28 +62,26 @@ function Header({ bible, title, description, url, image, subon }) {
 
   return (
     <div>
+
       <div className="header">
         <Helmet>
-          <meta charSet="UTF-8" />
-          <link rel="icon" href="/static/favicon/favicon.ico" />
-          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-          <title>{title || "ASMRキリスト教会"}</title>
-          <meta name="description" content={description || "10代〜20代の若者へ..."} />
-          <meta name="keywords" content="聖書, キリスト教, ASMR, 教会" />
-
-          {/* Open Graph / Facebook */}
-          <meta property="og:type" content="article" />
-          <meta property="og:title" content={title || "ASMRキリスト教会"} />
-          <meta property="og:description" content={description || "口語訳聖書 旧約：1955年版・新約：1954年版 ルビ付き・振り仮名付き"} />
-          <meta property="og:url" content={url || "https://www.asmrchurch.com"} />
-          <meta property="og:image" content={image || "https://www.asmrchurch.com/static/images/i4.jpg"} />
-
-          {/* Twitter */}
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content={title || "ASMRキリスト教会"} />
-          <meta name="twitter:description" content={description || "10代〜20代の若者へ..."} />
-          <meta name="twitter:url" content={url || "https://www.asmrchurch.com"} />
-          <meta name="twitter:image" content={image || "https://www.asmrchurch.com/static/images/i4.jpg"} />
+          <script>
+            {`
+              !function(e,t,n,s,u,a){
+                e.twq||(s=e.twq=function(){
+                  s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+                },
+                s.version='1.1',
+                s.queue=[],
+                u=t.createElement(n),
+                u.async=!0,
+                u.src='https://static.ads-twitter.com/uwt.js',
+                a=t.getElementsByTagName(n)[0],
+                a.parentNode.insertBefore(u,a))
+              }(window,document,'script');
+              twq('config','puq2w');
+            `}
+          </script>
           <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16949700128"></script>
           <script>
             {`
@@ -93,6 +91,27 @@ function Header({ bible, title, description, url, image, subon }) {
               gtag('config', 'AW-16949700128');
             `}
           </script>
+        
+          <meta charSet="UTF-8" />
+          <link rel="icon" href="/static/favicon/favicon.ico" />
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <title>{title || "ASMRキリスト教会"}</title>
+          <meta name="description" content={description || "10代〜20代の若者へ..."} />
+          <meta name="keywords" content="聖書, キリスト教, ASMR, 教会" />
+        
+          {/* Open Graph / Facebook */}
+          <meta property="og:type" content="article" />
+          <meta property="og:title" content={title || "ASMRキリスト教会"} />
+          <meta property="og:description" content={description || "口語訳聖書 旧約：1955年版・新約：1954年版 ルビ付き・振り仮名付き"} />
+          <meta property="og:url" content={url || "https://www.asmrchurch.com"} />
+          <meta property="og:image" content={image || "https://www.asmrchurch.com/static/images/i4.jpg"} />
+        
+          {/* Twitter */}
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:title" content={title || "ASMRキリスト教会"} />
+          <meta name="twitter:description" content={description || "10代〜20代の若者へ..."} />
+          <meta name="twitter:url" content={url || "https://www.asmrchurch.com"} />
+          <meta name="twitter:image" content={image || "https://www.asmrchurch.com/static/images/i4.jpg"} />
         </Helmet>
 
         <div className="c1">
