@@ -82,6 +82,11 @@ function Header({ bible, title, description, url, image, subon }) {
               twq('config','puq2w');
             `}
           </script>
+          <script>
+            {`
+              twq('event', 'Purchase'); // or use 'tw-puq2w-puq2x' only if that's a custom event defined in your campaign
+            `}
+          </script>
           <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16949700128"></script>
           <script>
             {`
