@@ -7,8 +7,6 @@ current_date=$(date +"%Y%m%d")
 LOGFILE="/home/ubuntu/bibleweb/logs/$current_date.log"
 LOCK="/home/ubuntu/bibleweb/logs/LOCK"
 
-clean
-
 if [ ! -f $LOCK ]; then
     touch $LOCK
 
