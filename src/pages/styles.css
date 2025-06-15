@@ -49,6 +49,13 @@ rt,rb {
     margin-left: 20px;      
 }
 
+.container2 {
+    margin: auto;
+    padding: 4em;
+    width: 50%;
+    color: #FFD700;
+}
+
 .container {
     display: flex;
     justify-content: space-between;
