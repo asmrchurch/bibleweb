@@ -16,6 +16,7 @@ import WikiComponent from './components/WikiComponent';
 import Characters from './pages/Characters';
 import Seiroku from './pages/Seiroku';
 import Qa from './pages/qa';
+import Privacy from './pages/Privacy';
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
         <Route path="/sermon" element={<ListComponent type="sermon" title={`説教`}/>} />
         <Route path="/caption" element={<Caption />} />
         <Route path="/pay" element={<Pay />} />
+        <Route path="/privacy" element={<Privacy />} />
       </Routes>
     </Router>
   );
