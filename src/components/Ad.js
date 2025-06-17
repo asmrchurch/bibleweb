@@ -133,26 +133,6 @@ function Ad() {
         </div>
 
         <div className="symbol">
-          <a target="_blank" rel="noopener noreferrer" href="https://asmrchurch.booth.pm/">
-            <img 
-              src={`${process.env.PUBLIC_URL}/static/images/booth.svg`}
-              alt="x"
-              style={{ height: '50px' }}
-            />
-          </a>
-        </div>
-
-        <div className="symbol">
-          <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/asmrchurch">
-            <img 
-              src={`${process.env.PUBLIC_URL}/static/images/pat.png`}
-              alt="x"
-              style={{ height: '50px' }}
-            />
-          </a>
-        </div>
-
-        <div className="symbol">
           <a target="_blank" rel="noopener noreferrer" href="https://store.line.me/stickershop/product/15455680">
             <img 
               src={`${process.env.PUBLIC_URL}/static/images/chibipanda.jpg`}
