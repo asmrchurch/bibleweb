@@ -82,6 +82,16 @@ rt,rb {
         padding: 1.5em 0em;
         font-size: 1.5em;
     }
+    .container2 {
+        width: 90%;
+        padding: 2em 1em;
+    }
+    .video-embed iframe {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 16 / 9;
+        margin-bottom: 1em;
+    }
     .ham {
         width: 10% !important;
     }

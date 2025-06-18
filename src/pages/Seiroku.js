@@ -33,7 +33,7 @@ function Seiroku() {
 
   return (
     <div className="body">
-      <Header subon={true} />
+      <Header />
       <div className="container2">
         <br />
         <div className="video-embed">
