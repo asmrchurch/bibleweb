@@ -40,6 +40,15 @@ function MarkDown({ path, preview, type }) {
               <span class="author">By 斎藤アンナ</span>
             </div>`
           );
+        } else if (updatedText.includes('[claude]')) {
+          updatedText = updatedText.replace(/\[claude\]/g, 
+            `<div class="author-inline">
+              <span class="iconpos">
+                <img src='/static/images/claude.png' alt="Claude" class="author-inline-icon" />
+              </span>
+              <span class="author">By Claude</span>
+            </div>`
+          );
         } else if (updatedText.includes('[sugano]')) {
           updatedText = updatedText.replace(/\[sugano\]/g, 
             `<div class="author-inline">
