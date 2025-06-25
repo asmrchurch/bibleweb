@@ -1,0 +1,118 @@
+.chapter-navigation {
+  background-color: black;
+  padding: 5px 0 0 0;
+  margin-top: 100px;
+  margin-bottom: -60px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.chapter-nav-container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-label {
+  font-weight: bold;
+  background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  white-space: nowrap;
+  font-size: 14px;
+}
+
+.chapter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  flex: 1;
+  overflow-x: auto;
+  padding: 0;
+}
+
+.chapter-btn {
+  min-width: 35px;
+  height: 35px;
+  padding: 5px 10px;
+  border: 2px solid transparent;
+  background-color: black;
+  background-image: linear-gradient(black, black), linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  color: #ffd700;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.chapter-btn:hover {
+  transform: translateY(-1px);
+  color: #ffcc00;
+  box-shadow: 0 2px 8px rgba(255, 215, 0, 0.3);
+}
+
+.chapter-btn.active {
+  background: linear-gradient(45deg, #ffd700, #daa520, #ffcc00, #b8860b);
+  color: black;
+  border: 2px solid #ffd700;
+}
+
+.chapter-btn:focus {
+  outline: 2px solid #007bff;
+  outline-offset: 2px;
+}
+
+/* Mobile responsive design */
+@media (max-width: 768px) {
+  .chapter-navigation {
+    margin-top: 80px;
+    width: 90%;
+  }
+  
+  .chapter-nav-container {
+    padding: 0 10px;
+    gap: 10px;
+  }
+  
+  .nav-label {
+    font-size: 12px;
+  }
+  
+  .chapter-btn {
+    min-width: 30px;
+    height: 30px;
+    font-size: 12px;
+    padding: 4px 8px;
+  }
+  
+  .chapter-buttons {
+    max-width: calc(100vw - 100px);
+  }
+}
+
+/* Scrollbar styling for chapter buttons */
+.chapter-buttons::-webkit-scrollbar {
+  height: 6px;
+}
+
+.chapter-buttons::-webkit-scrollbar-track {
+  background: #222;
+  border-radius: 3px;
+}
+
+.chapter-buttons::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #ffd700, #daa520);
+  border-radius: 3px;
+}
+
+.chapter-buttons::-webkit-scrollbar-thumb:hover {
+  background: #ffd700;
+}

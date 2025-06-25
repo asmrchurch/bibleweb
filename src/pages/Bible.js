@@ -3,11 +3,13 @@ import { useParams, useSearchParams } from 'react-router-dom';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import PayComponent from '../components/PayComponent';
+import ChapterNavigation from '../components/ChapterNavigation';
 
 function Bible() {
   const { section } = useParams();
   const [searchParams, setSearchParams] = useSearchParams();
   const [content, setContent] = useState('');
+  const [currentChapter, setCurrentChapter] = useState('');
 
   const sectionMap = {
     psalms: '3869678226',
@@ -51,6 +53,11 @@ function Bible() {
   return (
     <div className="bibleframe">
       <Header bible={true} subon={true} />
+      <ChapterNavigation 
+        htmlContent={content} 
+        currentChapter={currentChapter}
+        onChapterClick={setCurrentChapter}
+      />
       <div className="flex-container">
         <div className="left-area">
           <span className="pad">
