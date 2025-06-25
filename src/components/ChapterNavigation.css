@@ -74,7 +74,10 @@
 @media (max-width: 768px) {
   .chapter-navigation {
     margin-top: 80px;
-    width: 90%;
+    margin-bottom: -60px;
+    width: 100%;
+    position: relative;
+    z-index: 10;
   }
   
   .chapter-nav-container {
@@ -91,6 +94,8 @@
     height: 30px;
     font-size: 12px;
     padding: 4px 8px;
+    position: relative;
+    z-index: 11;
   }
   
   .chapter-buttons {
