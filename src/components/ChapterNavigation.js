@@ -10,14 +10,29 @@ function ChapterNavigation({ htmlContent, currentChapter, onChapterClick }) {
       const parser = new DOMParser();
       const doc = parser.parseFromString(htmlContent, 'text/html');
       
-      // Find all h3 elements with chapter IDs
-      const chapterElements = doc.querySelectorAll('h3[id^="c"]');
-      const chapterList = Array.from(chapterElements).map((elem) => {
-        const id = elem.id;
-        const number = parseInt(id.substring(1));
-        const text = elem.textContent;
-        return { id, number, text };
-      });
+      // Find all h3 elements with chapter IDs (normal version)
+      let chapterElements = doc.querySelectorAll('h3[id^="c"]');
+      let chapterList = [];
+      
+      if (chapterElements.length > 0) {
+        // Normal version structure
+        chapterList = Array.from(chapterElements).map((elem) => {
+          const id = elem.id;
+          const number = parseInt(id.substring(1));
+          const text = elem.textContent;
+          return { id, number, text };
+        });
+      } else {
+        // Ruby version structure - look for div.chapter with numeric IDs
+        const rubyChapterElements = doc.querySelectorAll('div.chapter[id]');
+        chapterList = Array.from(rubyChapterElements).map((elem) => {
+          const id = elem.id;
+          const number = parseInt(id);
+          const h3 = elem.querySelector('h3.chapter');
+          const text = h3 ? h3.textContent : `第${number}章`;
+          return { id, number, text };
+        });
+      }
       
       setChapters(chapterList);
     }
