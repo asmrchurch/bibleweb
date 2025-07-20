@@ -20,6 +20,16 @@ function Ad() {
           </a>
         </div>
         <div>
+          <a href="/article/3">
+           使徒信条
+          </a>
+        </div>
+        <div>
+          <a href="/article/4">
+           主の祈り
+          </a>
+        </div>
+        <div>
           <a target="_blank" rel="noopener noreferrer" href="/wiki">
            聖書ASMRウィキ
           </a>
