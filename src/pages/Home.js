@@ -14,6 +14,7 @@ function Home() {
   const [type, setType] = useState('ja');
   const [oldTitle, setOldTitle] = useState('旧約聖書');
   const [newTitle, setNewTitle] = useState('新約聖書');
+  const [deuteroTitle, setDeuteroTitle] = useState('外典');
 
   useEffect(() => {
     let urlType = searchParams.get('type') || 'norm';
@@ -27,6 +28,7 @@ function Home() {
     // Update titles based on type
     setOldTitle(urlType === 'en' ? 'The Old Testament' : '旧約聖書');
     setNewTitle(urlType === 'en' ? 'The New Testament' : '新約聖書');
+    setDeuteroTitle(urlType === 'en' ? 'Deuterocanonical Books' : '外典');
   }, [searchParams, setSearchParams]);
 
   return (
@@ -110,6 +112,21 @@ function Home() {
             ['3john', 'ヨハネの第三の手紙'],
             ['jude', 'ユダの手紙'],
             ['revelation', 'ヨハネの黙示録']
+          ]}
+        />
+        <br/>
+        <BibleList
+          title={deuteroTitle}
+          type={type}
+          books={[
+            ['tobit', 'トビト書'],
+            ['judith', 'ユディト書'],
+            ['wisdom', '知恵の書'], 
+            ['sirach', 'シラ書'],
+            ['baruch', 'バルク書'],
+            ['1maccabees', 'マカバイ記第一'],
+            ['2maccabees', 'マカバイ記第二'],
+            ['susanna', 'スザンナ']
           ]}
         />
         <br/>

@@ -47,6 +47,7 @@ function Ham() {
           <li className="hmb"><a href="https://note.com/asmrchurch/m/m1c9750805e96" onClick={handleLinkClick}>Blog</a></li>
           <li className="hmb"><a href="/sermon" onClick={handleLinkClick}>説教</a></li>
           <li className="hmb"><a href="/seiroku" onClick={handleLinkClick}>聖録</a></li>
+          <li className="hmb"><a href="/deuterocanonical" onClick={handleLinkClick}>外典</a></li>
           <li className="hmb"><a href="/qa" onClick={handleLinkClick}>Q&A</a></li>
           <li className="hmb"><a href="https://suzuri.jp/asmrchurch2" onClick={handleLinkClick}>SHOP</a></li>
         </ul>

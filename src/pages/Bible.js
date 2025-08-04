@@ -32,13 +32,26 @@ function Bible() {
     numbers: "777940117",
     genesis: '1234567890',
     exodus: '9876543210',
+    // Deuterocanonical books
+    tobit: '3869678226',
+    judith: '3869678226',
+    wisdom: '3869678226',
+    sirach: '3869678226',
+    baruch: '3869678226',
+    '1maccabees': '3869678226',
+    '2maccabees': '3869678226',
+    susanna: '3869678226',
   };
 
   const album = sectionMap[section] || '3869678226';
 
   useEffect(() => {
     let type = searchParams.get('type');
+    
+    // List of deuterocanonical books
+    const deuterocanonicalBooks = ['tobit', 'judith', 'wisdom', 'sirach', 'baruch', '1maccabees', '2maccabees', 'susanna'];
 
+    // For all books, use existing logic to validate type
     if (!['norm', 'ruby', 'en'].includes(type)) {
       type = 'norm';
       setSearchParams({ type });
@@ -48,7 +61,7 @@ function Bible() {
       .then(response => response.text())
       .then(data => setContent(data))
       .catch(error => console.error('Error loading the HTML content:', error));
-  }, [section, searchParams, setSearchParams]); // Include setSearchParams as a dependency
+  }, [section, searchParams, setSearchParams]);
 
   return (
     <div className="bibleframe">

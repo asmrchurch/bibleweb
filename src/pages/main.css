@@ -48,6 +48,93 @@
   margin-right: 1rem;
 }
 
+.intro {
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.books-list {
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.books-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.books-list li {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 4px;
+  border-left: 4px solid #FFD700;
+}
+
+.books-list strong {
+  color: #FFD700;
+  font-size: 1.1rem;
+}
+
+.books-list p {
+  margin: 0.5rem 0 0 0;
+  color: #ccc;
+}
+
+.downloads {
+  padding: 2rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.pdf-list {
+  list-style: none;
+  padding: 0;
+}
+
+.pdf-list li {
+  margin-bottom: 1rem;
+}
+
+.download-link {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #FFD700;
+  color: #000;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.download-link:hover {
+  background-color: #FFC700;
+}
+
+.copyright-info {
+  padding: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  margin-top: 3rem;
+}
+
+.copyright-info p {
+  color: #ccc;
+  line-height: 1.6;
+}
+
+.book-link {
+  color: #FFD700;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.book-link:hover {
+  color: #FFC700;
+  text-decoration: underline;
+}
+
 .grid-text {
   display: flex;
   flex-direction: column;

@@ -1,0 +1,4773 @@
+
+--- PAGE 1 ---
+
+--- PAGE 2 ---
+ii
+The World English Bible
+Catholic Book Order
+The World English Bible isinthePublic Domain. That means that itisnotcopyrighted. However, "World English Bible" isa
+Trademark ofeBible.org.
+Youmay copy, publish, proclaim, distribute, redistribute, sell,give away, quote, memorize, read publicly, broadcast, transmit, share,
+back up,post ontheInternet, print, reproduce, preach, teach from, andusetheWorld English Bible asmuch asyouwant, andothers
+may also doso.Allweaskisthat ifyouCHANGE theactual textoftheWorld English Bible inanyway, younotcalltheresult the
+World English Bible anymore. This istoavoid confusion, nottolimit your freedom. TheHoly Bible isGod's Word. Itbelongs toGod.
+Hegave ittousfreely, andwewho have worked onthistranslation freely give ittoyoubydedicating ittothePublic Domain.
+Donations tohelp with theexpenses ofthisproject andthus help others have free access totheWord ofGod may bemade tous,but
+arenotrequired. Please seehttps:// MLJohnson.org/ partner/ formore about that.
+Although wearedone with theediting forlanguage updates, wemight choose toconsider corrections ofobvious typos orproblems
+inthetranslation. Any updates willbeposted onhttps:// eBible.org/ web/ andathttps:// WorldEnglish.Bible .
+2020 stable textedition
+PDF generated using Haiola andXeLaTeX on30Jul2025 from source files dated 30Jul2025
+044da338-72f4-59fd-a332-e4c118f1b116
+--- PAGE 3 ---
+Contents
+Genesis ..............1
+Exodus ..............56
+Leviticus .............103
+Numbers .............137
+Deuteronomy ..........185
+Joshua ..............225
+Judges ..............252
+Ruth ...............279
+1Samuel .............283
+2Samuel .............318
+1Kings ..............347
+2Kings ..............381
+1Chronicles ...........414
+2Chronicles ...........445
+Ezra ................483
+Nehemiah ............495DC
+Tobit ...............511
+Judith ...............522
+Esther (Greek) .........539
+1Maccabees ..........551
+2Maccabees ..........587
+Job ................615
+Psalms ..............648
+Proverbs .............730
+Ecclesiastes ...........758
+Song ofSolomon ........767
+Wisdom ofSolomon ......773
+Sirach ..............795
+Isaiah ...............848
+Jeremiah .............910
+Lamentations ..........977
+Baruch ..............984
+Ezekiel ..............992
+Daniel (Greek) .........1049
+Hosea ...............1072
+Joel ................1082
+Amos ...............1086
+Obadiah .............1094
+Jonah ...............1096
+Micah ...............1099
+Nahum ..............1105
+Habakkuk ............1107
+Zephaniah ............1110
+Haggai ..............1113
+Zechariah ............1115
+Malachi .............1125
+NT
+Matthew .............1128
+Mark ...............1165
+Luke ...............1188
+John ...............1227
+Acts ................1257
+Romans .............1295
+1Corinthians ..........1311
+2Corinthians ..........1326
+Galatians ............1336
+Ephesians ............1341
+Philippians ...........1347
+Colossians ............1351
+1Thessalonians ........1355
+2Thessalonians ........1358
+1Timothy ............1360
+2Timothy ............1364
+Titus ...............1367
+Philemon ............1369
+Hebrews .............1370
+James ...............1382
+1Peter ..............1386
+2Peter ..............1391
+1John ..............1394
+2John ..............1398
+3John ..............1399
+--- PAGE 4 ---
+iv
+Jude ................1400
+Revelation ............1402
+--- PAGE 5 ---
+Genesis 1:1 1 Genesis 1:28
+The First Book ofMoses,
+Commonly Called
+Genesis
+1Inthe beginning, God †created the
+heavens andtheearth.
+2The earth was formless and empty.
+Darkness was onthesurface ofthedeep
+and God ’sSpirit was hovering over the
+surface ofthewaters.
+3God said, “Letthere belight, ”andthere
+waslight.
+4God saw thelight, and saw that itwas
+good. God divided thelight from thedark-
+ness.
+5Godcalled thelight “day ”,andthedark-
+ness hecalled “night ”.There was evening
+andthere wasmorning, thefirst day.
+6God said, “Letthere beanexpanse in
+themiddle ofthewaters, and letitdivide
+thewaters from thewaters. ”
+7God made theexpanse, and divided
+thewaters which were under theexpanse
+from thewaters which were above the
+expanse; anditwasso.
+8God called theexpanse “sky”.There
+was evening and there was morning, a
+second day.
+9God said, “Letthewaters under thesky
+begathered together tooneplace, and let
+thedryland appear; ”anditwasso.
+10God called thedryland “earth ”,and
+thegathering together ofthewaters he
+called “seas ”.God sawthat itwasgood.
+11God said, “Lettheearth yield grass,
+herbs yielding seeds, and fruit trees bear-
+ingfruit after their kind, with their seeds
+init,ontheearth; ”anditwasso.
+12Theearth yielded grass, herbs yielding
+seed after their kind, and trees bearing
+fruit, with their seeds init,after their kind;
+andGod sawthat itwasgood.
+13There was evening and there was
+morning, athird day.
+14God said, “Letthere belights inthe
+expanse oftheskytodivide thedayfrom
+thenight; andletthem beforsigns tomark
+seasons, days, andyears;15and letthem beforlights intheex-
+panse oftheskytogive light ontheearth; ”
+anditwasso.
+16God made thetwo great lights: the
+greater light torule theday, andthelesser
+light torule thenight. Healso made the
+stars.
+17God setthem intheexpanse ofthesky
+togive light totheearth,
+18and torule over theday and over
+thenight, and todivide thelight from the
+darkness. God sawthat itwasgood.
+19There was evening and there was
+morning, afourth day.
+20God said, “Letthewaters abound with
+living creatures, andletbirds flyabove the
+earth intheopen expanse ofthesky. ”
+21God created thelarge seacreatures
+andevery living creature that moves, with
+which thewaters swarmed, after their
+kind, andevery winged bird after itskind.
+God sawthat itwasgood.
+22God blessed them, saying, “Befruitful,
+and multiply, and fillthewaters inthe
+seas, andletbirds multiply ontheearth. ”
+23There was evening and there was
+morning, afifth day.
+24Godsaid, “Lettheearth produce living
+creatures after their kind, livestock, creep-
+ingthings, and animals oftheearth after
+their kind; ”anditwasso.
+25God made theanimals oftheearth
+after their kind, and thelivestock after
+their kind, and everything that creeps on
+theground after itskind. God saw that it
+wasgood.
+26God said, “Let’smake man inourim-
+age, after our likeness. Letthem have
+dominion over thefishofthesea,andover
+thebirds ofthesky,andover thelivestock,
+and over alltheearth, and over every
+creeping thing that creeps ontheearth. ”
+27God created man inhisown image.
+InGod ’simage hecreated him; male and
+female hecreated them.
+28God blessed them. God said tothem,
+“Befruitful, multiply, filltheearth, and
+subdue it.Have dominion over thefish
+ofthesea, over thebirds ofthesky, and
+†1:1TheHebrew word rendered “God ”is“אֱֹלהִ֑ים ”(Elohim).
+--- PAGE 6 ---
+Genesis 1:29 2 Genesis 2:23
+over every living thing that moves onthe
+earth. ”
+29God said, “Behold, ‡Ihave given you
+every herb yielding seed, which isonthe
+surface ofalltheearth, and every tree,
+which bears fruit yielding seed. Itwillbe
+your food.
+30Toevery animal oftheearth, and to
+every bird ofthesky, and toeverything
+that creeps ontheearth, inwhich there
+islife, Ihave given every green herb for
+food; ”anditwasso.
+31Godsaweverything thathehadmade,
+and, behold, itwas very good. There was
+evening and there was morning, asixth
+day.
+2
+1The heavens, theearth, and alltheir
+vast array were finished.
+2Ontheseventh day God finished his
+work which hehaddone; andherested on
+theseventh dayfrom allhiswork which he
+haddone.
+3God blessed theseventh day,andmade
+itholy, because herested initfrom allhis
+work ofcreation which hehaddone.
+4This isthehistory ofthegenerations
+oftheheavens andoftheearth when they
+were created, intheday that theLORD †
+God made theearth andtheheavens.
+5Noplant ofthefield was yetinthe
+earth, and noherb ofthefield had yet
+sprung up; fortheLORD God had not
+caused ittorain ontheearth. There was
+notaman totilltheground,
+6butamist went upfrom theearth, and
+watered thewhole surface oftheground.
+7The LORD God formed man from the
+dust oftheground, and breathed into his
+nostrils thebreath oflife;andman became
+aliving soul.
+8The LORD God planted agarden east-
+ward, inEden, and there heputtheman
+whom hehadformed.
+9Outoftheground theLORD God made
+every tree togrow that ispleasant tothe
+sight, andgood forfood, including thetreeoflifeinthemiddle ofthegarden andthe
+tree oftheknowledge ofgood andevil.
+10Ariver went outofEden towater the
+garden; andfrom there itwas parted, and
+became thesource offour rivers.
+11Thename ofthefirst isPishon: itflows
+through thewhole land ofHavilah, where
+there isgold;
+12andthegold ofthat land isgood. Bdel-
+lium ‡andonyx stone arealso there.
+13Thename ofthesecond river isGihon.
+Itisthesame river that flows through the
+whole land ofCush.
+14The name ofthethird river isHid-
+dekel. This istheonewhich flows infront
+ofAssyria. The fourth river istheEu-
+phrates.
+15TheLORD God took theman, and put
+him into thegarden ofEden tocultivate
+andkeep it.
+16TheLORD God commanded theman,
+saying, “Youmay freely eatofevery treeof
+thegarden;
+17butyoushall noteatofthetree ofthe
+knowledge ofgood andevil; forintheday
+that youeatofit,youwillsurely die. ”
+18TheLORD God said, “Itisnotgood for
+theman tobealone. Iwill make him a
+helper comparable to§him. ”
+19Out ofthe ground the LORD God
+formed every animal ofthefield, and ev-
+erybird ofthesky,andbrought them tothe
+man toseewhat hewould callthem. What-
+ever theman called every living creature
+became itsname.
+20The man gave names toalllivestock,
+and tothebirds ofthesky, and toevery
+animal ofthefield; butforman there was
+notfound ahelper comparable tohim.
+21TheLORD God caused theman tofall
+intoadeep sleep. Astheman slept, hetook
+oneofhisribs, andclosed uptheflesh inits
+place.
+22The LORD God made awoman from
+theribwhich hehadtaken from theman,
+andbrought hertotheman.
+23Theman said, “This isnow bone ofmy
+bones, and flesh ofmyflesh. Shewill be
+‡1:29 “Behold ”,from “נֵּה͏ הִ ”,means look at,take notice, observe, see,orgaze at.Itisoften used asaninterjection.
+†2:4When rendered inALL CAPITAL LETTERS, “LORD ”or“GOD ”isthetranslation ofGod ’sProper Name (Hebrew
+“יהוה” ,usually pronounced Yahweh). ‡2:12 or,aromatic resin §2:18 or,suitable for,orappropriate for.
+--- PAGE 7 ---
+Genesis 2:24 3 Genesis 3:22
+called ‘woman, ’because shewastaken out
+ofMan. ”
+24Therefore aman willleave hisfather
+andhismother, andwilljoinwith hiswife,
+andthey willbeoneflesh.
+25The man and hiswife were both
+naked, andthey were notashamed.
+3
+1Now theserpent was more subtle than
+any animal ofthefield which theLORD
+Godhadmade. Hesaid tothewoman, “Has
+God really said, ‘You shall noteatofany
+tree ofthegarden ’?”
+2The woman said totheserpent, “We
+may eatfruit from thetrees ofthegarden,
+3butnotthefruit ofthetree which isin
+themiddle ofthegarden. God hassaid,
+‘Youshall noteatofit.Youshall nottouch
+it,lestyoudie. ’ ”
+4The serpent said tothewoman, “You
+won ’treally die,
+5forGod knows that inthedayyoueat
+it,your eyes will beopened, and youwill
+belikeGod, knowing good andevil. ”
+6When thewoman sawthatthetreewas
+good forfood, and that itwas adelight
+totheeyes, and that thetree was tobe
+desired tomake onewise, shetook some of
+itsfruit, andate.Then shegave some toher
+husband with her,andheateit,too.
+7Their eyes were opened, andthey both
+knew that they were naked. They sewed
+figleaves together, andmade coverings for
+themselves.
+8They heard theLORD God ’svoice walk-
+inginthegarden inthecool oftheday,and
+theman andhiswife hidthemselves from
+thepresence oftheLORD God among the
+trees ofthegarden.
+9The LORD God called totheman, and
+said tohim, “Where areyou? ”
+10The man said, “Iheard your voice in
+thegarden, andIwasafraid, because Iwas
+naked; soIhidmyself. ”
+11God said, “Who toldyouthat youwere
+naked? Have youeaten from thetree that
+Icommanded younottoeatfrom? ”
+12Theman said, “Thewoman whom you
+gave tobewith me,shegave mefruit from
+thetree, andIateit.”13The LORD God said tothewoman,
+“What have youdone? ”
+Thewoman said, “Theserpent deceived
+me,andIate. ”
+14TheLORD God said totheserpent,
+“Because youhave done this,
+youarecursed above alllivestock,
+andabove every animal ofthefield.
+Youshall goonyour belly
+and you shall eatdust allthedays of
+your life.
+15Iwillputhostility between youand the
+woman,
+and between your offspring and her
+offspring.
+Hewillbruise your head,
+andyouwillbruise hisheel. ”
+16Tothewoman hesaid,
+“Iwillgreatly multiply your pain inchild-
+birth.
+Youwillbear children inpain.
+Your desire willbeforyour husband,
+andhewillrule over you. ”
+17ToAdam hesaid,
+“Because youhave listened toyour wife ’s
+voice,
+andhave eaten from thetree,
+about which Icommanded you, say-
+ing, ‘Youshall noteatofit,’
+theground iscursed foryour sake.
+Youwilleatfrom itwith much labor allthe
+days ofyour life.
+18Itwill yield thorns and thistles to
+you;
+andyouwilleattheherb ofthefield.
+19Youwilleatbread bythesweat ofyour
+face until youreturn totheground,
+foryouwere taken outofit.
+Foryouaredust,
+andyoushall return todust. ”
+20The man called hiswife Evebecause
+shewould bethemother ofalltheliving.
+21TheLORD God made garments ofan-
+imal skins forAdam and forhiswife, and
+clothed them.
+22TheLORD God said, “Behold, theman
+hasbecome likeoneofus,knowing good
+and evil. Now, lesthereach outhishand,
+andalsotake ofthetreeoflife,andeat,and
+liveforever —”
+--- PAGE 8 ---
+Genesis 3:23 4 Genesis 4:25
+23Therefore theLORD God sent him out
+from thegarden ofEden, totilltheground
+from which hewastaken.
+24Sohedrove outtheman; andheplaced
+cherubim †attheeast ofthegarden of
+Eden, and aflaming sword which turned
+every way, toguard theway tothetree of
+life.
+4
+1Theman knew †Evehiswife. Shecon-
+ceived, ‡andgave birth toCain, andsaid, “I
+have gotten aman with theLORD ’shelp. ”
+2Again shegave birth, toCain ’sbrother
+Abel. Abel was akeeper ofsheep, butCain
+wasatiller oftheground.
+3Astime passed, Cain brought anof-
+fering totheLORD from thefruit ofthe
+ground.
+4Abel also brought some ofthefirstborn
+ofhisflock and ofitsfat. The LORD re-
+spected Abel andhisoffering,
+5buthedidn ’trespect Cain andhisoffer-
+ing. Cain was very angry, and theexpres-
+sion onhisface fell.
+6The LORD said toCain, “Why areyou
+angry? Why hastheexpression ofyour
+face fallen?
+7Ifyoudowell, won ’titbelifted up? If
+youdon ’tdowell, sincrouches atthedoor.
+Itsdesire isforyou, butyouaretorule over
+it.”
+8Cain said toAbel, hisbrother, “Let’sgo
+intothefield. ”While they were inthefield,
+Cain rose upagainst Abel, hisbrother, and
+killed him.
+9TheLORD said toCain, “Where isAbel,
+your brother? ”
+Hesaid, “Idon ’tknow. AmImybrother ’s
+keeper? ”
+10TheLORD said, “What have youdone?
+Thevoice ofyour brother ’sblood cries to
+mefrom theground.
+11Now you arecursed because ofthe
+ground, which has opened itsmouth to
+receive your brother ’sblood from your
+hand.
+12From now on, when you tillthe
+ground, itwon ’tyield itsstrength toyou.Youwillbeafugitive andawanderer inthe
+earth. ”
+13Cain said totheLORD, “Mypunish-
+ment isgreater than Icanbear.
+14Behold, youhave driven meouttoday
+from thesurface oftheground. Iwill be
+hidden from your face, andIwillbeafugi-
+tiveandawanderer intheearth. Whoever
+finds mewillkillme. ”
+15The LORD said tohim, “Therefore
+whoever slays Cain, vengeance will be
+taken onhim sevenfold. ”The LORD ap-
+pointed asign forCain, sothat anyone
+finding him would notstrike him.
+16Cain lefttheLORD ’spresence, and
+lived intheland ofNod, east ofEden.
+17Cain knew hiswife. She conceived,
+and gave birth toEnoch. Hebuilt acity,
+and named thecityafter thename ofhis
+son, Enoch.
+18Irad was born toEnoch. Irad became
+thefather ofMehujael. Mehujael became
+thefather ofMethushael. Methushael be-
+came thefather ofLamech.
+19Lamech took twowives: thename of
+thefirst onewasAdah, andthename ofthe
+second onewasZillah.
+20Adah gave birth toJabal, who was the
+father ofthose who dwell intents andhave
+livestock.
+21Hisbrother ’sname was Jubal, who
+was thefather ofallwho handle theharp
+andpipe.
+22Zillah also gave birth toTubal Cain,
+theforger ofevery cutting instrument of
+bronze and iron. Tubal Cain ’ssister was
+Naamah.
+23Lamech said tohiswives,
+“Adah andZillah, hear myvoice.
+You wives ofLamech, listen tomy
+speech,
+forIhave slain aman forwounding me,
+ayoung man forbruising me.
+24IfCain willbeavenged seven times,
+truly Lamech seventy-seven times. ”
+25Adam knew hiswife again. Shegave
+birth toason, and named him Seth, say-
+ing, “forGod hasgiven meanother child
+instead ofAbel, forCain killed him. ”
+†3:24 cherubim arepowerful angelic creatures, messengers ofGod with wings. SeeEzekiel 10. †4:1or,laywith,
+or,hadrelations with ‡4:1or,became pregnant
+--- PAGE 9 ---
+Genesis 4:26 5 Genesis 6:1
+26Asonwas also born toSeth, and he
+named himEnosh. Atthattime men began
+tocallontheLORD ’sname.
+5
+1This isthebook ofthegenerations of
+Adam. InthedaythatGodcreated man, he
+made him inGod ’slikeness.
+2Hecreated them male andfemale, and
+blessed them. Onthedaythey were cre-
+ated, henamed them Adam. †
+3Adam lived onehundred thirty years,
+andbecame thefather ofasoninhisown
+likeness, after hisimage, and named him
+Seth.
+4Thedays ofAdam after hebecame the
+father ofSeth were eight hundred years,
+andhebecame thefather ofother sons and
+daughters.
+5Allthedays that Adam lived were nine
+hundred thirty years, then hedied.
+6Seth lived onehundred fiveyears, then
+became thefather ofEnosh.
+7Seth lived after hebecame thefather of
+Enosh eight hundred seven years, andbe-
+came thefather ofother sons and daugh-
+ters.
+8Allofthedays ofSeth were nine hun-
+dred twelve years, then hedied.
+9Enosh lived ninety years, and became
+thefather ofKenan.
+10Enosh lived after hebecame thefa-
+ther ofKenan eight hundred fifteen years,
+and became thefather ofother sons and
+daughters.
+11Allofthedays ofEnosh were nine
+hundred fiveyears, then hedied.
+12Kenan lived seventy years, then be-
+came thefather ofMahalalel.
+13Kenan lived after hebecame thefather
+ofMahalalel eight hundred forty years,
+and became thefather ofother sons and
+daughters
+14andallofthedays ofKenan were nine
+hundred tenyears, then hedied.
+15Mahalalel lived sixty-five years, then
+became thefather ofJared.
+16Mahalalel lived after hebecame the
+father ofJared eight hundred thirty years,
+and became thefather ofother sons and
+daughters.17Allofthedays ofMahalalel were eight
+hundred ninety-five years, then hedied.
+18Jared lived one hundred sixty-two
+years, then became thefather ofEnoch.
+19Jared lived after hebecame thefather
+ofEnoch eight hundred years, andbecame
+thefather ofother sons anddaughters.
+20Allofthedays ofJared were nine hun-
+dred sixty-two years, then hedied.
+21Enoch lived sixty-five years, then be-
+came thefather ofMethuselah.
+22After Methuselah ’sbirth, Enoch
+walked with God forthree hundred years,
+and became thefather ofmore sons and
+daughters.
+23Allthedays ofEnoch were three hun-
+dred sixty-five years.
+24Enoch walked with God, and hewas
+notfound, forGod took him.
+25Methuselah lived onehundred eighty-
+seven years, then became thefather of
+Lamech.
+26Methuselah lived after hebecame the
+father ofLamech seven hundred eighty-
+twoyears, andbecame thefather ofother
+sons anddaughters.
+27Allthedays ofMethuselah were nine
+hundred sixty-nine years, then hedied.
+28Lamech lived onehundred eighty-two
+years, then became thefather ofason.
+29Henamed himNoah, saying, “This one
+willcomfort usinourwork andinthetoil
+ofourhands, caused bytheground which
+theLORD hascursed. ”
+30Lamech lived after hebecame the
+father ofNoah five hundred ninety-five
+years, andbecame thefather ofother sons
+anddaughters.
+31Allthedays ofLamech were seven
+hundred seventy-seven years, then he
+died.
+32Noah wasfivehundred years old,then
+Noah became thefather ofShem, Ham,
+andJapheth.
+6
+1When men began tomultiply onthe
+surface oftheground, anddaughters were
+born tothem,
+†5:2 “Adam ”and “Man ”arespelled with theexact same consonants inHebrew, sothiscanbecorrectly translated
+either way.
+--- PAGE 10 ---
+Genesis 6:2 6 Genesis 7:6
+2God ’ssons saw that men ’sdaughters
+were beautiful, andthey took anythatthey
+wanted forthemselves aswives.
+3The LORD said, “MySpirit will not
+strive with man forever, because healso
+isflesh; sohisdays will beone hundred
+twenty years. ”
+4The Nephilim †were intheearth in
+those days, and also after that, when
+God ’ssons came intomen ’sdaughters
+and had children with them. Those were
+themighty men who were ofold, men of
+renown.
+5The LORD saw that thewickedness of
+man wasgreat intheearth, andthat every
+imagination ofthethoughts ofman ’sheart
+wascontinually only evil.
+6TheLORD was sorry that hehadmade
+man ontheearth, anditgrieved him inhis
+heart.
+7The LORD said, “Iwill destroy man
+whom Ihave created from thesurface
+oftheground —man, along with animals,
+creeping things, and birds ofthesky—for
+Iamsorry that Ihave made them. ”
+8ButNoah found favor intheLORD ’s
+eyes.
+9This isthehistory ofthegenerations of
+Noah: Noah was arighteous man, blame-
+less among thepeople ofhistime. Noah
+walked with God.
+10Noah became thefather ofthree sons:
+Shem, Ham, andJapheth.
+11Theearth wascorrupt before God, and
+theearth wasfilled with violence.
+12God sawtheearth, andsawthat itwas
+corrupt, forallflesh had corrupted their
+way ontheearth.
+13God said toNoah, “Iwillbring anend
+toallflesh, fortheearth isfilled with vio-
+lence through them. Behold, Iwilldestroy
+them andtheearth.
+14Make aship ofgopher wood. Youshall
+make rooms intheship, and shall seal it
+inside andoutside with pitch.
+15This ishow you shall make it.The
+length oftheship shall bethree hundred
+cubits, ‡itswidth fifty cubits, anditsheight
+thirty cubits.16Youshall make aroof intheship, and
+youshall finish ittoacubit upward. You
+shall setthedoor oftheship initsside. You
+shall make itwith lower, second, andthird
+levels.
+17I,even I,willbring theflood ofwaters
+onthisearth, todestroy allflesh having the
+breath oflifefrom under thesky. Every-
+thing that isintheearth willdie.
+18ButIwillestablish mycovenant with
+you. You shall come into theship, you,
+your sons, your wife, andyour sons ’wives
+with you.
+19Ofevery living thing ofallflesh, you
+shall bring twoofevery sort into theship,
+tokeep them alive with you. They shall be
+male andfemale.
+20Ofthebirds after their kind, ofthelive-
+stock after their kind, ofevery creeping
+thing oftheground after itskind, two of
+every sort will come toyou, tokeep them
+alive.
+21Take with yousome ofallfood that is
+eaten, andgather ittoyourself; anditwill
+beforfood foryou, andforthem. ”
+22Thus Noah did. Hedidallthat God
+commanded him.
+7
+1TheLORD said toNoah, “Come with all
+ofyour household into theship, forIhave
+seen your righteousness before meinthis
+generation.
+2You shall take seven pairs ofevery
+clean animal with you, themale and his
+female. Oftheanimals that arenotclean,
+take two, themale andhisfemale.
+3Also ofthebirds ofthesky,seven and
+seven, male andfemale, tokeep seed alive
+onthesurface ofalltheearth.
+4Inseven days, Iwillcause ittorain on
+theearth forforty days andforty nights. I
+willdestroy every living thing that Ihave
+made from thesurface oftheground. ”
+5Noah dideverything that theLORD
+commanded him.
+6Noah was sixhundred years oldwhen
+theflood ofwaters came ontheearth.
+†6:4or,giants ‡6:15 Acubit isthelength from thetipofthemiddle finger totheelbow onaman ’sarm, orabout
+18inches or46centimeters.
+--- PAGE 11 ---
+Genesis 7:7 7 Genesis 8:13
+7Noah went into theship with hissons,
+hiswife, andhissons ’wives, because ofthe
+floodwaters.
+8Clean animals, unclean animals, birds,
+andeverything that creeps ontheground
+9went bypairs toNoah into theship,
+male and female, asGod commanded
+Noah.
+10After theseven days, thefloodwaters
+came ontheearth.
+11Inthesixhundredth year ofNoah ’s
+life, inthesecond month, ontheseven-
+teenth dayofthemonth, onthatdayallthe
+fountains ofthegreat deep burst open, and
+thesky’swindows opened.
+12Itrained ontheearth forty days and
+forty nights.
+13Inthesame day Noah, and Shem,
+Ham, andJapheth —thesons ofNoah —and
+Noah ’swife andthethree wives ofhissons
+with them, entered into theship —
+14they, and every animal after itskind,
+allthelivestock after their kind, every
+creeping thing that creeps ontheearth
+after itskind, andevery bird after itskind,
+every bird ofevery sort.
+15Pairs from allflesh with thebreath of
+lifeinthem went into theship toNoah.
+16Those who went in,went inmale and
+female ofallflesh, asGod commanded
+him; then theLORD shut him in.
+17Theflood was forty days ontheearth.
+The waters increased, and lifted upthe
+ship, anditwaslifted upabove theearth.
+18Thewaters rose, andincreased greatly
+ontheearth; and theship floated onthe
+surface ofthewaters.
+19Thewaters rose very high ontheearth.
+Allthehigh mountains thatwere under the
+whole skywere covered.
+20Thewaters rose fifteen cubits †higher,
+andthemountains were covered.
+21Allflesh died that moved ontheearth,
+including birds, livestock, animals, every
+creeping thing that creeps ontheearth,
+andevery man.
+22Allonthedryland, inwhose nostrils
+wasthebreath ofthespirit oflife,died.
+23Every living thing was destroyed that
+was onthesurface oftheground, includ-ingman, livestock, creeping things, and
+birds ofthesky.They were destroyed from
+theearth. Only Noah was left, and those
+who were with him intheship.
+24Thewaters flooded theearth onehun-
+dred fifty days.
+8
+1God remembered Noah, alltheani-
+mals, and allthelivestock that were with
+him intheship; and God made awind to
+pass over theearth. Thewaters subsided.
+2Thedeep ’sfountains andthesky’swin-
+dows were alsostopped, andtherain from
+theskywasrestrained.
+3The waters continually receded from
+theearth. After theend ofone hundred
+fifty days thewaters receded.
+4Theship rested intheseventh month,
+ontheseventeenth dayofthemonth, on
+Ararat ’smountains.
+5The waters receded continually until
+thetenth month. Inthetenth month, on
+thefirst dayofthemonth, thetops ofthe
+mountains were visible.
+6Attheendofforty days, Noah opened
+the window ofthe ship which hehad
+made,
+7and hesent outaraven. Itwent back
+and forth, until thewaters were dried up
+from theearth.
+8Hehimself sent outadove toseeifthe
+waters were abated from thesurface ofthe
+ground,
+9butthedove found noplace toresther
+foot, andshereturned intotheship tohim,
+forthewaters were onthesurface ofthe
+whole earth. Heputouthishand, andtook
+her,andbrought hertohim into theship.
+10Hewaited yetanother seven days; and
+again hesent thedove outoftheship.
+11Thedove came back tohim atevening
+and, behold, inhermouth was afreshly
+plucked olive leaf. SoNoah knew that the
+waters were abated from theearth.
+12Hewaited yetanother seven days, and
+sent outthedove; andshedidn ’treturn to
+him anymore.
+13Inthesixhundred first year, inthe
+first month, thefirst day ofthemonth,
+thewaters were dried upfrom theearth.
+†7:20 Acubit isthelength from thetipofthemiddle finger totheelbow onaman ’sarm, orabout 18inches or46
+centimeters.
+--- PAGE 12 ---
+Genesis 8:14 8 Genesis 9:20
+Noah removed thecovering oftheship,
+andlooked. Hesaw that thesurface ofthe
+ground wasdry.
+14Inthesecond month, onthetwenty-
+seventh dayofthemonth, theearth was
+dry.
+15God spoke toNoah, saying,
+16“Gooutoftheship, you, your wife,
+your sons, andyour sons ’wives with you.
+17Bring outwith youevery living thing
+thatiswith youofallflesh, including birds,
+livestock, and every creeping thing that
+creeps ontheearth, that they may breed
+abundantly intheearth, and befruitful,
+andmultiply ontheearth. ”
+18Noah went out,with hissons, hiswife,
+andhissons ’wives with him.
+19Every animal, every creeping thing,
+and every bird, whatever moves onthe
+earth, after their families, went outofthe
+ship.
+20Noah built analtar totheLORD, and
+took ofevery clean animal, and ofevery
+clean bird, andoffered burnt offerings on
+thealtar.
+21TheLORD smelled thepleasant aroma.
+TheLORD said inhisheart, “Iwillnotagain
+curse theground anymore forman ’ssake
+because theimagination ofman ’sheart is
+evil from hisyouth. Iwill never again
+strike every living thing, asIhave done.
+22While theearth remains, seed time
+and harvest, and cold and heat, and sum-
+mer andwinter, anddayandnight willnot
+cease. ”
+9
+1God blessed Noah and hissons, and
+said tothem, “Befruitful, multiply, and
+replenish theearth.
+2The fear ofyou and thedread ofyou
+will beonevery animal oftheearth, and
+onevery bird ofthesky. Everything that
+moves along theground, andallthefishof
+thesea,aredelivered into your hand.
+3Every moving thing that lives will be
+food foryou. AsIgave youthegreen herb,
+Ihave given everything toyou.
+4Butflesh with itslife,that is,itsblood,
+youshall noteat.
+5Iwill surely require accounting for
+your life’sblood. Atthehand ofeveryanimal Iwillrequire it.Atthehand ofman,
+even atthehand ofevery man ’sbrother, I
+willrequire thelifeofman.
+6Whoever sheds man ’sblood, hisblood
+willbeshed byman, forGod made man in
+hisown image.
+7Befruitful and multiply. Increase
+abundantly intheearth, and multiply in
+it.”
+8God spoke toNoah andtohissons with
+him, saying,
+9“Asforme, behold, Iestablish my
+covenant with you, and with your off-
+spring after you,
+10and with every living creature that
+iswith you: thebirds, thelivestock, and
+every animal oftheearth with you, ofall
+that gooutoftheship, even every animal
+oftheearth.
+11Iwillestablish mycovenant with you:
+Allflesh willnotbecutoffanymore bythe
+waters oftheflood. There willnever again
+beaflood todestroy theearth. ”
+12God said, “This isthetoken ofthe
+covenant which Imake between meand
+youand every living creature that iswith
+you, forperpetual generations:
+13Isetmyrainbow inthecloud, and it
+will beasign ofacovenant between me
+andtheearth.
+14When Ibring acloud over theearth,
+that therainbow willbeseen inthecloud,
+15Iwill remember mycovenant, which
+isbetween meand you and every living
+creature ofallflesh, andthewaters willno
+more become aflood todestroy allflesh.
+16Therainbow willbeinthecloud. Iwill
+look atit,that Imay remember theever-
+lasting covenant between God and every
+living creature ofallflesh that isonthe
+earth. ”
+17God said toNoah, “This isthetoken
+ofthecovenant which Ihave established
+between meand allflesh that isonthe
+earth. ”
+18Thesons ofNoah who went outfrom
+theship were Shem, Ham, and Japheth.
+Ham isthefather ofCanaan.
+19These three were thesons ofNoah,
+and from these thewhole earth was pop-
+ulated.
+20Noah began tobeafarmer, and
+planted avineyard.
+--- PAGE 13 ---
+Genesis 9:21 9 Genesis 10:31
+21Hedrank ofthewine and gotdrunk.
+Hewasuncovered within histent.
+22Ham, thefather ofCanaan, saw the
+nakedness ofhisfather, and told histwo
+brothers outside.
+23Shem andJapheth took agarment, and
+laid itonboth their shoulders, went in
+backwards, andcovered thenakedness of
+their father. Their faces were backwards,
+and they didn ’tseetheir father ’snaked-
+ness.
+24Noah awoke from hiswine, andknew
+what hisyoungest sonhaddone tohim.
+25Hesaid,
+“Canaan iscursed.
+Hewillbeaservant ofservants tohis
+brothers. ”
+26Hesaid,
+“Blessed betheLORD, theGod ofShem.
+LetCanaan behisservant.
+27May God enlarge Japheth.
+Lethim dwell inthetents ofShem.
+LetCanaan behisservant. ”
+28Noah lived three hundred fifty years
+after theflood.
+29Allthedays ofNoah were nine hun-
+dred fifty years, andthen hedied.
+10
+1Now this isthehistory ofthegener-
+ations ofthesons ofNoah and ofShem,
+Ham, andJapheth. Sons were born tothem
+after theflood.
+2Thesons ofJapheth were: Gomer, Ma-
+gog, Madai, Javan, Tubal, Meshech, and
+Tiras.
+3The sons ofGomer were: Ashkenaz,
+Riphath, andTogarmah.
+4The sons ofJavan were: Elishah,
+Tarshish, Kittim, andDodanim.
+5Ofthese were theislands ofthenations
+divided intheir lands, everyone after his
+language, after their families, intheir na-
+tions.
+6Thesons ofHam were: Cush, Mizraim,
+Put,andCanaan.
+7Thesons ofCush were: Seba, Havilah,
+Sabtah, Raamah, andSabteca. Thesons of
+Raamah were: Sheba andDedan.
+8Cush became thefather ofNimrod. He
+began tobeamighty oneintheearth.
+9Hewas amighty hunter before the
+LORD. Therefore itissaid, “likeNimrod, a
+mighty hunter before theLORD ”.10Thebeginning ofhiskingdom wasBa-
+bel,Erech, Accad, and Calneh, intheland
+ofShinar.
+11Outofthat land hewent into Assyria,
+andbuilt Nineveh, Rehoboth Ir,Calah,
+12and Resen between Nineveh and the
+great cityCalah.
+13Mizraim became thefather ofLudim,
+Anamim, Lehabim, Naphtuhim,
+14Pathrusim, Casluhim (which the
+Philistines descended from), and Caph-
+torim.
+15Canaan became thefather ofSidon
+(hisfirstborn), Heth,
+16theJebusites, theAmorites, theGir-
+gashites,
+17theHivites, theArkites, theSinites,
+18theArvadites, theZemarites, and the
+Hamathites. Afterward thefamilies ofthe
+Canaanites were spread abroad.
+19The border ofthe Canaanites was
+from Sidon —asyou gotoward Gerar —to
+Gaza —asyou gotoward Sodom, Gomor-
+rah, Admah, andZeboiim —toLasha.
+20These arethesons ofHam, after their
+families, according totheir languages, in
+their lands andtheir nations.
+21Children were also born toShem (the
+elder brother ofJapheth), thefather ofall
+thechildren ofEber.
+22Thesons ofShem were: Elam, Asshur,
+Arpachshad, Lud, andAram.
+23The sons ofAram were: Uz, Hul,
+Gether, andMash.
+24Arpachshad became thefather ofShe-
+lah.Shelah became thefather ofEber.
+25ToEber were born twosons. Thename
+oftheone was Peleg, forinhisdays the
+earth wasdivided. Hisbrother ’sname was
+Joktan.
+26Joktan became thefather ofAlmodad,
+Sheleph, Hazarmaveth, Jerah,
+27Hadoram, Uzal, Diklah,
+28Obal, Abimael, Sheba,
+29Ophir, Havilah, and Jobab. Allthese
+were thesons ofJoktan.
+30Their dwelling extended from Mesha,
+asyougotoward Sephar, themountain of
+theeast.
+31These arethesons ofShem, bytheir
+families, according totheir languages,
+lands, andnations.
+--- PAGE 14 ---
+Genesis 10:32 10 Genesis 11:30
+32These arethefamilies ofthesons of
+Noah, bytheir generations, according to
+their nations. The nations divided from
+these intheearth after theflood.
+11
+1The whole earth was ofonelanguage
+andofonespeech.
+2Asthey traveled east, †they found a
+plain intheland ofShinar, and they lived
+there.
+3They said tooneanother, “Come, let’s
+make bricks, and burn them thoroughly. ”
+They hadbrick forstone, andthey used tar
+formortar.
+4They said, “Come, let’sbuild ourselves a
+city, andatower whose topreaches tothe
+sky, and let’smake aname forourselves,
+lestwebescattered abroad onthesurface
+ofthewhole earth. ”
+5The LORD came down toseethecity
+and thetower, which thechildren ofmen
+built.
+6The LORD said, “Behold, they areone
+people, and they allhave one language,
+and this iswhat they begin todo. Now
+nothing willbewithheld from them, which
+they intend todo.
+7Come, let’sgodown, andthere confuse
+their language, that they may notunder-
+stand oneanother ’sspeech. ”
+8SotheLORD scattered them abroad
+from there onthesurface ofalltheearth.
+They stopped building thecity.
+9Therefore itsname was called Babel,
+because there theLORD confused thelan-
+guage ofalltheearth. From there, the
+LORD scattered them abroad onthesur-
+face ofalltheearth.
+10This isthehistory ofthegenerations
+ofShem: Shem wasonehundred years old
+when hebecame thefather ofArpachshad
+twoyears after theflood.
+11Shem lived fivehundred years after he
+became thefather ofArpachshad, andbe-
+came thefather ofmore sons and daugh-
+ters.
+12Arpachshad lived thirty-five years and
+became thefather ofShelah.
+13Arpachshad lived four hundred three
+years after hebecame thefather ofShelah,and became thefather ofmore sons and
+daughters.
+14Shelah lived thirty years, andbecame
+thefather ofEber.
+15Shelah lived four hundred three years
+after hebecame thefather ofEber, andbe-
+came thefather ofmore sons and daugh-
+ters.
+16Eber lived thirty-four years, and be-
+came thefather ofPeleg.
+17Eber lived four hundred thirty years
+after hebecame thefather ofPeleg, andbe-
+came thefather ofmore sons and daugh-
+ters.
+18Peleg lived thirty years, and became
+thefather ofReu.
+19Peleg lived two hundred nine years
+after hebecame thefather ofReu, andbe-
+came thefather ofmore sons and daugh-
+ters.
+20Reu lived thirty-two years, and be-
+came thefather ofSerug.
+21Reulived twohundred seven years af-
+terhebecame thefather ofSerug, andbe-
+came thefather ofmore sons and daugh-
+ters.
+22Serug lived thirty years, and became
+thefather ofNahor.
+23Serug lived two hundred years after
+hebecame thefather ofNahor, and be-
+came thefather ofmore sons and daugh-
+ters.
+24Nahor lived twenty-nine years, and
+became thefather ofTerah.
+25Nahor lived one hundred nineteen
+years after hebecame thefather ofTerah,
+and became thefather ofmore sons and
+daughters.
+26Terah lived seventy years, andbecame
+thefather ofAbram, Nahor, andHaran.
+27Now thisisthehistory ofthegenera-
+tions ofTerah. Terah became thefather of
+Abram, Nahor, andHaran. Haran became
+thefather ofLot.
+28Haran died intheland ofhisbirth, in
+UroftheChaldees, while hisfather Terah
+wasstillalive.
+29Abram andNahor married wives. The
+name ofAbram ’swife was Sarai, and the
+name ofNahor ’swife was Milcah, the
+daughter ofHaran, who was also thefa-
+ther ofIscah.
+30Sarai wasbarren. Shehadnochild.
+†11:2 LXX reads “from theeast ”.
+--- PAGE 15 ---
+Genesis 11:31 11 Genesis 13:5
+31Terah took Abram hisson, Lotthe
+son ofHaran, hisson ’sson, and Sarai
+hisdaughter-in-law, hissonAbram ’swife.
+They went from UroftheChaldees, togo
+into theland ofCanaan. They came to
+Haran andlived there.
+32Thedays ofTerah were twohundred
+fiveyears. Terah died inHaran.
+12
+1Now theLORD said toAbram, “Leave
+your country, andyour relatives, andyour
+father ’shouse, andgototheland thatIwill
+show you.
+2Iwillmake ofyouagreat nation. Iwill
+bless youandmake your name great. You
+willbeablessing.
+3Iwill bless those who bless you, and
+Iwill curse him who treats youwith con-
+tempt. Allthefamilies oftheearth willbe
+blessed through you. ”
+4SoAbram went, astheLORD had told
+him. Lotwent with him. Abram was
+seventy-five years oldwhen hedeparted
+from Haran.
+5Abram took Sarai hiswife, Lot his
+brother ’sson, alltheir possessions that
+they had gathered, and thepeople whom
+they hadacquired inHaran, andthey went
+togointotheland ofCanaan. They entered
+into theland ofCanaan.
+6Abram passed through theland tothe
+place ofShechem, totheoakofMoreh. At
+that time, Canaanites were intheland.
+7TheLORD appeared toAbram andsaid,
+“Iwillgive thisland toyour offspring. ”†
+Hebuilt analtar there totheLORD, who
+hadappeared tohim.
+8Heleftfrom there togotothemountain
+ontheeast ofBethel and pitched histent,
+having Bethel onthewest, and Aionthe
+east. There hebuilt analtar totheLORD ‡
+andcalled ontheLORD ’sname.
+9Abram traveled, stillgoing ontoward
+theSouth.
+10There wasafamine intheland. Abram
+went down intoEgypt toliveasaforeigner
+there, forthefamine was severe inthe
+land.
+11When hehad come near toenter
+Egypt, hesaid toSarai hiswife, “Seenow,Iknow that youareabeautiful woman to
+look at.
+12Itwillhappen thatwhen theEgyptians
+seeyou, they will say, ‘This ishiswife. ’
+They will killme, butthey will save you
+alive.
+13Please saythat youaremysister, that
+itmay bewell with meforyour sake, and
+that mysoul may livebecause ofyou. ”
+14When Abram had come into Egypt,
+some Egyptians saw that thewoman was
+very beautiful.
+15The princes ofPharaoh saw her, and
+praised hertoPharaoh; and thewoman
+wastaken into Pharaoh ’shouse.
+16Hedealt well with Abram forher
+sake. Hehadsheep, cattle, male donkeys,
+male servants, female servants, female
+donkeys, andcamels.
+17The LORD afflicted Pharaoh and his
+house with great plagues because ofSarai,
+Abram ’swife.
+18Pharaoh called Abram and said,
+“What isthis that you have done tome?
+Why didn ’tyoutellmethat shewas your
+wife?
+19Why didyou say, ‘She ismysister, ’
+sothat Itook hertobemywife? Now
+therefore, seeyour wife, take her, and go
+your way. ”
+20Pharaoh commanded men concerning
+him, andthey escorted him away with his
+wife andallthat hehad.
+13
+1Abram went upoutofEgypt —he,his
+wife, allthat hehad, and Lotwith him —
+into theSouth.
+2Abram was very rich inlivestock, in
+silver, andingold.
+3Hewent onhisjourneys from theSouth
+asfarasBethel, totheplace where histent
+hadbeen atthebeginning, between Bethel
+andAi,
+4totheplace ofthealtar, which hehad
+made there atthefirst. There Abram called
+ontheLORD ’sname.
+5Lotalso, who went with Abram, had
+flocks, herds, andtents.
+†12:7 or,seed ‡12:8 LORD orGOD inallcaps isfrom theHebrew יהוה Yahweh except when otherwise noted as
+being from theshort form יהYah.
+--- PAGE 16 ---
+Genesis 13:6 12 Genesis 14:14
+6Theland wasnotable tobear them, that
+they might livetogether; fortheir posses-
+sions were sogreat that they couldn ’tlive
+together.
+7There wasstrife between theherdsmen
+ofAbram ’slivestock andtheherdsmen of
+Lot’slivestock. The Canaanites and the
+Perizzites lived intheland atthat time.
+8Abram said toLot, “Please, letthere
+benostrife between youand me,and be-
+tween your herdsmen and myherdsmen;
+forwearerelatives.
+9Isn’tthewhole land before you? Please
+separate yourself from me.Ifyougotothe
+lefthand, then Iwill gototheright. Orif
+yougototheright hand, then Iwill goto
+theleft. ”
+10Lotlifted uphiseyes, and saw all
+theplain oftheJordan, that itwas well-
+watered everywhere, before theLORD de-
+stroyed Sodom andGomorrah, likethegar-
+denoftheLORD, liketheland ofEgypt, as
+yougotoZoar.
+11SoLotchose thePlain oftheJordan
+forhimself. Lottraveled east, and they
+separated themselves from oneanother.
+12Abram lived intheland ofCanaan,
+andLotlived inthecities oftheplain, and
+moved histent asfarasSodom.
+13Now the men ofSodom were ex-
+ceedingly wicked and sinners against the
+LORD.
+14TheLORD said toAbram, after Lotwas
+separated from him, “Now, liftupyour
+eyes, and look from theplace where you
+are, northward and southward and east-
+ward andwestward,
+15forIwill give alltheland which you
+seetoyouandtoyour offspring forever.
+16Iwillmake your offspring asthedust
+oftheearth, sothat ifaman cancount the
+dust oftheearth, then your offspring may
+also becounted.
+17Arise, walk through theland inits
+length andinitswidth; forIwillgive itto
+you. ”
+18Abram moved histent, andcame and
+lived bytheoaks ofMamre, which arein
+Hebron, and built analtar there tothe
+LORD.
+14
+1Inthedays ofAmraphel, king ofShinar;Arioch, king ofEllasar; Chedorlaomer,
+king ofElam; andTidal, king ofGoiim,
+2they made war with Bera, king of
+Sodom; Birsha, king ofGomorrah; Shinab,
+king ofAdmah; Shemeber, king ofZe-
+boiim; and theking ofBela (also called
+Zoar).
+3Allthese joined together inthevalley of
+Siddim (also called theSaltSea).
+4They served Chedorlaomer fortwelve
+years, and inthethirteenth year they re-
+belled.
+5Inthefourteenth year Chedorlaomer
+and thekings who were with him came
+andstruck theRephaim inAshteroth Kar-
+naim, theZuzim inHam, theEmim in
+Shaveh Kiriathaim,
+6and theHorites intheir Mount Seir, to
+ElParan, which isbythewilderness.
+7They returned, andcame toEnMishpat
+(also called Kadesh), and struck allthe
+country oftheAmalekites, and also the
+Amorites, that lived inHazazon Tamar.
+8The king ofSodom, and theking of
+Gomorrah, theking ofAdmah, theking of
+Zeboiim, and theking ofBela (also called
+Zoar) went out; and they setthebattle in
+array against them inthevalley ofSiddim
+9against Chedorlaomer king ofElam,
+Tidal king ofGoiim, Amraphel king ofShi-
+nar,andArioch king ofEllasar; four kings
+against thefive.
+10Now thevalley ofSiddim wasfulloftar
+pits; and thekings ofSodom and Gomor-
+rahfled, and some fellthere. Those who
+remained fledtothehills.
+11They took allthegoods ofSodom and
+Gomorrah, and alltheir food, and went
+their way.
+12They took Lot,Abram ’sbrother ’sson,
+who lived inSodom, and hisgoods, and
+departed.
+13One who had escaped came and told
+Abram, theHebrew. Atthat time, he
+lived bytheoaks ofMamre, theAmorite,
+brother ofEshcol and brother ofAner.
+They were allies ofAbram.
+14When Abram heard that hisrelative
+was taken captive, heledouthisthree
+hundred eighteen trained men, born inhis
+house, andpursued asfarasDan.
+--- PAGE 17 ---
+Genesis 14:15 13 Genesis 15:19
+15Hedivided himself against them by
+night, heand hisservants, and struck
+them, andpursued them toHobah, which
+isonthelefthand ofDamascus.
+16Hebrought back allthegoods, and
+also brought back hisrelative Lotand his
+goods, andthewomen also, andtheother
+people.
+17The king ofSodom went outtomeet
+him after hisreturn from theslaughter
+ofChedorlaomer and thekings who were
+with him, atthevalley ofShaveh (that is,
+theKing ’sValley).
+18Melchizedek king ofSalem brought
+outbread andwine. Hewas priest ofGod
+Most High.
+19Heblessed him, and said, “Blessed
+beAbram ofGod Most High, possessor of
+heaven andearth.
+20Blessed beGod Most High, who has
+delivered your enemies into your hand. ”
+Abram gave him atenth ofall.
+21The king ofSodom said toAbram,
+“Give methepeople, andtake thegoods for
+yourself. ”
+22Abram said totheking ofSodom, “I
+have lifted upmyhand totheLORD, God
+Most High, possessor ofheaven andearth,
+23that Iwill nottake athread nor a
+sandal strap noranything thatisyours, lest
+youshould say, ‘Ihave made Abram rich. ’
+24Iwillaccept nothing from youexcept
+that which theyoung men have eaten, and
+theportion ofthemen who went with me:
+Aner, Eshcol, and Mamre. Letthem take
+their portion. ”
+15
+1After these things theLORD ’sword
+came toAbram inavision, saying, “Don ’t
+beafraid, Abram. Iamyour shield, your
+exceedingly great reward. ”
+2Abram said, “Lord †GOD, what willyou
+give me, since Igochildless, and hewho
+willinherit myestate isEliezer ofDamas-
+cus? ”
+3Abram said, “Behold, youhave given no
+children tome: and, behold, oneborn in
+myhouse ismyheir. ”4Behold, theLORD ’sword came tohim,
+saying, “This man willnotbeyour heir, but
+hewho will come outofyour own body
+willbeyour heir. ”
+5The LORD brought him outside, and
+said, “Look now toward thesky,andcount
+thestars, ifyouareable tocount them. ”He
+said toAbram, “Soyour offspring willbe.”
+6Hebelieved intheLORD, who credited
+ittohim forrighteousness.
+7Hesaid toAbram, “IamtheLORD who
+brought you outofUroftheChaldees, to
+give youthisland toinherit it.”
+8Hesaid, “Lord GOD, how will Iknow
+that Iwillinherit it?”
+9Hesaid tohim, “Bring meaheifer three
+years old, afemale goat three years old,
+aram three years old,aturtledove, and a
+young pigeon. ”
+10Hebrought him allthese, anddivided
+them inthemiddle, and laid each half
+opposite theother; buthedidn ’tdivide the
+birds.
+11The birds ofprey came down onthe
+carcasses, andAbram drove them away.
+12When thesunwasgoing down, adeep
+sleep fellonAbram. Now terror andgreat
+darkness fellonhim.
+13Hesaid toAbram, “Know forsure that
+your offspring will liveasforeigners ina
+land that isnottheirs, andwillserve them.
+They willafflict them four hundred years.
+14Iwill also judge that nation, whom
+they willserve. Afterward they willcome
+outwith great wealth;
+15but you will gotoyour fathers in
+peace. Youwillbeburied atagood oldage.
+16Inthe fourth generation they will
+come here again, fortheiniquity ofthe
+Amorite isnotyetfull. ”
+17Itcame topass that, when thesun
+went down, and itwas dark, behold,
+asmoking furnace and aflaming torch
+passed between these pieces.
+18Inthat daytheLORD made acovenant
+with Abram, saying, “Ihave given thisland
+toyour offspring, from theriver ofEgypt to
+thegreat river, theriver Euphrates:
+19theland oftheKenites, theKenizzites,
+theKadmonites,
+†15:2 Theword translated “Lord ”is“Adonai ”.
+--- PAGE 18 ---
+Genesis 15:20 14 Genesis 17:9
+20the Hittites, the Perizzites, the
+Rephaim,
+21theAmorites, theCanaanites, theGir-
+gashites, andtheJebusites. ”
+16
+1Now Sarai, Abram ’swife, bore him no
+children. Shehad aservant, anEgyptian,
+whose name wasHagar.
+2Sarai said toAbram, “See now, the
+LORD has restrained mefrom bearing.
+Please gointomyservant. Itmay be
+that Iwillobtain children byher. ”Abram
+listened tothevoice ofSarai.
+3Sarai, Abram ’swife, took Hagar the
+Egyptian, her servant, after Abram had
+lived tenyears intheland ofCanaan, and
+gave hertoAbram herhusband tobehis
+wife.
+4Hewent intoHagar, andsheconceived.
+When shesawthat shehadconceived, her
+mistress wasdespised inhereyes.
+5Sarai said toAbram, “This wrong is
+your fault. Igave myservant into your
+bosom, and when shesaw that shehad
+conceived, shedespised me.May theLORD
+judge between meandyou. ”
+6ButAbram said toSarai, “Behold, your
+maid isinyour hand. Dotoherwhatever
+isgood inyour eyes. ”Sarai dealt harshly
+with her,andshefledfrom herface.
+7TheLORD ’sangel found herbyafoun-
+tain ofwater inthewilderness, bythe
+fountain ontheway toShur.
+8Hesaid, “Hagar, Sarai ’sservant, where
+didyou come from? Where areyou go-
+ing? ”
+Shesaid, “Iamfleeing from theface of
+mymistress Sarai. ”
+9TheLORD ’sangel said toher, “Return to
+your mistress, and submit yourself under
+herhands. ”
+10The LORD ’sangel said toher, “Iwill
+greatly multiply your offspring, that they
+willnotbecounted formultitude. ”
+11TheLORD ’sangel said toher, “Behold,
+youarewith child, andwillbear ason. You
+shall callhisname Ishmael, because the
+LORD hasheard your affliction.12Hewill belikeawild donkey among
+men. Hishand willbeagainst every man,
+andevery man ’shand against him. Hewill
+liveopposed toallofhisbrothers. ”
+13Shecalled thename oftheLORD who
+spoke toher, “YouareaGod who sees, ”for
+shesaid, “Have Ieven stayed alive after
+seeing him? ”
+14Therefore thewell was called Beer
+Lahai Roi. †Behold, itisbetween Kadesh
+andBered.
+15Hagar bore asonforAbram. Abram
+called thename ofhisson, whom Hagar
+bore, Ishmael.
+16Abram was eighty-six years oldwhen
+Hagar bore Ishmael toAbram.
+17
+1When Abram was ninety-nine years
+old,theLORD appeared toAbram andsaid
+tohim, “IamGod Almighty. Walk before
+meandbeblameless.
+2Iwill make mycovenant between me
+and you, and will multiply you exceed-
+ingly. ”
+3Abram fellonhisface. God talked with
+him, saying,
+4“Asforme,behold, mycovenant iswith
+you. Youwillbethefather ofamultitude of
+nations.
+5Your name will nomore becalled
+Abram, butyour name will beAbraham;
+forIhave made youthefather ofamulti-
+tude ofnations.
+6Iwill make you exceedingly fruitful,
+andIwillmake nations ofyou. Kings will
+come outofyou.
+7Iwill establish mycovenant between
+meand you and your offspring after you
+throughout their generations foranever-
+lasting covenant, tobeaGod toyouandto
+your offspring after you.
+8Iwillgive toyou, andtoyour offspring
+after you, theland where you aretravel-
+ing,alltheland ofCanaan, foraneverlast-
+ingpossession. Iwillbetheir God. ”
+9God said toAbraham, “Asforyou, you
+shall keep mycovenant, youandyour off-
+spring after youthroughout their genera-
+tions.
+†16:14 Beer Lahai Roimeans “well oftheonewho lives andsees me”.
+--- PAGE 19 ---
+Genesis 17:10 15 Genesis 18:9
+10This ismycovenant, which youshall
+keep, between meand you and your off-
+spring after you. Every male among you
+shall becircumcised.
+11You shall becircumcised intheflesh
+ofyour foreskin. Itwill beatoken ofthe
+covenant between meandyou.
+12Hewho iseight days oldshall becir-
+cumcised among you, every male through-
+outyour generations, hewho isborn in
+thehouse, orbought with money from any
+foreigner who isnotofyour offspring.
+13Hewho isborn inyour house, andhe
+who isbought with your money, must be
+circumcised. Mycovenant shall beinyour
+flesh foraneverlasting covenant.
+14The uncircumcised male who isnot
+circumcised intheflesh ofhisforeskin,
+that soul shall becutofffrom hispeople.
+Hehasbroken mycovenant. ”
+15God said toAbraham, “AsforSarai
+your wife, you shall notcall her name
+Sarai, buthername shall beSarah.
+16Iwill bless her, and moreover Iwill
+give youasonbyher. Yes,Iwillbless her,
+andshewillbeamother ofnations. Kings
+ofpeoples willcome from her. ”
+17Then Abraham fellonhisface, and
+laughed, andsaid inhisheart, “Will achild
+beborn tohim who isonehundred years
+old? Will Sarah, who isninety years old,
+give birth? ”
+18Abraham said toGod, “Ohthat Ish-
+mael might livebefore you! ”
+19God said, “No,butSarah, your wife,
+willbear youason. Youshall callhisname
+Isaac. †Iwill establish mycovenant with
+him foraneverlasting covenant forhis
+offspring after him.
+20AsforIshmael, Ihave heard you. Be-
+hold, Ihave blessed him, and will make
+himfruitful, andwillmultiply himexceed-
+ingly. Hewillbecome thefather oftwelve
+princes, andIwillmake himagreat nation.
+21ButIwillestablish mycovenant with
+Isaac, whom Sarah willbear toyouatthis
+settime next year. ”
+22When hefinished talking with him,
+God went upfrom Abraham.23Abraham took Ishmael hisson,allwho
+were born inhishouse, and allwho were
+bought with hismoney: every male among
+themen ofAbraham ’shouse, andcircum-
+cised theflesh oftheir foreskin inthesame
+day, asGod hadsaid tohim.
+24Abraham was ninety-nine years old
+when hewascircumcised intheflesh ofhis
+foreskin.
+25Ishmael, hisson, was thirteen years
+oldwhen hewas circumcised intheflesh
+ofhisforeskin.
+26Inthesame day both Abraham and
+Ishmael, hisson, were circumcised.
+27Allthemen ofhishouse, those born in
+thehouse, and those bought with money
+from aforeigner, were circumcised with
+him.
+18
+1TheLORD appeared tohim bytheoaks
+ofMamre, ashesatinthetent door inthe
+heat oftheday.
+2Helifted uphiseyes and looked, and
+saw that three men stood near him. When
+hesawthem, herantomeet them from the
+tent door, andbowed himself totheearth,
+3andsaid, “Mylord, ifnow Ihave found
+favor inyour sight, please don ’tgoaway
+from your servant.
+4Now letalittle water befetched, wash
+your feet, and rest yourselves under the
+tree.
+5Iwill getapiece ofbread soyou can
+refresh your heart. After that youmay go
+your way, now that youhave come toyour
+servant. ”
+They said, “Very well, doasyou have
+said. ”
+6Abraham hurried intothetenttoSarah,
+andsaid, “Quickly prepare three seahs †of
+finemeal, knead it,andmake cakes. ”
+7Abraham rantotheherd, and fetched
+atender and good calf, and gave ittothe
+servant. Hehurried todress it.
+8Hetook butter, milk, andthecalfwhich
+hehaddressed, andsetitbefore them. He
+stood bythem under thetree, andthey ate.
+9They asked him, “Where isSarah, your
+wife? ”
+Hesaid, “There, inthetent. ”
+†17:19 Isaac means “helaughs ”.†18:6 1seah isabout 7liters or1.9gallons or0.8pecks
+--- PAGE 20 ---
+Genesis 18:10 16 Genesis 19:2
+10Hesaid, “Iwillcertainly return toyou
+atabout thistime next year; and behold,
+Sarah your wife willhave ason. ”
+Sarah heard inthetent door, which was
+behind him.
+11Now Abraham and Sarah were old,
+well advanced inage. Sarah had passed
+theageofchildbearing.
+12Sarah laughed within herself, saying,
+“After Ihave grown oldwill Ihave plea-
+sure, mylord being oldalso? ”
+13TheLORD said toAbraham, “Why did
+Sarah laugh, saying, ‘Will Ireally bear a
+child when Iamold? ’
+14Isanything toohard fortheLORD? At
+thesettime Iwillreturn toyou, when the
+season comes around, andSarah willhave
+ason. ”
+15Then Sarah denied it,saying, “Ididn ’t
+laugh, ”forshewasafraid.
+Hesaid, “No,butyoudidlaugh. ”
+16The men rose upfrom there, and
+looked toward Sodom. Abraham went
+with them toseethem ontheir way.
+17TheLORD said, “Will Ihide from Abra-
+ham what Ido,
+18since Abraham will surely become a
+great and mighty nation, and allthena-
+tions oftheearth willbeblessed inhim?
+19For Ihave known him, totheend
+thathemay command hischildren andhis
+household after him, that they may keep
+theway oftheLORD, todorighteousness
+andjustice; totheendthat theLORD may
+bring onAbraham that which hehasspo-
+kenofhim. ”
+20The LORD said, “Because thecryof
+Sodom and Gomorrah isgreat, and be-
+cause their sinisvery grievous,
+21Iwill godown now, and seewhether
+their deeds areasbadasthereports which
+have come tome.Ifnot,Iwillknow. ”
+22Themen turned from there, andwent
+toward Sodom, butAbraham stood yetbe-
+fore theLORD.
+23Abraham came near, and said, “Will
+you consume the righteous with the
+wicked?
+24What ifthere arefifty righteous within
+thecity? Will youconsume andnotspare
+theplace forthefifty righteous who arein
+it?25May itbefarfrom you todothings
+like that, tokilltherighteous with the
+wicked, sothat therighteous should be
+like thewicked. May that befarfrom
+you. Shouldn ’ttheJudge ofalltheearth do
+right? ”
+26TheLORD said, “IfIfind inSodom fifty
+righteous within thecity, then Iwillspare
+thewhole place fortheir sake. ”
+27Abraham answered, “Seenow, Ihave
+taken itonmyself tospeak totheLord,
+although Iamdust andashes.
+28What ifthere willlack fiveofthefifty
+righteous? Will youdestroy allthecityfor
+lack offive? ”
+Hesaid, “Iwill notdestroy itifIfind
+forty-five there. ”
+29Hespoke tohim yetagain, and said,
+“What ifthere areforty found there? ”
+Hesaid, “Iwill notdoitfortheforty ’s
+sake. ”
+30Hesaid, “Ohdon ’tlettheLord bean-
+gry, and Iwill speak. What ifthere are
+thirty found there? ”
+Hesaid, “Iwill notdoitifIfind thirty
+there. ”
+31Hesaid, “Seenow, Ihave taken iton
+myself tospeak totheLord. What ifthere
+aretwenty found there? ”
+Hesaid, “Iwill notdestroy itforthe
+twenty ’ssake. ”
+32Hesaid, “Ohdon ’tlettheLord bean-
+gry,andIwillspeak justonce more. What
+iftenarefound there? ”
+Hesaid, “Iwillnotdestroy itfortheten’s
+sake. ”
+33TheLORD went hisway assoon ashe
+had finished communing with Abraham,
+andAbraham returned tohisplace.
+19
+1The two angels came toSodom at
+evening. Lotsatinthegate ofSodom. Lot
+saw them, and rose uptomeet them. He
+bowed himself with hisface totheearth,
+2andhesaid, “Seenow, mylords, please
+come into your servant ’shouse, stay all
+night, wash your feet, andyoucanriseup
+early, andgoonyour way. ”
+They said, “No,butwewill stay inthe
+street allnight. ”
+--- PAGE 21 ---
+Genesis 19:3 17 Genesis 19:29
+3Heurged them greatly, and they came
+inwith him, andentered intohishouse. He
+made them afeast, andbaked unleavened
+bread, andthey ate.
+4Butbefore they laydown, themen of
+thecity,themen ofSodom, surrounded the
+house, both young and old,allthepeople
+from every quarter.
+5They called toLot, and said tohim,
+“Where arethemen who came intoyou
+thisnight? Bring them outtous,that we
+may have sexwith them. ”
+6Lotwent outtothem through thedoor,
+andshut thedoor after himself.
+7Hesaid, “Please, mybrothers, don ’tact
+sowickedly.
+8Seenow, Ihave two virgin daughters.
+Please letmebring them outtoyou, and
+you may dotothem what seems good to
+you. Only don ’tdoanything tothese men,
+because they have come under theshadow
+ofmyroof. ”
+9They said, “Stand back! ”Then they
+said, “This onefellow came intoliveasa
+foreigner, andheappoints himself ajudge.
+Now wewilldeal worse with youthan with
+them! ”They pressed hard ontheman Lot,
+andcame near tobreak thedoor.
+10Butthemen reached outtheir hand,
+and brought Lotinto thehouse tothem,
+andshut thedoor.
+11They struck themen who were atthe
+door ofthehouse with blindness, both
+small andgreat, sothatthey wearied them-
+selves tofind thedoor.
+12The men said toLot, “Doyou have
+anybody elsehere? Sons-in-law, your sons,
+your daughters, and whomever youhave
+inthecity, bring them outoftheplace:
+13forwewilldestroy thisplace, because
+theoutcry against them hasgrown sogreat
+before theLORD that theLORD hassent us
+todestroy it.”
+14Lotwent out, and spoke tohissons-
+in-law, who were pledged tomarry his
+daughters, and said, “Getup! Getoutof
+this place, fortheLORD will destroy the
+city! ”
+Butheseemed tohissons-in-law tobe
+joking.15When themorning came, then the
+angels hurried Lot, saying, “Getup! Take
+your wife andyour twodaughters who are
+here, lestyoubeconsumed intheiniquity
+ofthecity. ”
+16Buthelingered; andthemen grabbed
+hishand, hiswife ’shand, and histwo
+daughters ’hands, theLORD being merci-
+fultohim; and they took him out, and set
+him outside ofthecity.
+17Itcame topass, when they had taken
+them out, that hesaid, “Escape foryour
+life! Don ’tlook behind you, and don ’t
+stay anywhere intheplain. Escape tothe
+mountains, lestyoubeconsumed! ”
+18Lotsaid tothem, “Oh,notso,mylord.
+19Seenow, your servant hasfound favor
+inyour sight, andyouhave magnified your
+loving kindness, which youhave shown to
+meinsaving mylife. Ican ’tescape tothe
+mountain, lestevilovertake me,andIdie.
+20Seenow, thiscityisnear tofleeto,and
+itisalittle one. Ohletmeescape there
+(isn ’titalittle one?), andmysoul willlive. ”
+21Hesaid tohim, “Behold, Ihave granted
+your request concerning this thing also,
+that Iwillnotoverthrow thecityofwhich
+youhave spoken.
+22Hurry, escape there, forIcan ’tdoany-
+thing until you getthere. ”Therefore the
+name ofthecitywascalled Zoar. †
+23Thesunhad risen ontheearth when
+Lotcame toZoar.
+24Then theLORD rained onSodom and
+onGomorrah sulfur and fire from the
+LORD outofthesky.
+25Heoverthrew those cities, alltheplain,
+alltheinhabitants ofthecities, and that
+which grew ontheground.
+26ButLot’swife looked back from be-
+hind him, andshebecame apillar ofsalt.
+27Abraham went upearly inthemorn-
+ingtotheplace where hehadstood before
+theLORD.
+28Helooked toward Sodom andGomor-
+rah, and toward alltheland oftheplain,
+andsawthatthesmoke oftheland went up
+asthesmoke ofafurnace.
+29When God destroyed thecities ofthe
+plain, God remembered Abraham, and
+sent Lotoutofthemiddle oftheoverthrow,
+†19:22 Zoar means “little ”.
+--- PAGE 22 ---
+Genesis 19:30 18 Genesis 20:17
+when heoverthrew thecities inwhich Lot
+lived.
+30Lotwent upoutofZoar, and lived in
+themountain, andhistwodaughters with
+him; forhewas afraid toliveinZoar. He
+lived inacave with histwodaughters.
+31Thefirstborn said totheyounger, “Our
+father isold,andthere isnotaman inthe
+earth tocome intousintheway ofallthe
+earth.
+32Come, let’smake our father drink
+wine, andwewillliewith him, thatwemay
+preserve ourfather ’sfamily line. ”
+33They made their father drink wine
+that night: and thefirstborn went in,and
+laywith herfather. Hedidn ’tknow when
+shelaydown, norwhen shearose.
+34Itcame topass onthenext day, that
+thefirstborn said totheyounger, “Behold,
+Ilaylastnight with myfather. Let’smake
+him drink wine again tonight. Yougoin,
+andliewith him, thatwemay preserve our
+father ’sfamily line. ”
+35They made their father drink wine
+that night also. Theyounger went andlay
+with him. Hedidn ’tknow when shelay
+down, norwhen shegotup.
+36Thus both ofLot’sdaughters were
+with child bytheir father.
+37The firstborn bore ason, and named
+him Moab. Heisthefather oftheMoabites
+tothisday.
+38The younger also bore ason, and
+called hisname BenAmmi. Heisthefather
+ofthechildren ofAmmon tothisday.
+20
+1Abraham traveled from there toward
+theland oftheSouth, and lived between
+Kadesh and Shur. Helived asaforeigner
+inGerar.
+2Abraham said about Sarah hiswife,
+“Sheismysister. ”Abimelech king ofGerar
+sent, andtook Sarah.
+3ButGod came toAbimelech inadream
+ofthenight, andsaid tohim, “Behold, you
+areadead man, because ofthewoman
+whom you have taken; forsheisaman ’s
+wife. ”
+4Now Abimelech hadnotcome near her.
+Hesaid, “Lord, will you killeven arigh-
+teous nation?5Didn ’thetellme, ‘Sheismysister ’?She,
+even sheherself, said, ‘Heismybrother. ’I
+have done thisintheintegrity ofmyheart
+andtheinnocence ofmyhands. ”
+6God said tohim inthedream, “Yes, I
+know that intheintegrity ofyour heart
+you have done this, and Ialso withheld
+youfrom sinning against me. Therefore I
+didn ’tallow youtotouch her.
+7Now therefore, restore theman ’swife.
+Forheisaprophet, and hewill pray for
+you, andyouwilllive. Ifyoudon ’trestore
+her, know forsure that you will die,you,
+andallwho areyours. ”
+8Abimelech rose early inthemorning,
+and called allhisservants, and told all
+these things intheir ear. The men were
+very scared.
+9Then Abimelech called Abraham, and
+said tohim, “What have you done tous?
+How have Isinned against you, that you
+have brought onmeandonmykingdom a
+great sin? Youhave done deeds tomethat
+ought nottobedone! ”
+10Abimelech said toAbraham, “What
+didyousee,thatyouhave done thisthing? ”
+11Abraham said, “Because Ithought,
+‘Surely thefear ofGod isnotinthisplace.
+They willkillmeformywife ’ssake. ’
+12Besides, sheisindeed mysister, the
+daughter ofmyfather, butnotthedaugh-
+terofmymother; andshebecame mywife.
+13When God caused metowander from
+myfather ’shouse, Isaid toher, ‘This is
+your kindness which youshall show tome.
+Everywhere that wego,sayofme, “Heis
+mybrother. ” ’ ”
+14Abimelech took sheep andcattle, male
+servants and female servants, and gave
+them toAbraham, andrestored Sarah, his
+wife, tohim.
+15Abimelech said, “Behold, myland is
+before you. Dwell where itpleases you. ”
+16ToSarah hesaid, “Behold, Ihave given
+your brother athousand pieces ofsilver.
+Behold, itisforyouacovering oftheeyes
+toallthat arewith you. Infront ofallyou
+arevindicated. ”
+17Abraham prayed toGod. SoGod
+healed Abimelech, hiswife, andhisfemale
+servants, andthey bore children.
+--- PAGE 23 ---
+Genesis 20:18 19 Genesis 21:29
+18FortheLORD had closed uptight all
+thewombs ofthehouse ofAbimelech, be-
+cause ofSarah, Abraham ’swife.
+21
+1TheLORD visited Sarah ashehadsaid,
+and theLORD didtoSarah ashehad spo-
+ken.
+2Sarah conceived, and bore Abraham a
+soninhisoldage, atthesettime ofwhich
+God hadspoken tohim.
+3Abraham called hissonwho was born
+tohim, whom Sarah bore tohim, Isaac. †
+4Abraham circumcised hisson, Isaac,
+when hewas eight days old, asGod had
+commanded him.
+5Abraham was one hundred years old
+when hisson, Isaac, wasborn tohim.
+6Sarah said, “God hasmade melaugh.
+Everyone who hears willlaugh with me. ”
+7She said, “Who would have said to
+Abraham that Sarah would nurse chil-
+dren? ForIhave borne himasoninhisold
+age. ”
+8Thechild grew andwasweaned. Abra-
+ham made agreat feast ontheday that
+Isaac wasweaned.
+9Sarah saw thesonofHagar theEgyp-
+tian, whom shehad borne toAbraham,
+mocking.
+10Therefore shesaid toAbraham, “Cast
+outthisservant and herson! Fortheson
+ofthisservant willnotbeheir with myson,
+Isaac. ”
+11Thething was very grievous inAbra-
+ham ’ssight onaccount ofhisson.
+12God said toAbraham, “Don ’tletit
+begrievous inyour sight because ofthe
+boy, and because ofyour servant. Inall
+that Sarah says toyou, listen tohervoice.
+Foryour offspring willbenamed through
+Isaac.
+13Iwillalso make anation ofthesonof
+theservant, because heisyour child. ”
+14Abraham rose upearly inthemorn-
+ing,andtook bread andacontainer ofwa-
+ter,and gave ittoHagar, putting itonher
+shoulder; andgave herthechild, andsent
+heraway. Shedeparted, andwandered in
+thewilderness ofBeersheba.15Thewater inthecontainer was spent,
+and she putthechild under one ofthe
+shrubs.
+16Shewent andsatdown opposite him,
+agood way off,about abow shot away. For
+shesaid, “Don ’tletmeseethedeath ofthe
+child. ”Shesatopposite him, andlifted up
+hervoice, andwept.
+17God heard thevoice oftheboy.
+Theangel ofGod called toHagar outof
+thesky, and said toher, “What troubles
+you, Hagar? Don ’tbeafraid. ForGod has
+heard thevoice oftheboywhere heis.
+18Getup,liftuptheboy, and hold him
+with your hand. ForIwillmake himagreat
+nation. ”
+19God opened hereyes, and shesaw a
+well ofwater. She went, filled thecon-
+tainer with water, and gave theboy a
+drink.
+20Godwaswith theboy,andhegrew. He
+lived inthewilderness, andashegrew up,
+hebecame anarcher.
+21Helived inthewilderness ofParan.
+Hismother gotawife forhim outofthe
+land ofEgypt.
+22Atthat time, Abimelech and Phicol
+thecaptain ofhisarmy spoke toAbraham,
+saying, “God iswith youinallthat youdo.
+23Now, therefore, swear tomehere by
+God that you will notdeal falsely with
+me, norwith myson, norwith myson ’s
+son. Butaccording tothekindness that I
+have done toyou, youshall dotome,and
+totheland inwhich you have lived asa
+foreigner. ”
+24Abraham said, “Iwillswear. ”
+25Abraham complained toAbimelech
+because ofawater well, which Abim-
+elech ’sservants hadviolently taken away.
+26Abimelech said, “Idon ’tknow who has
+done thisthing. You didn ’ttellme,and I
+didn ’thear ofituntil today. ”
+27Abraham took sheep and cattle, and
+gave them toAbimelech. Those twomade
+acovenant.
+28Abraham setseven ewe lambs ofthe
+flock bythemselves.
+29Abimelech said toAbraham, “What do
+these seven ewe lambs, which youhave set
+bythemselves, mean? ”
+†21:3 Isaac means “Helaughs ”.
+--- PAGE 24 ---
+Genesis 21:30 20 Genesis 22:20
+30Hesaid, “You shall take these seven
+ewe lambs from myhand, that itmay bea
+witness tome,that Ihave dugthiswell. ”
+31Therefore hecalled that place Beer-
+sheba, ‡because they both swore anoath
+there.
+32Sothey made acovenant atBeersheba.
+Abimelech rose upwith Phicol, thecaptain
+ofhisarmy, and they returned into the
+land ofthePhilistines.
+33Abraham planted atamarisk tree in
+Beersheba, and there hecalled onthe
+name oftheLORD, §theEverlasting God.
+34Abraham lived asaforeigner inthe
+land ofthePhilistines many days.
+22
+1After these things, God tested Abra-
+ham, andsaid tohim, “Abraham! ”
+Hesaid, “Here Iam. ”
+2Hesaid, “Now take your son, your only
+son, Isaac, whom youlove, andgointo the
+land ofMoriah. Offer him there asaburnt
+offering ononeofthemountains which I
+willtellyouof.”
+3Abraham rose early inthemorning,
+and saddled hisdonkey; and took two of
+hisyoung men with him, andIsaac hisson.
+Hesplit thewood fortheburnt offering,
+androse up,andwent totheplace ofwhich
+God hadtoldhim.
+4Onthethird dayAbraham lifted uphis
+eyes, andsawtheplace faroff.
+5Abraham said tohisyoung men, “Stay
+here with thedonkey. The boyand Iwill
+goover there. Wewillworship, andcome
+back toyou. ”
+6Abraham took thewood oftheburnt
+offering and laid itonIsaac hisson. He
+took inhishand thefire and theknife.
+They both went together.
+7Isaac spoke toAbraham hisfather, and
+said, “Myfather? ”
+Hesaid, “Here Iam,myson. ”
+Hesaid, “Here isthefireand thewood,
+butwhere isthelamb foraburnt offer-
+ing? ”8Abraham said, “God will provide him-
+selfthelamb foraburnt offering, myson. ”
+Sothey both went together.
+9They came totheplace which God had
+toldhim of.Abraham built thealtar there,
+andlaidthewood inorder, bound Isaac his
+son, andlaidhimonthealtar, onthewood.
+10Abraham stretched outhishand, and
+took theknife tokillhisson.
+11TheLORD ’sangel called tohim outof
+thesky,andsaid, “Abraham, Abraham! ”
+Hesaid, “Here Iam. ”
+12Hesaid, “Don ’tlayyour hand onthe
+boy ordoanything tohim. Fornow I
+know that you fear God, since you have
+notwithheld your son, your only son, from
+me. ”
+13Abraham lifted uphis eyes, and
+looked, and saw that behind him was a
+ram caught inthethicket byhishorns.
+Abraham went and took theram, and
+offered himupforaburnt offering instead
+ofhisson.
+14Abraham called thename ofthatplace
+“TheLORD Will Provide ”.†Asitissaid to
+thisday, “OntheLORD ’smountain, itwill
+beprovided. ”
+15TheLORD ’sangel called toAbraham a
+second time outofthesky,
+16and said, “ ‘Ihave sworn bymyself, ’
+says theLORD, ‘because you have done
+thisthing, andhave notwithheld your son,
+your only son,
+17that Iwill bless you greatly, and I
+will multiply your offspring greatly like
+thestars oftheheavens, andlikethesand
+which isontheseashore. Your offspring
+willpossess thegate ofhisenemies.
+18Allthenations oftheearth will be
+blessed byyour offspring, because you
+have obeyed myvoice. ’ ”
+19SoAbraham returned tohisyoung
+men, and they rose upand went together
+toBeersheba. Abraham lived atBeer-
+sheba.
+20After these things, Abraham was told,
+“Behold, Milcah, shealso hasborne chil-
+dren toyour brother Nahor:
+‡21:31 Beersheba canmean “well oftheoath ”or“well ofseven ”.§21:33 LORD orGOD inallcaps isfrom the
+Hebrew יהוה Yahweh except when otherwise noted asbeing from theshort form יהYah. †22:14 or,theLORD
+Jireh, or,theLORD Seeing
+--- PAGE 25 ---
+Genesis 22:21 21 Genesis 24:3
+21Uzhisfirstborn, Buz hisbrother, Ke-
+muel thefather ofAram,
+22Chesed, Hazo, Pildash, Jidlaph, and
+Bethuel. ”
+23Bethuel became thefather ofRebekah.
+These eight Milcah bore toNahor, Abra-
+ham ’sbrother.
+24His concubine, whose name was
+Reumah, also bore Tebah, Gaham, Tahash,
+andMaacah.
+23
+1Sarah lived onehundred twenty-seven
+years. This wasthelength ofSarah ’slife.
+2Sarah died inKiriath Arba (also called
+Hebron), intheland ofCanaan. Abraham
+came tomourn forSarah, andtoweep for
+her.
+3Abraham rose upfrom before hisdead
+andspoke tothechildren ofHeth, saying,
+4“Iamastranger and aforeigner liv-
+ingwith you. Give meapossession ofa
+burying-place with you, that Imay bury
+mydead outofmysight. ”
+5The children ofHeth answered Abra-
+ham, saying tohim,
+6“Hear us,mylord. You areaprince
+ofGod among us.Bury your dead inthe
+best ofourtombs. None ofuswillwithhold
+from youhistomb. Bury your dead. ”
+7Abraham rose up,and bowed himself
+tothepeople oftheland, tothechildren of
+Heth.
+8Hetalked with them, saying, “Ifyou
+agree that Ishould bury mydead outof
+mysight, hear me, and entreat formeto
+Ephron thesonofZohar,
+9that hemay sellmethecave ofMach-
+pelah, which hehas, which isintheendof
+hisfield. Forthefullprice lethim sellitto
+meamong youasapossession foraburial
+place. ”
+10Now Ephron was sitting inthemiddle
+ofthechildren ofHeth. Ephron theHittite
+answered Abraham inthehearing ofthe
+children ofHeth, even ofallwho went in
+atthegate ofhiscity, saying,
+11“No,mylord, hear me. Igive youthe
+field, andIgive youthecave that isinit.In
+thepresence ofthechildren ofmypeople I
+give ittoyou. Bury your dead. ”12Abraham bowed himself down before
+thepeople oftheland.
+13Hespoke toEphron intheaudience of
+thepeople oftheland, saying, “Butifyou
+will, please hear me.Iwillgive theprice of
+thefield. Take itfrom me,and Iwillbury
+mydead there. ”
+14Ephron answered Abraham, saying to
+him,
+15“Mylord, listen tome. What isa
+piece ofland worth four hundred shekels
+ofsilver †between meandyou? Therefore
+bury your dead. ”
+16Abraham listened toEphron. Abra-
+ham weighed toEphron thesilver which
+hehad named inthehearing ofthechil-
+dren ofHeth, four hundred shekels ofsil-
+ver, according tothecurrent merchants ’
+standard.
+17Sothefield ofEphron, which was in
+Machpelah, which was before Mamre, the
+field, thecave which was init,and allthe
+trees that were inthefield, that were inall
+ofitsborders, were deeded
+18toAbraham forapossession inthe
+presence ofthechildren ofHeth, before all
+who went inatthegate ofhiscity.
+19After this, Abraham buried Sarah his
+wife inthecave ofthefield ofMachpelah
+before Mamre (that is,Hebron), intheland
+ofCanaan.
+20The field, and thecave that isinit,
+were deeded toAbraham bythechildren
+ofHeth asapossession foraburial place.
+24
+1Abraham was old, and well advanced
+inage. TheLORD hadblessed Abraham in
+allthings.
+2Abraham said tohisservant, theel-
+derofhishouse, who ruled over allthat
+hehad, “Please putyour hand under my
+thigh.
+3Iwillmake youswear bytheLORD, the
+God ofheaven and theGod oftheearth,
+that you shall nottake awife formyson
+ofthedaughters oftheCanaanites, among
+whom Ilive.
+†23:15 Ashekel isabout 10grams, so400shekels would beabout 4kg.or8.8pounds.
+--- PAGE 26 ---
+Genesis 24:4 22 Genesis 24:30
+4Butyoushall gotomycountry, and to
+myrelatives, and take awife formyson
+Isaac. ”
+5The servant said tohim, “What ifthe
+woman isn’twilling tofollow metothis
+land? Must Ibring your sonagain tothe
+land youcame from? ”
+6Abraham said tohim, “Beware thatyou
+don ’tbring mysonthere again.
+7The LORD, theGod ofheaven —who
+took mefrom myfather ’shouse, andfrom
+theland ofmybirth, who spoke tome,
+and who swore tome,saying, ‘Iwill give
+thisland toyour offspring —hewillsend his
+angel before you, andyoushall take awife
+formysonfrom there.
+8Ifthewoman isn’twilling tofollow you,
+then you shall beclear from this oath to
+me.Only youshall notbring mysonthere
+again. ”
+9The servant puthishand under the
+thigh ofAbraham hismaster, andswore to
+him concerning thismatter.
+10The servant took tenofhismaster ’s
+camels, and departed, having avariety of
+good things ofhismaster ’swith him. He
+arose, and went toMesopotamia, tothe
+cityofNahor.
+11Hemade thecamels kneel down out-
+sidethecitybythewell ofwater atthetime
+ofevening, thetime that women gooutto
+draw water.
+12Hesaid, “LORD, theGod ofmymaster
+Abraham, please give mesuccess today,
+and show kindness tomymaster Abra-
+ham.
+13Behold, Iamstanding bythespring of
+water. Thedaughters ofthemen ofthecity
+arecoming outtodraw water.
+14Letithappen, that theyoung lady to
+whom Iwill say, ‘Please letdown your
+pitcher, that Imay drink, ’then shesays,
+‘Drink, and Iwill also give your camels a
+drink, ’—letherbetheone you have ap-
+pointed foryour servant Isaac. Bythis I
+willknow thatyouhave shown kindness to
+mymaster. ”
+15Before hehad finished speaking, be-
+hold, Rebekah came out,who was born toBethuel thesonofMilcah, thewife ofNa-
+hor, Abraham ’sbrother, with herpitcher
+onhershoulder.
+16Theyoung lady was very beautiful to
+look at,avirgin. Noman had known her.
+She went down tothespring, filled her
+pitcher, andcame up.
+17Theservant rantomeet her,andsaid,
+“Please give meadrink, alittle water from
+your pitcher. ”
+18Shesaid, “Drink, mylord. ”Shehur-
+ried, andletdown herpitcher onherhand,
+andgave him adrink.
+19When shehad finished giving him a
+drink, shesaid, “Iwill also draw foryour
+camels, until they have finished drinking. ”
+20Shehurried, andemptied herpitcher
+into thetrough, and ranagain tothewell
+todraw, anddrew forallhiscamels.
+21Theman looked steadfastly ather,re-
+maining silent, toknow whether theLORD
+hadmade hisjourney prosperous ornot.
+22Asthecamels had finished drinking,
+theman took agolden ring ofhalfashekel †
+weight, andtwobracelets forherhands of
+tenshekels weight ofgold,
+23and said, “Whose daughter areyou?
+Please tellme. Isthere room inyour fa-
+ther ’shouse forustostay? ”
+24Shesaid tohim, “Iamthedaughter of
+Bethuel thesonofMilcah, whom shebore
+toNahor. ”
+25Shesaid moreover tohim, “Wehave
+both straw and feed enough, and room to
+lodge in.”
+26The man bowed hishead, and wor-
+shiped theLORD.
+27Hesaid, “Blessed betheLORD, the
+God ofmymaster Abraham, who hasnot
+forsaken hisloving kindness andhistruth
+toward mymaster. Asforme, theLORD
+hasledmeontheway tothehouse ofmy
+master ’srelatives. ”
+28The young lady ran, and told her
+mother ’shouse about these words.
+29Rebekah hadabrother, andhisname
+was Laban. Laban ranouttotheman, to
+thespring.
+30When hesaw the ring, and the
+bracelets onhissister ’shands, and when
+†24:22 Ashekel isabout 10grams orabout 0.35 ounces.
+--- PAGE 27 ---
+Genesis 24:31 23 Genesis 24:55
+heheard thewords ofRebekah hissister,
+saying, “This iswhat theman said tome, ”
+hecame totheman. Behold, hewas
+standing bythecamels atthespring.
+31Hesaid, “Come in,youblessed ofthe
+LORD. Why doyou stand outside? ForI
+have prepared thehouse, androom forthe
+camels. ”
+32Theman came into thehouse, andhe
+unloaded thecamels. Hegave straw and
+feed forthecamels, andwater towash his
+feetandthefeetofthemen who were with
+him.
+33Food was setbefore him toeat,buthe
+said, “Iwill noteatuntil Ihave told my
+message. ”
+Laban said, “Speak on.”
+34Hesaid, “IamAbraham ’sservant.
+35The LORD has blessed my master
+greatly. Hehasbecome great. The LORD
+hasgiven him flocks andherds, silver and
+gold, male servants and female servants,
+andcamels anddonkeys.
+36Sarah, mymaster ’swife, bore asonto
+mymaster when shewasold.Hehasgiven
+allthat hehastohim.
+37Mymaster made meswear, saying,
+‘Youshall nottake awife formysonfrom
+thedaughters oftheCanaanites, inwhose
+land Ilive,
+38butyoushall gotomyfather ’shouse,
+andtomyrelatives, andtake awife formy
+son. ’
+39Iasked mymaster, ‘What ifthewoman
+willnotfollow me? ’
+40Hesaid tome, ‘The LORD, before
+whom Iwalk, willsend hisangel with you,
+and prosper your way. You shall take a
+wife formysonfrom myrelatives, and of
+myfather ’shouse.
+41Then youwillbeclear from myoath,
+when you come tomyrelatives. Ifthey
+don ’tgive hertoyou, you shall beclear
+from myoath. ’
+42Icame today tothespring, and said,
+‘The LORD, theGod ofmymaster Abra-
+ham, ifnow youdoprosper myway which
+Igo—
+43behold, Iamstanding bythis spring
+ofwater. Letithappen, that themaiden
+who comes outtodraw, towhom Iwillsay,“Please give mealittle water from your
+pitcher todrink, ”
+44then shetells me, “Drink, and Iwill
+also draw foryour camels, ”—letherbethe
+woman whom theLORD hasappointed for
+mymaster ’sson. ’
+45Before Ihad finished speaking inmy
+heart, behold, Rebekah came outwith her
+pitcher onhershoulder. Shewent down to
+thespring, anddrew. Isaid toher, ‘Please
+letmedrink. ’
+46Shehurried and letdown herpitcher
+from hershoulder, and said, ‘Drink, and
+Iwill also give your camels adrink. ’So
+Idrank, and shealso gave thecamels a
+drink.
+47Iasked her, and said, ‘Whose daugh-
+terareyou? ’She said, ‘The daughter of
+Bethuel, Nahor ’sson,whom Milcah bore to
+him. ’Iputthering onhernose, and the
+bracelets onherhands.
+48Ibowed myhead, and worshiped the
+LORD, and blessed theLORD, theGod of
+mymaster Abraham, who had ledmein
+theright way totake mymaster ’sbrother ’s
+daughter forhisson.
+49Now ifyouwill deal kindly and truly
+with mymaster, tellme.Ifnot,tellme,that
+Imay turn totheright hand, ortotheleft. ”
+50Then Laban and Bethuel answered,
+“The thing proceeds from theLORD. We
+can ’tspeak toyoubadorgood.
+51Behold, Rebekah isbefore you. Take
+her, and go,and letherbeyour master ’s
+son ’swife, astheLORD hasspoken. ”
+52When Abraham ’sservant heard their
+words, hebowed himself down tothe
+earth totheLORD.
+53The servant brought out jewels of
+silver, and jewels ofgold, and clothing,
+and gave them toRebekah. Healso gave
+precious things toher brother and her
+mother.
+54They ateand drank, heand themen
+who were with him, and stayed allnight.
+They rose upinthemorning, andhesaid,
+“Send meaway tomymaster. ”
+55Herbrother andhermother said, “Let
+theyoung lady stay with usafewdays, at
+least ten.After that shewillgo.”
+--- PAGE 28 ---
+Genesis 24:56 24 Genesis 25:21
+56Hesaid tothem, “Don ’thinder me,
+since theLORD has prospered myway.
+Send meaway that Imay gotomymaster. ”
+57They said, “Wewillcalltheyoung lady,
+andaskher. ”
+58They called Rebekah, and said toher,
+“Will yougowith thisman? ”
+Shesaid, “Iwillgo.”
+59They sent away Rebekah, their sister,
+with hernurse, Abraham ’sservant, and
+hismen.
+60They blessed Rebekah, and said to
+her, “Our sister, may youbethemother of
+thousands oftenthousands, and letyour
+offspring possess thegate ofthose who
+hate them. ”
+61Rebekah arose with herladies. They
+rode onthecamels, andfollowed theman.
+The servant took Rebekah, and went his
+way.
+62Isaac came from theway ofBeer Lahai
+Roi,forhelived intheland oftheSouth.
+63Isaac went outtomeditate inthefield
+attheevening. Helifted uphiseyes and
+looked. Behold, there were camels com-
+ing.
+64Rebekah lifted uphereyes, andwhen
+shesawIsaac, shegotoffthecamel.
+65She said totheservant, “Who isthe
+man who iswalking inthefield tomeet
+us?”
+Theservant said, “Itismymaster. ”
+Shetook herveil, andcovered herself.
+66The servant told Isaac allthethings
+that hehaddone.
+67Isaac brought her into hismother
+Sarah ’stent, and took Rebekah, and she
+became hiswife. Heloved her. SoIsaac
+wascomforted after hismother ’sdeath.
+25
+1Abraham took another wife, and her
+name wasKeturah.
+2Shebore him Zimran, Jokshan, Medan,
+Midian, Ishbak, andShuah.
+3Jokshan became thefather ofSheba,
+and Dedan. The sons ofDedan were
+Asshurim, Letushim, andLeummim.
+4Thesons ofMidian were Ephah, Epher,
+Hanoch, Abida, andEldaah. Allthese were
+thechildren ofKeturah.
+5Abraham gave allthat hehadtoIsaac,6but Abraham gave gifts tothesons
+ofAbraham ’sconcubines. While hestill
+lived, hesent them away from Isaac his
+son, eastward, totheeast country.
+7These arethedays oftheyears ofAbra-
+ham ’slifewhich helived: one hundred
+seventy-five years.
+8Abraham gave uphisspirit, and died
+atagood oldage, anoldman, and fullof
+years, andwasgathered tohispeople.
+9Isaac andIshmael, hissons, buried him
+inthecave ofMachpelah, inthefield of
+Ephron, thesonofZohar theHittite, which
+isnear Mamre,
+10thefield which Abraham purchased
+from thechildren ofHeth. Abraham was
+buried there with Sarah, hiswife.
+11After the death ofAbraham, God
+blessed Isaac, hisson. Isaac lived byBeer
+Lahai Roi.
+12Now this isthehistory ofthegener-
+ations ofIshmael, Abraham ’sson, whom
+Hagar theEgyptian, Sarah ’sservant, bore
+toAbraham.
+13These arethenames ofthesons ofIsh-
+mael, bytheir names, according totheor-
+deroftheir birth: thefirstborn ofIshmael,
+Nebaioth, then Kedar, Adbeel, Mibsam,
+14Mishma, Dumah, Massa,
+15Hadad, Tema, Jetur, Naphish, and
+Kedemah.
+16These arethesons ofIshmael, and
+these aretheir names, bytheir villages,
+and bytheir encampments: twelve
+princes, according totheir nations.
+17These aretheyears ofthelifeofIsh-
+mael: onehundred thirty-seven years. He
+gave uphisspirit and died, and was gath-
+ered tohispeople.
+18They lived from Havilah toShur thatis
+before Egypt, asyougotoward Assyria. He
+lived opposite allhisrelatives.
+19This isthehistory ofthegenerations
+ofIsaac, Abraham ’sson. Abraham became
+thefather ofIsaac.
+20Isaac was forty years oldwhen he
+took Rebekah, thedaughter ofBethuel the
+Syrian ofPaddan Aram, thesister ofLaban
+theSyrian, tobehiswife.
+21Isaac entreated theLORD forhiswife,
+because shewas barren. The LORD was
+--- PAGE 29 ---
+Genesis 25:22 25 Genesis 26:16
+entreated byhim, and Rebekah hiswife
+conceived.
+22The children struggled together
+within her. Shesaid, “Ifitislikethis, why
+doIlive? ”Shewent toinquire oftheLORD.
+23TheLORD said toher,
+“Two nations areinyour womb.
+Two peoples will beseparated from your
+body.
+The one people will bestronger than the
+other people.
+Theelder willserve theyounger. ”
+24When herdays tobedelivered were
+fulfilled, behold, there were twins inher
+womb.
+25The first came outredallover, likea
+hairy garment. They named him Esau.
+26After that, hisbrother came out, and
+hishand hadhold onEsau ’sheel. Hewas
+named Jacob. Isaac was sixty years old
+when shebore them.
+27The boys grew. Esau was askillful
+hunter, aman ofthefield. Jacob was a
+quiet man, living intents.
+28Now Isaac loved Esau, because heate
+hisvenison. Rebekah loved Jacob.
+29Jacob boiled stew. Esau came infrom
+thefield, andhewasfamished.
+30Esau said toJacob, “Please feed me
+with some ofthat redstew, forIamfam-
+ished. ”Therefore hisname was called
+Edom. †
+31Jacob said, “First, sell me your
+birthright. ”
+32Esau said, “Behold, Iamabout todie.
+What good isthebirthright tome? ”
+33Jacob said, “Swear tomefirst. ”
+Heswore tohim. Hesold hisbirthright
+toJacob.
+34Jacob gave Esau bread andlentil stew.
+Heateand drank, rose up,and went his
+way. SoEsau despised hisbirthright.
+26
+1There was afamine intheland, in
+addition tothefirst famine that was inthe
+days ofAbraham. Isaac went toAbimelech
+king ofthePhilistines, toGerar.
+2The LORD appeared tohim, and said,
+“Don ’tgodown intoEgypt. Live intheland
+Iwilltellyouabout.3Live inthisland, andIwillbewith you,
+and will bless you. ForIwill give toyou,
+and toyour offspring, allthese lands, and
+Iwill establish theoath which Iswore to
+Abraham your father.
+4Iwill multiply your offspring asthe
+stars ofthesky,andwillgive allthese lands
+toyour offspring. Inyour offspring allthe
+nations oftheearth willbeblessed,
+5because Abraham obeyed myvoice,
+andkept myrequirements, mycommand-
+ments, mystatutes, andmylaws. ”
+6Isaac lived inGerar.
+7Themen oftheplace asked him about
+hiswife. Hesaid, “She ismysister, ”for
+hewas afraid tosay, “Mywife ”,lest, he
+thought, “themen oftheplace might kill
+meforRebekah, because sheisbeautiful to
+look at.”
+8When hehad been there along time,
+Abimelech king ofthePhilistines looked
+outatawindow, and saw, and, behold,
+Isaac wascaressing Rebekah, hiswife.
+9Abimelech called Isaac, and said, “Be-
+hold, surely sheisyour wife. Why didyou
+say, ‘Sheismysister ’?”
+Isaac said tohim, “Because Isaid, ‘Lest I
+diebecause ofher. ’ ”
+10Abimelech said, “What isthisyouhave
+done tous?One ofthepeople might easily
+have lain with your wife, and you would
+have brought guilt onus!”
+11Abimelech commanded allthepeople,
+saying, “Hewho touches this man orhis
+wife willsurely beputtodeath. ”
+12Isaac sowed inthat land, and reaped
+inthesame year onehundred times what
+heplanted. TheLORD blessed him.
+13The man grew great, and grew more
+andmore until hebecame very great.
+14Hehad possessions offlocks, posses-
+sions ofherds, andagreat household. The
+Philistines envied him.
+15Now allthewells which hisfather ’s
+servants had duginthedays ofAbraham
+hisfather, thePhilistines hadstopped, and
+filled with earth.
+16Abimelech said toIsaac, “Goaway
+from us,foryou aremuch mightier than
+we.”
+†25:30 “Edom ”means “red”.
+--- PAGE 30 ---
+Genesis 26:17 26 Genesis 27:9
+17Isaac departed from there, encamped
+inthevalley ofGerar, andlived there.
+18Isaac dug again thewells ofwater,
+which they had dug inthedays ofAbra-
+ham hisfather, forthe Philistines had
+stopped them after thedeath ofAbraham.
+Hecalled their names after thenames by
+which hisfather hadcalled them.
+19Isaac ’sservants duginthevalley, and
+found there awell offlowing †water.
+20The herdsmen ofGerar argued with
+Isaac ’sherdsmen, saying, “The water is
+ours. ”Sohecalled thename ofthewell
+Esek, ‡because they contended with him.
+21They dug another well, and they ar-
+gued over that, also. Sohecalled itsname
+Sitnah. §
+22Heleftthat place, and dug another
+well. They didn ’targue over that one. So
+hecalled itRehoboth. †Hesaid, “Fornow
+theLORD hasmade room forus,and we
+willbefruitful intheland. ”
+23Hewent upfrom there toBeersheba.
+24The LORD appeared tohim thesame
+night, andsaid, “IamtheGod ofAbraham
+your father. Don ’tbeafraid, forIamwith
+you, andwillbless you, andmultiply your
+offspring formyservant Abraham ’ssake. ”
+25Hebuilt analtar there, and called
+ontheLORD ’sname, and pitched histent
+there. There Isaac ’sservants dugawell.
+26Then Abimelech went tohim from
+Gerar with Ahuzzath hisfriend, andPhicol
+thecaptain ofhisarmy.
+27Isaac said tothem, “Why have you
+come tome,since youhate me,and have
+sent meaway from you? ”
+28They said, “Wesaw plainly that the
+LORD was with you. Wesaid, ‘Letthere
+now beanoath between us,even between
+usandyou, andlet’smake acovenant with
+you,
+29thatyouwilldousnoharm, aswehave
+nottouched you, and aswehave done to
+you nothing butgood, and have sent you
+away inpeace. ’Youarenow theblessed of
+theLORD. ”
+30Hemade them afeast, andthey ateand
+drank.31They rose upsome time inthemorn-
+ing, and swore anoath toone another.
+Isaac sent them away, and they departed
+from him inpeace.
+32The same day, Isaac ’sservants came,
+and told him concerning thewell which
+they had dug, and said tohim, “Wehave
+found water. ”
+33Hecalled it“Shibah ”.‡Therefore the
+name ofthecity is“Beersheba ”§tothis
+day.
+34When Esau was forty years old, he
+took aswife Judith, thedaughter ofBeeri
+theHittite, andBasemath, thedaughter of
+Elon theHittite.
+35They grieved Isaac ’sand Rebekah ’s
+spirits.
+27
+1When Isaac was old,andhiseyes were
+dim, sothathecould notsee,hecalled Esau
+hiselder son, andsaid tohim, “Myson? ”
+Hesaid tohim, “Here Iam. ”
+2Hesaid, “Seenow, Iamold. Idon ’t
+know thedayofmydeath.
+3Now therefore, please take your
+weapons, your quiver and your bow, and
+goouttothefield, andgetmevenison.
+4Make mesavory food, such asIlove,
+andbring ittome,that Imay eat,andthat
+mysoul may bless youbefore Idie. ”
+5Rebekah heard when Isaac spoke to
+Esau hisson. Esau went tothefield tohunt
+forvenison, andtobring it.
+6Rebekah spoke toJacob herson, saying,
+“Behold, Iheard your father speak toEsau
+your brother, saying,
+7‘Bring mevenison, and make mesa-
+vory food, that Imay eat, and bless you
+before theLORD before mydeath. ’
+8Now therefore, myson, obey myvoice
+according tothat which Icommand you.
+9Gonow totheflock and getmetwo
+good young goats from there. Iwillmake
+them savory food foryour father, such as
+heloves.
+†26:19 Or,living. Or,fresh. ‡26:20 “Esek ”means “contention ”.§26:21 “Sitnah ”means “hostility ”.†26:22
+“Rehoboth ”means “broad places ”.‡26:33 Shibah means “oath ”or“seven ”.§26:33 Beersheba means “well of
+theoath ”or“well oftheseven ”
+--- PAGE 31 ---
+Genesis 27:10 27 Genesis 27:37
+10You shall bring ittoyour father, that
+hemay eat,sothathemay bless youbefore
+hisdeath. ”
+11Jacob said toRebekah hismother, “Be-
+hold, Esau mybrother isahairy man, and
+Iamasmooth man.
+12What ifmyfather touches me? Iwill
+seem tohim asadeceiver, and Iwould
+bring acurse onmyself, and notabless-
+ing. ”
+13His mother said tohim, “Letyour
+curse beonme, myson. Only obey my
+voice, andgogetthem forme. ”
+14Hewent, and gotthem, and brought
+them tohismother. Hismother made
+savory food, such ashisfather loved.
+15Rebekah took thegood clothes ofEsau,
+herelder son, which were with herinthe
+house, andputthem onJacob, heryounger
+son.
+16Sheputtheskins oftheyoung goats on
+hishands, andonthesmooth ofhisneck.
+17She gave the savory food and the
+bread, which shehad prepared, into the
+hand ofhersonJacob.
+18Hecame tohisfather, and said, “My
+father? ”
+Hesaid, “Here Iam. Who areyou, my
+son? ”
+19Jacob said tohisfather, “IamEsau
+your firstborn. Ihave done what youasked
+metodo. Please arise, sitand eatofmy
+venison, that your soul may bless me. ”
+20Isaac said tohisson, “How isitthatyou
+have found itsoquickly, myson? ”
+Hesaid, “Because theLORD your God
+gave mesuccess. ”
+21Isaac said toJacob, “Please come near,
+that Imay feelyou, myson, whether you
+arereally mysonEsau ornot. ”
+22Jacob went near toIsaac hisfather.
+Hefelthim, and said, “The voice isJa-
+cob ’svoice, butthehands arethehands of
+Esau. ”
+23Hedidn ’trecognize him, because his
+hands were hairy, likehisbrother Esau ’s
+hands. Soheblessed him.
+24Hesaid, “Areyoureally mysonEsau? ”
+Hesaid, “Iam. ”
+25Hesaid, “Bring itnear tome,andIwill
+eatofmyson ’svenison, that mysoul may
+bless you. ”Hebrought itnear tohim, andheate.He
+brought him wine, andhedrank.
+26Hisfather Isaac said tohim, “Come
+near now, andkissme,myson. ”
+27Hecame near, and kissed him. He
+smelled the smell ofhisclothing, and
+blessed him, andsaid,
+“Behold, thesmell ofmyson
+isasthesmell ofafield which the
+LORD hasblessed.
+28God give youofthedew ofthesky,
+ofthefatness oftheearth,
+andplenty ofgrain andnew wine.
+29Letpeoples serve you,
+andnations bow down toyou.
+Belord over your brothers.
+Letyour mother ’ssons bow down to
+you.
+Cursed beeveryone who curses you.
+Blessed beeveryone who blesses you. ”
+30Assoon asIsaac hadfinished blessing
+Jacob, and Jacob had just gone outfrom
+thepresence ofIsaac hisfather, Esau his
+brother came infrom hishunting.
+31He also made savory food, and
+brought ittohisfather. Hesaid tohis
+father, “Letmyfather arise, and eatofhis
+son ’svenison, that your soul may bless
+me. ”
+32Isaac hisfather said tohim, “Who are
+you? ”
+Hesaid, “Iamyour son, your firstborn,
+Esau. ”
+33Isaac trembled violently, and said,
+“Who, then, ishewho hastaken venison,
+andbrought ittome,andIhave eaten ofall
+before you came, and have blessed him?
+Yes,hewillbeblessed. ”
+34When Esau heard thewords ofhis
+father, hecried with anexceedingly great
+andbitter cry,andsaid tohisfather, “Bless
+me,even mealso, myfather. ”
+35Hesaid, “Your brother came with de-
+ceit, andhastaken away your blessing. ”
+36Hesaid, “Isn’therightly named Jacob?
+Forhehassupplanted methese twotimes.
+Hetook away mybirthright. See, now
+hehastaken away myblessing. ”Hesaid,
+“Haven ’tyoureserved ablessing forme? ”
+37Isaac answered Esau, “Behold, Ihave
+made him your lord, and allhisbrothers
+Ihave given tohim forservants. Ihave
+--- PAGE 32 ---
+Genesis 27:38 28 Genesis 28:16
+sustained him with grain and new wine.
+What then willIdoforyou, myson? ”
+38Esau said tohisfather, “Doyou have
+just one blessing, myfather? Bless me,
+even mealso, myfather. ”Esau lifted uphis
+voice, andwept.
+39Isaac hisfather answered him,
+“Behold, your dwelling will beofthefat-
+ness oftheearth,
+andofthedew oftheskyfrom above.
+40Youwilllivebyyour sword, andyouwill
+serve your brother.
+Itwillhappen, when youwillbreak loose,
+that youwillshake hisyoke from offyour
+neck. ”
+41Esau hated Jacob because ofthebless-
+ingwith which hisfather blessed him.
+Esau said inhisheart, “Thedays ofmourn-
+ingformyfather areathand. Then Iwill
+killmybrother Jacob. ”
+42Thewords ofEsau, herelder son, were
+toldtoRebekah. Shesent andcalled Jacob,
+heryounger son, andsaid tohim, “Behold,
+your brother Esau comforts himself about
+youbyplanning tokillyou.
+43Now therefore, myson, obey myvoice.
+Arise, fleetoLaban, mybrother, inHaran.
+44Stay with him afew days, until your
+brother ’sfury turns away —
+45until your brother ’sanger turns away
+from you, and heforgets what you have
+done tohim. Then Iwillsend, andgetyou
+from there. Why should Ibebereaved of
+youboth inoneday? ”
+46Rebekah said toIsaac, “Iamweary of
+mylifebecause ofthedaughters ofHeth. If
+Jacob takes awife ofthedaughters ofHeth,
+such asthese, ofthedaughters oftheland,
+what good willmylifedome? ”
+28
+1Isaac called Jacob, blessed him, and
+commanded him, “Youshall nottake awife
+ofthedaughters ofCanaan.
+2Arise, gotoPaddan Aram, tothehouse
+ofBethuel your mother ’sfather. Take a
+wife from there from thedaughters ofLa-
+ban, your mother ’sbrother.
+3May God Almighty bless you, andmake
+you fruitful, and multiply you, that you
+may beacompany ofpeoples,4andgive youtheblessing ofAbraham,
+toyouandtoyour offspring with you, that
+youmay inherit theland where youtravel,
+which God gave toAbraham. ”
+5Isaac sent Jacob away. Hewent to
+Paddan Aram toLaban, sonofBethuel the
+Syrian, thebrother ofRebekah, Jacob ’sand
+Esau ’smother.
+6Now Esau saw that Isaac had blessed
+Jacob andsent him away toPaddan Aram,
+totake him awife from there, and that as
+heblessed him hegave him acommand,
+saying, “You shall nottake awife ofthe
+daughters ofCanaan; ”
+7and that Jacob obeyed hisfather and
+hismother, andwasgone toPaddan Aram.
+8Esau saw that thedaughters ofCanaan
+didn ’tplease Isaac, hisfather.
+9SoEsau went toIshmael, and took, in
+addition tothewives that hehad, Maha-
+lath thedaughter ofIshmael, Abraham ’s
+son, thesister ofNebaioth, tobehiswife.
+10Jacob went outfrom Beersheba, and
+went toward Haran.
+11Hecame toacertain place, andstayed
+there allnight, because thesun had set.
+Hetook oneofthestones oftheplace, and
+putitunder hishead, andlaydown inthat
+place tosleep.
+12Hedreamed and saw astairway set
+upon theearth, and itstopreached to
+heaven. Behold, theangels ofGod were
+ascending anddescending onit.
+13Behold, theLORD stood above it,and
+said, “IamtheLORD, theGod ofAbraham
+your father, and theGod ofIsaac. Iwill
+give theland youlieontoyouandtoyour
+offspring.
+14Your offspring willbeasthedust ofthe
+earth, and you will spread abroad tothe
+west, andtotheeast, andtothenorth, and
+tothesouth. Inyouandinyour offspring,
+allthefamilies oftheearth willbeblessed.
+15Behold, Iamwith you, and will keep
+you, wherever yougo,and willbring you
+again intothisland. ForIwillnotleave you
+until Ihave done that which Ihave spoken
+oftoyou. ”
+16Jacob awakened outofhissleep, and
+hesaid, “Surely theLORD isinthisplace,
+andIdidn ’tknow it.”
+--- PAGE 33 ---
+Genesis 28:17 29 Genesis 29:25
+17Hewas afraid, and said, “How awe-
+some thisplace is!This isnone other than
+God ’shouse, andthisisthegate ofheaven. ”
+18Jacob rose upearly inthemorning,
+and took thestone that hehad putunder
+hishead, and setitupforapillar, and
+poured oilonitstop.
+19Hecalled the name ofthat place
+Bethel, butthename ofthecitywas Luzat
+thefirst.
+20Jacob vowed avow, saying, “IfGodwill
+bewith me,and will keep meinthisway
+thatIgo,andwillgive mebread toeat,and
+clothing toputon,
+21sothat Icome again tomyfather ’s
+house inpeace, and theLORD will bemy
+God,
+22then thisstone, which Ihave setupfor
+apillar, willbeGod ’shouse. Ofallthat you
+will give meIwill surely give atenth to
+you. ”
+29
+1Then Jacob went onhisjourney, and
+came totheland ofthechildren oftheeast.
+2Helooked, and saw awell inthefield,
+and saw three flocks ofsheep lying there
+byit.Foroutofthat well they watered the
+flocks. Thestone onthewell ’smouth was
+large.
+3There alltheflocks were gathered.
+They rolled the stone from the well ’s
+mouth, andwatered thesheep, andputthe
+stone back onthewell ’smouth initsplace.
+4Jacob said tothem, “My relatives,
+where areyoufrom? ”
+They said, “Wearefrom Haran. ”
+5Hesaid tothem, “Doyouknow Laban,
+thesonofNahor? ”
+They said, “Weknow him. ”
+6Hesaid tothem, “Isitwell with him? ”
+They said, “Itiswell. See, Rachel, his
+daughter, iscoming with thesheep. ”
+7Hesaid, “Behold, itisstill themiddle
+oftheday, nottime togather thelivestock
+together. Water thesheep, andgoandfeed
+them. ”
+8They said, “Wecan ’t,until alltheflocks
+aregathered together, and they roll the
+stone from thewell ’smouth. Then wewill
+water thesheep. ”9While hewas yetspeaking with them,
+Rachel came with herfather ’ssheep, for
+shekept them.
+10When Jacob saw Rachel thedaughter
+ofLaban, hismother ’sbrother, and the
+sheep ofLaban, hismother ’sbrother, Ja-
+cobwent near, and rolled thestone from
+thewell ’smouth, andwatered theflock of
+Laban hismother ’sbrother.
+11Jacob kissed Rachel, and lifted uphis
+voice, andwept.
+12Jacob told Rachel that hewas herfa-
+ther ’srelative, and that hewas Rebekah ’s
+son. Sheranandtoldherfather.
+13When Laban heard thenews ofJa-
+cob, hissister ’sson, herantomeet Jacob,
+and embraced him, and kissed him, and
+brought himtohishouse. Jacob toldLaban
+allthese things.
+14Laban said tohim, “Surely youaremy
+bone andmyflesh. ”Jacob stayed with him
+foramonth.
+15Laban said toJacob, “Because youare
+myrelative, should youtherefore serve me
+fornothing? Tellme,what willyour wages
+be?”
+16Laban had twodaughters. Thename
+oftheelder wasLeah, andthename ofthe
+younger wasRachel.
+17Leah ’seyes were weak, butRachel was
+beautiful inform andattractive.
+18Jacob loved Rachel. Hesaid, “Iwill
+serve you seven years forRachel, your
+younger daughter. ”
+19Laban said, “Itisbetter that Igive
+hertoyou, than that Ishould give herto
+another man. Stay with me. ”
+20Jacob served seven years forRachel.
+They seemed tohim butafewdays, forthe
+love hehadforher.
+21Jacob said toLaban, “Give memywife,
+formydays arefulfilled, thatImay gointo
+her. ”
+22Laban gathered together allthemen of
+theplace, andmade afeast.
+23Inthe evening, hetook Leah his
+daughter, and brought hertoJacob. He
+went intoher.
+24Laban gave Zilpah hisservant tohis
+daughter Leah foraservant.
+25Inthemorning, behold, itwas Leah!
+Hesaid toLaban, “What isthis you have
+--- PAGE 34 ---
+Genesis 29:26 30 Genesis 30:22
+done tome? Didn ’tIserve with you for
+Rachel? Why then have youdeceived me? ”
+26Laban said, “Itisnotdone soinour
+place, togive theyounger before thefirst-
+born.
+27Fulfill theweek ofthis one, and we
+willgive youtheother also fortheservice
+which you will serve with meforseven
+more years. ”
+28Jacob didso,andfulfilled herweek. He
+gave him Rachel hisdaughter aswife.
+29Laban gave Bilhah, hisservant, tohis
+daughter Rachel tobeherservant.
+30Hewent inalsotoRachel, andheloved
+also Rachel more than Leah, and served
+with him seven more years.
+31The LORD saw that Leah was hated,
+andheopened herwomb, butRachel was
+barren.
+32Leah conceived, and bore ason, and
+shenamed him Reuben. Forshesaid, “Be-
+cause theLORD haslooked atmyaffliction;
+fornow myhusband willlove me. ”
+33Sheconceived again, and bore ason,
+and said, “Because theLORD has heard
+that Iamhated, hehastherefore given me
+thissonalso. ”Shenamed him Simeon.
+34Sheconceived again, and bore ason.
+Shesaid, “Now thistime myhusband will
+bejoined tome, because Ihave borne
+him three sons. ”Therefore hisname was
+called Levi.
+35Sheconceived again, and bore ason.
+Shesaid, “This time Iwillpraise theLORD. ”
+Therefore shenamed himJudah. Then she
+stopped bearing.
+30
+1When Rachel saw that shebore Jacob
+nochildren, Rachel envied hersister. She
+said toJacob, “Give mechildren, orelse I
+willdie. ”
+2Jacob ’sanger burned against Rachel,
+andhesaid, “AmIinGod ’splace, who has
+withheld from youthefruit ofthewomb? ”
+3Shesaid, “Behold, mymaid Bilhah. Go
+intoher,that shemay bear onmyknees,
+andIalso may obtain children byher. ”
+4She gave him Bilhah her servant as
+wife, andJacob went intoher.
+5Bilhah conceived, andbore Jacob ason.6Rachel said, “God hasjudged me,and
+hasalso heard myvoice, andhasgiven me
+ason. ”Therefore shecalled hisname Dan.
+7Bilhah, Rachel ’sservant, conceived
+again, andbore Jacob asecond son.
+8Rachel said, “Ihave wrestled with my
+sister with mighty wrestlings, and have
+prevailed. ”Shenamed him Naphtali.
+9When Leah saw that shehad finished
+bearing, shetook Zilpah, herservant, and
+gave hertoJacob asawife.
+10Zilpah, Leah ’sservant, bore Jacob a
+son.
+11Leah said, “How fortunate! ”She
+named him Gad.
+12Zilpah, Leah ’sservant, bore Jacob a
+second son.
+13Leah said, “Happy amI,forthedaugh-
+ters will callmehappy. ”Shenamed him
+Asher.
+14Reuben went inthedays ofwheat
+harvest, andfound mandrakes inthefield,
+and brought them tohismother, Leah.
+Then Rachel said toLeah, “Please give me
+some ofyour son ’smandrakes. ”
+15Leah said toher, “Isitasmall matter
+that you have taken away myhusband?
+Would youtake away myson ’smandrakes,
+also? ”
+Rachel said, “Therefore hewill liewith
+youtonight foryour son ’smandrakes. ”
+16Jacob came from the field inthe
+evening, and Leah went outtomeet him,
+and said, “You must come intome; forI
+have surely hired youwith myson ’sman-
+drakes. ”
+Helaywith herthat night.
+17God listened toLeah, and she con-
+ceived, andbore Jacob afifth son.
+18Leah said, “God hasgiven memyhire,
+because Igave myservant tomyhusband. ”
+Shenamed him Issachar.
+19Leah conceived again, andbore asixth
+sontoJacob.
+20Leah said, “God hasendowed mewith
+agood dowry. Now myhusband will live
+with me, because Ihave borne him six
+sons. ”Shenamed him Zebulun.
+21Afterwards, shebore adaughter, and
+named herDinah.
+22God remembered Rachel, andGod lis-
+tened toher,andopened herwomb.
+--- PAGE 35 ---
+Genesis 30:23 31 Genesis 31:6
+23Sheconceived, bore ason, and said,
+“God hastaken away myreproach. ”
+24Shenamed him Joseph, †saying, “May
+theLORD addanother sontome. ”
+25When Rachel hadborne Joseph, Jacob
+said toLaban, “Send meaway, that Imay
+gotomyown place, andtomycountry.
+26Give memywives andmychildren for
+whom Ihave served you, and letmego;
+foryouknow myservice with which Ihave
+served you. ”
+27Laban said tohim, “Ifnow Ihave
+found favor inyour eyes, stay here, forI
+have divined thattheLORD hasblessed me
+foryour sake. ”
+28Hesaid, “Appoint meyour wages, and
+Iwillgive it.”
+29Jacob said tohim, “You know how I
+have served you, and how your livestock
+have fared with me.
+30Foritwas little which youhadbefore
+Icame, and ithasincreased toamulti-
+tude. TheLORD hasblessed youwherever
+Iturned. Now when willIprovide formy
+own house also? ”
+31Laban said, “What shall Igive you? ”
+Jacob said, “You shall notgive meany-
+thing. Ifyouwilldothisthing forme,Iwill
+again feed your flock andkeep it.
+32Iwillpass through allyour flock today,
+removing from there every speckled and
+spotted one, and every black one among
+thesheep, and thespotted and speckled
+among thegoats. This willbemyhire.
+33Somyrighteousness will answer for
+mehereafter, when youcome concerning
+myhire that isbefore you. Every one
+that isnotspeckled and spotted among
+thegoats, and black among thesheep,
+that might bewith me,willbeconsidered
+stolen. ”
+34Laban said, “Behold, letitbeaccording
+toyour word. ”
+35That day, heremoved themale goats
+that were streaked and spotted, and all
+thefemale goats that were speckled and
+spotted, every onethathadwhite init,and
+alltheblack ones among thesheep, and
+gave them into thehand ofhissons.36Hesetthree days ’journey between
+himself andJacob, andJacob fedtherestof
+Laban ’sflocks.
+37Jacob took tohimself rods offresh
+poplar, almond, and plane tree, peeled
+white streaks inthem, andmade thewhite
+appear which wasintherods.
+38Hesettherods which hehad peeled
+opposite theflocks inthewatering troughs
+where theflocks came todrink. They con-
+ceived when they came todrink.
+39Theflocks conceived before therods,
+and theflocks produced streaked, speck-
+led,andspotted.
+40Jacob separated thelambs, andsetthe
+faces oftheflocks toward thestreaked and
+alltheblack inLaban ’sflock. Heputhis
+own droves apart, anddidn ’tputthem into
+Laban ’sflock.
+41Whenever thestronger oftheflock
+conceived, Jacob laid therods infront
+oftheeyes oftheflock inthewatering
+troughs, that they might conceive among
+therods;
+42butwhen theflock were feeble, he
+didn ’tputthem in. Sothefeebler were
+Laban ’s,andthestronger Jacob ’s.
+43The man increased exceedingly, and
+hadlarge flocks, female servants andmale
+servants, andcamels anddonkeys.
+31
+1Jacob heard Laban ’ssons ’words, say-
+ing, “Jacob hastaken away allthat wasour
+father ’s.Hehasobtained allthis wealth
+from that which wasourfather ’s.”
+2Jacob saw theexpression onLaban ’s
+face, and, behold, itwasnottoward himas
+before.
+3TheLORD said toJacob, “Return tothe
+land ofyour fathers, andtoyour relatives,
+andIwillbewith you. ”
+4Jacob sent andcalled Rachel andLeah
+tothefield tohisflock,
+5andsaid tothem, “Iseetheexpression
+onyour father ’sface, that itisnottoward
+measbefore; buttheGod ofmyfather has
+been with me.
+6You know that Ihave served your fa-
+ther with allofmystrength.
+†30:24 Joseph means “may headd ”.
+--- PAGE 36 ---
+Genesis 31:7 32 Genesis 31:35
+7Your father has deceived me, and
+changed mywages ten times, but God
+didn ’tallow him tohurt me.
+8Ifhesaid, ‘The speckled will beyour
+wages, ’then alltheflock bore speckled. If
+hesaid, ‘Thestreaked willbeyour wages, ’
+then alltheflock bore streaked.
+9Thus God hastaken away your father ’s
+livestock, andgiven them tome.
+10During mating season, Ilifted upmy
+eyes, andsaw inadream, andbehold, the
+male goats which leaped ontheflock were
+streaked, speckled, andgrizzled.
+11The angel ofGod said tomeinthe
+dream, ‘Jacob, ’andIsaid, ‘Here Iam. ’
+12Hesaid, ‘Now liftupyour eyes, andbe-
+hold, allthemale goats which leap onthe
+flock arestreaked, speckled, andgrizzled,
+forIhave seen allthat Laban does toyou.
+13IamtheGod ofBethel, where you
+anointed apillar, where youvowed avow
+tome. Now arise, getoutfrom thisland,
+andreturn totheland ofyour birth. ’ ”
+14Rachel and Leah answered him, “Is
+there yetanyportion orinheritance forus
+inourfather ’shouse?
+15Aren ’tweconsidered asforeigners by
+him? Forhehassold us,andhasalso used
+upourmoney.
+16Foralltheriches which God hastaken
+away from our father areours and our
+children ’s.Now then, whatever God has
+said toyou, do.”
+17Then Jacob rose up,and sethissons
+andhiswives onthecamels,
+18and hetook away allhislivestock,
+andallhispossessions which hehadgath-
+ered, including thelivestock which hehad
+gained inPaddan Aram, togotoIsaac his
+father, totheland ofCanaan.
+19Now Laban had gone toshear his
+sheep; andRachel stole theteraphim †that
+were herfather ’s.
+20Jacob deceived Laban theSyrian, in
+that hedidn ’ttellhim that hewas running
+away.
+21Sohefledwith allthat hehad. Herose
+up,passed over theRiver, and sethisface
+toward themountain ofGilead.22Laban was told onthethird daythat
+Jacob hadfled.
+23Hetook hisrelatives with him, and
+pursued himseven days ’journey. Heover-
+took him inthemountain ofGilead.
+24God came toLaban theSyrian ina
+dream ofthenight, and said tohim, “Be
+careful thatyoudon ’tspeak toJacob either
+good orbad. ”
+25Laban caught upwith Jacob. Now
+Jacob hadpitched histentinthemountain,
+andLaban with hisrelatives encamped in
+themountain ofGilead.
+26Laban said toJacob, “What have you
+done, that youhave deceived me,andcar-
+ried away mydaughters like captives of
+thesword?
+27Why didyoufleesecretly, anddeceive
+me, and didn ’ttellme, that Imight have
+sent youaway with mirth andwith songs,
+with tambourine andwith harp;
+28and didn ’tallow metokiss mysons
+and mydaughters? Now you have done
+foolishly.
+29Itisinthepower ofmyhand tohurt
+you, buttheGodofyour father spoke tome
+lastnight, saying, ‘Becareful thatyoudon ’t
+speak toJacob either good orbad. ’
+30Now, youwant tobegone, because you
+greatly longed foryour father ’shouse, but
+why have youstolen mygods? ”
+31Jacob answered Laban, “Because Iwas
+afraid, forIsaid, ‘Lest youshould take your
+daughters from mebyforce. ’
+32Anyone youfind your gods with shall
+notlive. Before ourrelatives, discern what
+isyours with me, and take it.”ForJacob
+didn ’tknow that Rachel hadstolen them.
+33Laban went into Jacob ’stent, into
+Leah ’stent, and into thetent ofthetwo
+female servants; buthedidn ’tfind them.
+Hewent outofLeah ’stent, and entered
+into Rachel ’stent.
+34Now Rachel had taken theteraphim,
+putthem inthecamel ’ssaddle, andsaton
+them. Laban feltaround allthetent, but
+didn ’tfind them.
+35She said toherfather, “Don ’tletmy
+lord beangry that Ican ’trise upbe-
+†31:19 teraphim were household idols that may have been associated with inheritance rights tothehousehold
+property.
+--- PAGE 37 ---
+Genesis 31:36 33 Genesis 32:5
+fore you; forI’mhaving myperiod. ”He
+searched, butdidn ’tfind theteraphim.
+36Jacob was angry, andargued with La-
+ban. Jacob answered Laban, “What ismy
+trespass? What ismysin,that you have
+hotly pursued me?
+37Now that you have feltaround inall
+mystuff, what have youfound ofallyour
+household stuff? Setithere before my
+relatives andyour relatives, that they may
+judge between ustwo.
+38“These twenty years Ihave been with
+you. Your ewes and your female goats
+have notcast their young, and Ihaven ’t
+eaten therams ofyour flocks.
+39That which was torn ofanimals, I
+didn ’tbring toyou. Ibore itsloss. Ofmy
+hand you required it,whether stolen by
+dayorstolen bynight.
+40This was mysituation: inthedaythe
+drought consumed me, and thefrost by
+night; andmysleep fledfrom myeyes.
+41These twenty years Ihave been inyour
+house. Iserved you fourteen years for
+your twodaughters, andsixyears foryour
+flock, andyouhave changed mywages ten
+times.
+42Unless theGod ofmyfather, theGod
+ofAbraham, and thefear ofIsaac, had
+been with me,surely now youwould have
+sent meaway empty. God hasseen my
+affliction and thelabor ofmyhands, and
+rebuked youlastnight. ”
+43Laban answered Jacob, “The daugh-
+tersaremydaughters, thechildren aremy
+children, theflocks aremyflocks, and all
+that youseeismine! What canIdotoday
+tothese mydaughters, ortotheir children
+whom they have borne?
+44Now come, let’smake acovenant, you
+and I.Letitbeforawitness between me
+andyou. ”
+45Jacob took astone, and setitupfora
+pillar.
+46Jacob said tohisrelatives, “Gather
+stones. ”They took stones, and made a
+heap. They atethere bytheheap.47Laban called itJegar Sahadutha, ‡but
+Jacob called itGaleed. §
+48Laban said, “This heap iswitness be-
+tween meandyoutoday. ”Therefore itwas
+named Galeed
+49and Mizpah, forhesaid, “The LORD
+watch between meandyou, when weare
+absent onefrom another.
+50Ifyou afflict mydaughters, orifyou
+take wives inaddition tomydaughters,
+noman iswith us;behold, God iswitness
+between meandyou. ”
+51Laban said toJacob, “Seethis heap,
+and seethepillar, which Ihave setbe-
+tween meandyou.
+52May this heap beawitness, and the
+pillar beawitness, that Iwillnotpass over
+thisheap toyou, andthat youwillnotpass
+over this heap and this pillar tome, for
+harm.
+53The God ofAbraham, and theGod
+ofNahor, theGod oftheir father, judge
+between us.”Then Jacob swore bythefear
+ofhisfather, Isaac.
+54Jacob offered asacrifice inthemoun-
+tain, and called hisrelatives toeatbread.
+They atebread, andstayed allnight inthe
+mountain.
+55Early inthemorning, Laban rose up,
+andkissed hissons andhisdaughters, and
+blessed them. Laban departed and re-
+turned tohisplace.
+32
+1Jacob went onhisway, and theangels
+ofGod methim.
+2When hesaw them, Jacob said, “This is
+God ’sarmy. ”Hecalled thename ofthat
+place Mahanaim. †
+3Jacob sent messengers infront ofhim
+toEsau, hisbrother, totheland ofSeir, the
+field ofEdom.
+4Hecommanded them, saying, “This is
+what youshall tellmylord, Esau: ‘This is
+what your servant, Jacob, says. Ihave lived
+asaforeigner with Laban, andstayed until
+now.
+5Ihave cattle, donkeys, flocks, male ser-
+vants, andfemale servants. Ihave sent to
+‡31:47 “Jegar Sahadutha ”means “Witness Heap ”inAramaic. §31:47 “Galeed ”means “Witness Heap ”inHebrew.
+†32:2 “Mahanaim ”means “twocamps ”.
+--- PAGE 38 ---
+Genesis 32:6 34 Genesis 32:32
+tellmylord, that Imay find favor inyour
+sight. ’ ”
+6Themessengers returned toJacob, say-
+ing, “Wecame toyour brother Esau. He
+iscoming tomeet you, and four hundred
+men arewith him. ”
+7Then Jacob was greatly afraid andwas
+distressed. Hedivided thepeople who
+were with him, along with theflocks, the
+herds, andthecamels, intotwocompanies.
+8Hesaid, “IfEsau comes totheone
+company, andstrikes it,then thecompany
+which isleftwillescape. ”
+9Jacob said, “Godofmyfather Abraham,
+andGodofmyfather Isaac, theLORD, who
+said tome, ‘Return toyour country, andto
+your relatives, andIwilldoyougood, ’
+10Iamnotworthy oftheleast ofall
+theloving kindnesses, andofallthetruth,
+which you have shown toyour servant;
+forwith just mystaff Icrossed over this
+Jordan; and now Ihave become twocom-
+panies.
+11Please deliver mefrom thehand ofmy
+brother, from thehand ofEsau; forIfear
+him, lesthecome and strike meand the
+mothers with thechildren.
+12Yousaid, ‘Iwillsurely doyougood, and
+make your offspring asthesand ofthesea,
+which can ’tbecounted because there are
+somany. ’ ”
+13Hestayed there that night, and took
+from thatwhich hehadwith himapresent
+forEsau, hisbrother:
+14twohundred female goats andtwenty
+male goats, twohundred ewes andtwenty
+rams,
+15thirty milk camels and their colts,
+forty cows, tenbulls, twenty female don-
+keys andtenfoals.
+16Hedelivered them into thehands of
+hisservants, every herd byitself, andsaid
+tohisservants, “Pass over before me,and
+putaspace between herd andherd. ”
+17Hecommanded theforemost, saying,
+“When Esau, mybrother, meets you, and
+asks you, saying, ‘Whose areyou? Where
+areyou going? Whose arethese before
+you? ’
+18Then you shall say, ‘They areyourservant, Jacob ’s.Itisapresent sent tomy
+lord, Esau. Behold, healso isbehind us.’ ”
+19Hecommanded also thesecond, and
+thethird, and allthat followed theherds,
+saying, “This ishow you shall speak to
+Esau, when youfind him.
+20You shall say, ‘Notonly that, butbe-
+hold, your servant, Jacob, isbehind us.’ ”
+For,hesaid, “Iwill appease him with the
+present that goes before me, and after-
+ward Iwill seehisface. Perhaps hewill
+accept me. ”
+21Sothepresent passed over before him,
+and hehimself stayed that night inthe
+camp.
+22Herose upthat night, and took his
+two wives, and histwo servants, and his
+eleven sons, and crossed over theford of
+theJabbok.
+23Hetook them, andsent them over the
+stream, andsent over that which hehad.
+24Jacob was left alone, and wrestled
+with aman there until thebreaking ofthe
+day.
+25When hesaw that hedidn ’tprevail
+against him, theman touched thehollow
+ofhisthigh, andthehollow ofJacob ’sthigh
+wasstrained ashewrestled.
+26Theman said, “Letmego,fortheday
+breaks. ”
+Jacob said, “Iwon ’tletyougounless you
+bless me. ”
+27Hesaid tohim, “What isyour name? ”
+Hesaid, “Jacob ”.
+28Hesaid, “Your name will nolonger
+becalled Jacob, butIsrael; foryou have
+fought with God and with men, and have
+prevailed. ”
+29Jacob asked him, “Please tellmeyour
+name. ”
+Hesaid, “Why isitthat youaskwhat my
+name is?”Soheblessed him there.
+30Jacob called thename oftheplace
+Peniel; ‡forhesaid, “Ihave seen God face
+toface, andmylifeispreserved. ”
+31Thesunrose onhim ashepassed over
+Peniel, andhelimped because ofhisthigh.
+32Therefore thechildren ofIsrael don ’t
+eatthesinew ofthehip, which isonthe
+hollow ofthethigh, tothisday, because he
+‡32:30 Peniel means “face ofGod ”.
+--- PAGE 39 ---
+Genesis 33:1 35 Genesis 34:7
+touched thehollow ofJacob ’sthigh inthe
+sinew ofthehip.
+33
+1Jacob lifted uphiseyes, and looked,
+and, behold, Esau was coming, and with
+him four hundred men. Hedivided the
+children between Leah, Rachel, and the
+twoservants.
+2Heputtheservants andtheir children
+infront, Leah and herchildren after, and
+Rachel andJoseph attherear.
+3Hehimself passed over infront of
+them, and bowed himself totheground
+seven times, until hecame near tohis
+brother.
+4Esau rantomeet him, embraced him,
+fellonhisneck, kissed him, andthey wept.
+5Helifted uphiseyes, and saw the
+women and thechildren; and said, “Who
+arethese with you? ”
+Hesaid, “The children whom God has
+graciously given your servant. ”
+6Then theservants came near with their
+children, andthey bowed themselves.
+7Leah also andherchildren came near,
+andbowed themselves. After them, Joseph
+came near with Rachel, and they bowed
+themselves.
+8Esau said, “What doyou mean byall
+thiscompany which Imet? ”
+Jacob said, “Tofind favor inthesight of
+mylord. ”
+9Esau said, “Ihave enough, mybrother;
+letthat which youhave beyours. ”
+10Jacob said, “Please, no,ifIhave now
+found favor inyour sight, then receive my
+present atmyhand, because Ihave seen
+your face, asonesees theface ofGod, and
+youwere pleased with me.
+11Please take thegiftthat Ibrought to
+you, because Godhasdealt graciously with
+me,andbecause Ihave enough. ”Heurged
+him, andhetook it.
+12Esau said, “Let’stake ourjourney, and
+let’sgo,andIwillgobefore you. ”
+13Jacob said tohim, “Mylord knows that
+thechildren aretender, andthat theflocks
+andherds with mehave their young, andifthey overdrive them oneday, alltheflocks
+willdie.
+14Please letmylord pass over before his
+servant, and Iwill lead ongently, accord-
+ingtothepace ofthelivestock that are
+before meandaccording tothepace ofthe
+children, until Icome tomylord toSeir. ”
+15Esau said, “Letmenow leave with you
+some ofthepeople who arewith me. ”
+Hesaid, “Why? Letmefind favor inthe
+sight ofmylord. ”
+16SoEsau returned that dayonhisway
+toSeir.
+17Jacob traveled toSuccoth, built him-
+self ahouse, and made shelters forhis
+livestock. Therefore thename oftheplace
+iscalled Succoth. †
+18Jacob came inpeace tothecity of
+Shechem, which isintheland ofCanaan,
+when hecame from Paddan Aram; and
+encamped before thecity.
+19Hebought theparcel ofground where
+hehad spread histent, atthehand ofthe
+children ofHamor, Shechem ’sfather, for
+onehundred pieces ofmoney.
+20Heerected analtar there, andcalled it
+ElElohe Israel. ‡
+34
+1Dinah, thedaughter ofLeah, whom she
+bore toJacob, went outtoseethedaugh-
+tersoftheland.
+2Shechem thesonofHamor theHivite,
+theprince oftheland, saw her. Hetook
+her,laywith her,andhumbled her.
+3Hissoul joined toDinah, thedaughter
+ofJacob, andheloved theyoung lady, and
+spoke kindly totheyoung lady.
+4Shechem spoke tohisfather, Hamor,
+saying, “Getmethisyoung lady asawife. ”
+5Now Jacob heard that hehad defiled
+Dinah, hisdaughter; and hissons were
+with hislivestock inthefield. Jacob held
+hispeace until they came.
+6Hamor thefather ofShechem went out
+toJacob totalkwith him.
+7Thesons ofJacob came infrom thefield
+when they heard it.Themen were grieved,
+andthey were very angry, because hehad
+†33:17 succoth means shelters orbooths. ‡33:20 ElElohe Israel means “God, theGod ofIsrael ”or“TheGod of
+Israel ismighty ”.
+--- PAGE 40 ---
+Genesis 34:8 36 Genesis 35:2
+done folly inIsrael inlying with Jacob ’s
+daughter, athing thatought nottobedone.
+8Hamor talked with them, saying, “The
+soul ofmyson, Shechem, longs foryour
+daughter. Please give hertohim asawife.
+9Make marriages with us. Give your
+daughters tous,andtake ourdaughters for
+yourselves.
+10Youshall dwell with us,and theland
+willbebefore you. Live andtrade init,and
+getpossessions init.”
+11Shechem said toherfather andtoher
+brothers, “Letmefind favor inyour eyes,
+andwhatever youwilltellmeIwillgive.
+12Ask meagreat amount foradowry,
+andIwillgive whatever youaskofme,but
+give metheyoung lady asawife. ”
+13Thesons ofJacob answered Shechem
+and Hamor hisfather with deceit when
+they spoke, because hehad defiled Dinah
+their sister,
+14and said tothem, “Wecan ’tdothis
+thing, togive oursister toonewho isun-
+circumcised; forthat isareproach tous.
+15Only onthiscondition willweconsent
+toyou. Ifyouwillbeasweare,that every
+male ofyoubecircumcised,
+16then will wegive our daughters to
+you; andwewilltake your daughters tous,
+and wewill dwell with you, and wewill
+become onepeople.
+17Butifyouwill notlisten tousand be
+circumcised, then wewilltake oursister, †
+andwewillbegone. ”
+18Their words pleased Hamor and
+Shechem, Hamor ’sson.
+19Theyoung man didn ’twait todothis
+thing, because hehad delight inJacob ’s
+daughter, and hewas honored above all
+thehouse ofhisfather.
+20Hamor andShechem, hisson, came to
+thegate oftheir city, and talked with the
+men oftheir city, saying,
+21“These men are peaceful with us.
+Therefore letthem live intheland and
+trade init.Forbehold, theland islarge
+enough forthem. Let’stake their daugh-
+terstousforwives, andlet’sgive them our
+daughters.22Only onthis condition will themen
+consent toustolivewith us,tobecome one
+people, ifevery male among usiscircum-
+cised, asthey arecircumcised.
+23Won ’ttheir livestock andtheir posses-
+sions and alltheir animals beours? Only
+let’sgive ourconsent tothem, andthey will
+dwell with us.”
+24Allwho went outofthegate ofhiscity
+listened toHamor, andtoShechem hisson;
+and every male was circumcised, allwho
+went outofthegate ofhiscity.
+25Onthethird day,when they were sore,
+two ofJacob ’ssons, Simeon and Levi, Di-
+nah ’sbrothers, each took hissword, came
+upon theunsuspecting city, and killed all
+themales.
+26They killed Hamor and Shechem, his
+son, with theedge ofthesword, and took
+Dinah outofShechem ’shouse, and went
+away.
+27Jacob ’ssons came onthedead, and
+plundered thecity, because they had de-
+filed their sister.
+28They took their flocks, their herds,
+their donkeys, that which was inthecity,
+that which wasinthefield,
+29andalltheir wealth. They took captive
+alltheir little ones and their wives, and
+took asplunder everything that wasinthe
+house.
+30Jacob said toSimeon and Levi, “You
+have troubled me, tomake meodious to
+theinhabitants oftheland, among the
+Canaanites and thePerizzites. Iamfew
+innumber. They will gather themselves
+together against meand strike me, and I
+willbedestroyed, Iandmyhouse. ”
+31They said, “Should hedeal with our
+sister aswith aprostitute? ”
+35
+1God said toJacob, “Arise, goupto
+Bethel, andlivethere. Make there analtar
+toGod, who appeared toyouwhen youfled
+from theface ofEsau your brother. ”
+2Then Jacob said tohishousehold, and
+toallwho were with him, “Putaway the
+foreign gods that areamong you, purify
+yourselves, andchange your garments.
+†34:17 Hebrew has, literally, “daughter ”
+--- PAGE 41 ---
+Genesis 35:3 37 Genesis 36:6
+3Let’sarise, and gouptoBethel. Iwill
+make there analtar toGod, who answered
+meinthedayofmydistress, andwaswith
+meontheway which Iwent. ”
+4They gave toJacob allthe foreign
+gods which were intheir hands, and the
+rings which were intheir ears; and Jacob
+hid them under theoak which was by
+Shechem.
+5They traveled, andaterror ofGod was
+onthecities that were around them, and
+they didn ’tpursue thesons ofJacob.
+6SoJacob came toLuz (that is,Bethel),
+which isintheland ofCanaan, heand all
+thepeople who were with him.
+7Hebuilt analtar there, and called the
+place ElBeth El;because there God was
+revealed tohim, when hefled from the
+face ofhisbrother.
+8Deborah, Rebekah ’snurse, died, and
+shewas buried below Bethel under the
+oak; anditsname wascalled Allon Bacuth.
+9God appeared toJacob again, when he
+came from Paddan Aram, andblessed him.
+10God said tohim, “Your name isJacob.
+Your name shall notbeJacob anymore, but
+your name willbeIsrael. ”Henamed him
+Israel.
+11God said tohim, “IamGod Almighty.
+Befruitful and multiply. Anation and a
+company ofnations willbefrom you, and
+kings willcome outofyour body.
+12The land which Igave toAbraham
+andIsaac, Iwillgive ittoyou, andtoyour
+offspring after youIwillgive theland. ”
+13God went upfrom him intheplace
+where hespoke with him.
+14Jacob setupapillar intheplace where
+hespoke with him, apillar ofstone. He
+poured out adrink offering onit,and
+poured oilonit.
+15Jacob called thename oftheplace
+where God spoke with him “Bethel ”.
+16They traveled from Bethel. There was
+stillsome distance tocome toEphrath, and
+Rachel travailed. Shehadhard labor.
+17When shewas inhard labor, themid-
+wife said toher, “Don ’tbeafraid, fornow
+youwillhave another son. ”18Asher soul was departing (for she
+died), shenamed him Benoni, †buthisfa-
+ther named him Benjamin. ‡
+19Rachel died, and was buried onthe
+way toEphrath (also called Bethlehem).
+20Jacob setupapillar onhergrave. The
+same isthePillar ofRachel ’sgrave tothis
+day.
+21Israel traveled, and spread histent
+beyond thetower ofEder.
+22While Israel lived inthatland, Reuben
+went andlaywith Bilhah, hisfather ’scon-
+cubine, andIsrael heard ofit.
+Now thesons ofJacob were twelve.
+23The sons ofLeah: Reuben (Jacob ’s
+firstborn), Simeon, Levi, Judah, Issachar,
+andZebulun.
+24The sons ofRachel: Joseph and Ben-
+jamin.
+25Thesons ofBilhah (Rachel ’sservant):
+Dan andNaphtali.
+26The sons ofZilpah (Leah ’sservant):
+GadandAsher. These arethesons ofJacob,
+who were born tohim inPaddan Aram.
+27Jacob came toIsaac hisfather, to
+Mamre, toKiriath Arba (which isHebron),
+where Abraham andIsaac lived asforeign-
+ers.
+28The days ofIsaac were one hundred
+eighty years.
+29Isaac gave upthespirit anddied, and
+was gathered tohispeople, oldandfullof
+days. Esau andJacob, hissons, buried him.
+36
+1Now this isthehistory ofthegenera-
+tions ofEsau (that is,Edom).
+2Esau took hiswives from thedaughters
+ofCanaan: Adah thedaughter ofElon, the
+Hittite; and Oholibamah thedaughter of
+Anah, thedaughter ofZibeon, theHivite;
+3andBasemath, Ishmael ’sdaughter, sis-
+terofNebaioth.
+4Adah bore toEsau Eliphaz. Basemath
+bore Reuel.
+5Oholibamah bore Jeush, Jalam, andKo-
+rah. These arethesons ofEsau, who were
+born tohim intheland ofCanaan.
+6Esau took hiswives, hissons, hisdaugh-
+ters, andallthemembers ofhishousehold,
+with hislivestock, allhisanimals, and all
+†35:18 “Benoni ”means “sonofmytrouble ”.‡35:18 “Benjamin ”means “sonofmyright hand ”.
+--- PAGE 42 ---
+Genesis 36:7 38 Genesis 36:40
+hispossessions, which hehadgathered in
+theland ofCanaan, and went into aland
+away from hisbrother Jacob.
+7Fortheir substance was toogreat for
+them todwell together, and theland of
+their travels couldn ’tbear them because of
+their livestock.
+8Esau lived inthehillcountry ofSeir.
+Esau isEdom.
+9This isthehistory ofthegenerations of
+Esau thefather oftheEdomites inthehill
+country ofSeir:
+10these arethenames ofEsau ’ssons:
+Eliphaz, thesonofAdah, thewife ofEsau;
+andReuel, thesonofBasemath, thewife of
+Esau.
+11The sons ofEliphaz were Teman,
+Omar, Zepho, andGatam, andKenaz.
+12Timna was concubine toEliphaz,
+Esau ’sson; and she bore toEliphaz
+Amalek. These arethedescendants of
+Adah, Esau ’swife.
+13These arethesons ofReuel: Nahath,
+Zerah, Shammah, andMizzah. These were
+thedescendants ofBasemath, Esau ’swife.
+14These were thesons ofOholibamah,
+thedaughter ofAnah, thedaughter of
+Zibeon, Esau ’swife: she bore toEsau
+Jeush, Jalam, andKorah.
+15These arethechiefs ofthesons of
+Esau: thesons ofEliphaz thefirstborn
+ofEsau: chief Teman, chief Omar, chief
+Zepho, chief Kenaz,
+16chief Korah, chief Gatam, chief
+Amalek. These arethechiefs who came
+ofEliphaz intheland ofEdom. These are
+thesons ofAdah.
+17These arethesons ofReuel, Esau ’sson:
+chief Nahath, chief Zerah, chief Shammah,
+chief Mizzah. These arethechiefs who
+came ofReuel intheland ofEdom. These
+arethesons ofBasemath, Esau ’swife.
+18These arethesons ofOholibamah,
+Esau ’swife: chief Jeush, chief Jalam, chief
+Korah. These arethechiefs who came of
+Oholibamah thedaughter ofAnah, Esau ’s
+wife.
+19These arethesons ofEsau (that is,
+Edom), andthese aretheir chiefs.
+20These arethesons ofSeir theHorite,
+theinhabitants oftheland: Lotan, Shobal,
+Zibeon, Anah,21Dishon, Ezer, and Dishan. These are
+thechiefs who came oftheHorites, the
+children ofSeirintheland ofEdom.
+22The children ofLotan were Hori and
+Heman. Lotan ’ssister wasTimna.
+23These arethechildren ofShobal: Al-
+van, Manahath, Ebal, Shepho, andOnam.
+24These arethechildren ofZibeon: Aiah
+and Anah. This isAnah who found the
+hotsprings inthewilderness, ashefedthe
+donkeys ofZibeon hisfather.
+25These arethechildren ofAnah: Dis-
+hon and Oholibamah, the daughter of
+Anah.
+26These are the children ofDishon:
+Hemdan, Eshban, Ithran, andCheran.
+27These arethechildren ofEzer: Bilhan,
+Zaavan, andAkan.
+28These arethechildren ofDishan: Uz
+andAran.
+29These arethechiefs who came ofthe
+Horites: chief Lotan, chief Shobal, chief
+Zibeon, chief Anah,
+30chief Dishon, chief Ezer, and chief
+Dishan. These arethechiefs who came of
+theHorites, according totheir chiefs inthe
+land ofSeir.
+31These arethekings who reigned in
+theland ofEdom, before anyking reigned
+over thechildren ofIsrael.
+32Bela, thesonofBeor, reigned inEdom.
+Thename ofhiscitywasDinhabah.
+33Bela died, andJobab, thesonofZerah
+ofBozrah, reigned inhisplace.
+34Jobab died, andHusham oftheland of
+theTemanites reigned inhisplace.
+35Husham died, and Hadad, thesonof
+Bedad, who struck Midian inthefield of
+Moab, reigned inhisplace. The name of
+hiscitywasAvith.
+36Hadad died, andSamlah ofMasrekah
+reigned inhisplace.
+37Samlah died, and Shaul ofRehoboth
+bytheriver, reigned inhisplace.
+38Shaul died, andBaal Hanan thesonof
+Achbor reigned inhisplace.
+39Baal Hanan thesonofAchbor died,
+andHadar reigned inhisplace. Thename
+ofhiscitywas Pau. Hiswife ’sname was
+Mehetabel, thedaughter ofMatred, the
+daughter ofMezahab.
+40These arethenames ofthechiefs who
+came from Esau, according totheir fami-
+--- PAGE 43 ---
+Genesis 36:41 39 Genesis 37:25
+lies,after their places, andbytheir names:
+chief Timna, chief Alvah, chief Jetheth,
+41chief Oholibamah, chief Elah, chief
+Pinon,
+42chief Kenaz, chief Teman, chief
+Mibzar,
+43chief Magdiel, and chief Iram. These
+arethechiefs ofEdom, according totheir
+habitations intheland oftheir possession.
+This isEsau, thefather oftheEdomites.
+37
+1Jacob lived intheland ofhisfather ’s
+travels, intheland ofCanaan.
+2This isthehistory ofthegenerations of
+Jacob. Joseph, being seventeen years old,
+was feeding theflock with hisbrothers.
+Hewas aboywith thesons ofBilhah and
+Zilpah, hisfather ’swives. Joseph brought
+anevilreport ofthem totheir father.
+3Now Israel loved Joseph more than all
+hischildren, because hewas thesonofhis
+oldage, andhemade him atunic ofmany
+colors.
+4Hisbrothers sawthattheir father loved
+him more than allhisbrothers, and they
+hated him, and couldn ’tspeak peaceably
+tohim.
+5Joseph dreamed adream, andhetoldit
+tohisbrothers, andthey hated him allthe
+more.
+6Hesaid tothem, “Please hear this
+dream which Ihave dreamed:
+7forbehold, wewere binding sheaves
+inthefield, and behold, mysheaf arose
+and also stood upright; and behold, your
+sheaves came around, andbowed down to
+mysheaf. ”
+8Hisbrothers asked him, “Will you in-
+deed reign over us?Will youindeed have
+dominion over us?”They hated himallthe
+more forhisdreams andforhiswords.
+9Hedreamed yetanother dream, and
+told ittohisbrothers, and said, “Behold,
+Ihave dreamed yetanother dream: and
+behold, thesunand themoon and eleven
+stars bowed down tome. ”
+10Hetold ittohisfather and tohis
+brothers. Hisfather rebuked him, and
+said tohim, “What isthisdream that you
+have dreamed? Will Iand your mother
+and your brothers indeed come tobow
+ourselves down totheearth before you? ”11Hisbrothers envied him, buthisfather
+kept thissaying inmind.
+12Hisbrothers went tofeed their father ’s
+flock inShechem.
+13Israel said toJoseph, “Aren ’tyour
+brothers feeding theflock inShechem?
+Come, andIwillsend youtothem. ”Hesaid
+tohim, “Here Iam. ”
+14Hesaid tohim, “Gonow, seewhether
+itiswell with your brothers, andwell with
+theflock; andbring meword again. ”Sohe
+sent him outofthevalley ofHebron, and
+hecame toShechem.
+15Acertain man found him, andbehold,
+hewas wandering inthefield. The man
+asked him, “What areyoulooking for? ”
+16Hesaid, “Iamlooking formybrothers.
+Tellme,please, where they arefeeding the
+flock. ”
+17Theman said, “They have lefthere, for
+Iheard them say, ‘Let’sgotoDothan. ’ ”
+Joseph went after hisbrothers, and
+found them inDothan.
+18They saw him afar off,and before he
+came near tothem, they conspired against
+him tokillhim.
+19They said tooneanother, “Behold, this
+dreamer comes.
+20Come now therefore, andlet’skillhim,
+and cast him into one ofthepits, and
+wewillsay, ‘Anevilanimal hasdevoured
+him. ’Wewillseewhat willbecome ofhis
+dreams. ”
+21Reuben heard it,and delivered him
+outoftheir hand, andsaid, “Let’snottake
+hislife. ”
+22Reuben said tothem, “Shed noblood.
+Throw him into this pitthat isinthe
+wilderness, butlaynohand onhim ”—that
+hemight deliver him outoftheir hand, to
+restore him tohisfather.
+23When Joseph came tohisbrothers,
+they stripped Joseph ofhistunic, thetunic
+ofmany colors that wasonhim;
+24andthey took him, andthrew himinto
+thepit.Thepitwas empty. There was no
+water init.
+25They satdown toeatbread, and they
+lifted uptheir eyes and looked, and saw
+acaravan ofIshmaelites coming from
+Gilead, with their camels bearing spices
+and balm and myrrh, going tocarry it
+down toEgypt.
+--- PAGE 44 ---
+Genesis 37:26 40 Genesis 38:17
+26Judah said tohisbrothers, “What
+profit isitifwekillourbrother andconceal
+hisblood?
+27Come, and let’ssellhim totheIsh-
+maelites, and notletourhand beonhim;
+forheisourbrother, ourflesh. ”Hisbroth-
+erslistened tohim.
+28Midianites who were merchants
+passed by,and they drew and lifted up
+Joseph outofthepit,and sold Joseph to
+theIshmaelites fortwenty pieces ofsilver.
+Themerchants brought Joseph into Egypt.
+29Reuben returned tothepit,and saw
+that Joseph wasn ’tinthepit;and hetore
+hisclothes.
+30Hereturned tohisbrothers, andsaid,
+“Thechild isnomore; and I,where will I
+go?”
+31They took Joseph ’stunic, and killed
+amale goat, and dipped thetunic inthe
+blood.
+32They took thetunic ofmany colors,
+and they brought ittotheir father, and
+said, “Wehave found this. Examine it,
+now, andseeifitisyour son ’stunic ornot. ”
+33Herecognized it,and said, “Itismy
+son ’stunic. Anevilanimal hasdevoured
+him. Joseph iswithout doubt torn in
+pieces. ”
+34Jacob tore hisclothes, and putsack-
+cloth onhiswaist, andmourned forhisson
+many days.
+35Allhissons andallhisdaughters rose
+uptocomfort him, butherefused tobe
+comforted. Hesaid, “ForIwillgodown to
+Sheol †tomyson, mourning. ”Hisfather
+wept forhim.
+36The Midianites sold him into Egypt
+toPotiphar, anofficer ofPharaoh ’s,the
+captain oftheguard.
+38
+1Atthattime, Judah went down from his
+brothers, andvisited acertain Adullamite,
+whose name wasHirah.
+2There, Judah saw thedaughter ofa
+certain Canaanite man named Shua. He
+took her,andwent intoher.
+3Sheconceived, andbore ason; andhe
+named him Er.
+4Sheconceived again, and bore ason;
+andshenamed him Onan.5Sheyetagain bore ason, and named
+him Shelah. Hewas atChezib when she
+bore him.
+6Judah took awife forEr,hisfirstborn,
+andhername wasTamar.
+7Er,Judah ’sfirstborn, was wicked inthe
+LORD ’ssight. SotheLORD killed him.
+8Judah said toOnan, “Gointoyour
+brother ’swife, and perform theduty of
+ahusband ’sbrother toher, and raise up
+offspring foryour brother. ”
+9Onan knew that theoffspring wouldn ’t
+behis; and when hewent intohis
+brother ’swife, hespilled hissemen onthe
+ground, lestheshould give offspring tohis
+brother.
+10Thething which hedidwas evilinthe
+LORD ’ssight, andhekilled him also.
+11Then Judah said toTamar, his
+daughter-in-law, “Remain awidow inyour
+father ’shouse, until Shelah, myson, is
+grown up;”forhesaid, “Lest healso die,
+likehisbrothers. ”Tamar went and lived
+inherfather ’shouse.
+12After many days, Shua ’sdaughter, the
+wife ofJudah, died. Judah was comforted,
+andwent uptohissheep shearers toTim-
+nah, heand hisfriend Hirah, theAdul-
+lamite.
+13Tamar was told, “Behold, your father-
+in-law isgoing uptoTimnah toshear his
+sheep. ”
+14Shetook offthegarments ofherwid-
+owhood, andcovered herself with herveil,
+andwrapped herself, andsatinthegate of
+Enaim, which isontheway toTimnah; for
+shesawthatShelah wasgrown up,andshe
+wasn ’tgiven tohim asawife.
+15When Judah saw her,hethought that
+shewas aprostitute, forshehad covered
+herface.
+16Heturned toherbytheway, andsaid,
+“Please come, letmecome intoyou, ”for
+hedidn ’tknow that shewas hisdaughter-
+in-law.
+Shesaid, “What will you give me, that
+youmay come intome? ”
+17Hesaid, “Iwillsend youayoung goat
+from theflock. ”
+She said, “Will you give meapledge,
+until yousend it?”
+†37:35 Sheol istheplace ofthedead.
+--- PAGE 45 ---
+Genesis 38:18 41 Genesis 39:12
+18Hesaid, “What pledge willIgive you? ”
+Shesaid, “Your signet andyour cord, and
+your staff that isinyour hand. ”
+Hegave them toher,andcame intoher,
+andsheconceived byhim.
+19Shearose, andwent away, andputoff
+herveilfrom her,andputonthegarments
+ofherwidowhood.
+20Judah sent theyoung goat bythehand
+ofhisfriend, theAdullamite, toreceive
+thepledge from thewoman ’shand, buthe
+didn ’tfind her.
+21Then heasked themen ofherplace,
+saying, “Where istheprostitute, that was
+atEnaim bytheroad? ”
+They said, “There hasbeen noprostitute
+here. ”
+22Hereturned toJudah, and said, “I
+haven ’tfound her; andalso themen ofthe
+place said, ‘There hasbeen noprostitute
+here. ’ ”
+23Judah said, “Letherkeep it,lestwe
+beshamed. Behold, Isent thisyoung goat,
+andyouhaven ’tfound her. ”
+24About three months later, Judah was
+told, “Tamar, your daughter-in-law, has
+played theprostitute. Moreover, behold,
+sheiswith child byprostitution. ”
+Judah said, “Bring herout,andletherbe
+burned. ”
+25When shewasbrought out,shesent to
+herfather-in-law, saying, “Iamwith child
+bytheman who owns these. ”She also
+said, “Please discern whose these are—the
+signet, andthecords, andthestaff. ”
+26Judah acknowledged them, and said,
+“She ismore righteous than I,because I
+didn ’tgive hertoShelah, myson. ”
+Heknew heragain nomore.
+27Inthetime ofhertravail, behold, twins
+were inherwomb.
+28When she travailed, one put outa
+hand, and themidwife took and tied a
+scarlet thread onhishand, saying, “This
+came outfirst. ”
+29Ashedrew back hishand, behold, his
+brother came out,andshesaid, “Why have
+you made abreach foryourself? ”There-
+fore hisname wascalled Perez. †30Afterward hisbrother came out, who
+hadthescarlet thread onhishand, andhis
+name wascalled Zerah. ‡
+39
+1Joseph was brought down toEgypt.
+Potiphar, anofficer ofPharaoh ’s,thecap-
+tain oftheguard, anEgyptian, bought him
+from thehand oftheIshmaelites that had
+brought him down there.
+2TheLORD waswith Joseph, andhewas
+aprosperous man. Hewas inthehouse of
+hismaster theEgyptian.
+3Hismaster sawthattheLORD waswith
+him, and that theLORD made allthat he
+didprosper inhishand.
+4Joseph found favor inhissight. He
+ministered tohim, andPotiphar made him
+overseer over hishouse, and allthat he
+hadheputinto hishand.
+5From thetime that hemade him over-
+seer inhishouse, andover allthat hehad,
+theLORD blessed theEgyptian ’shouse for
+Joseph ’ssake. TheLORD ’sblessing was on
+allthathehad, inthehouse andinthefield.
+6Heleftallthat hehadinJoseph ’shand.
+Hedidn ’tconcern himself with anything,
+except forthefood which heate.
+Joseph waswell-built andhandsome.
+7After these things, hismaster ’swife set
+hereyes onJoseph; andshesaid, “Liewith
+me. ”
+8Butherefused, andsaid tohismaster ’s
+wife, “Behold, mymaster doesn ’tknow
+what iswith meinthehouse, and hehas
+putallthat hehasinto myhand.
+9Noone isgreater inthis house than
+Iam, and hehasnotkept back anything
+from mebutyou, because youarehiswife.
+How then canIdothisgreat wickedness,
+andsinagainst God? ”
+10Asshespoke toJoseph daybyday, he
+didn ’tlisten toher, toliebyher, ortobe
+with her.
+11About thistime, hewent intothehouse
+todohiswork, andthere were none ofthe
+men ofthehouse inside.
+12Shecaught himbyhisgarment, saying,
+“Liewith me! ”
+Helefthisgarment inherhand, andran
+outside.
+†38:29 Perez means “breaking out”.‡38:30 Zerah means “scarlet ”or“brightness ”.
+--- PAGE 46 ---
+Genesis 39:13 42 Genesis 40:19
+13When she saw that hehad lefthis
+garment inherhand, andhadrunoutside,
+14shecalled tothemen ofherhouse,
+andspoke tothem, saying, “Behold, hehas
+brought aHebrew intoustomock us.He
+came intometoliewith me,and Icried
+with aloud voice.
+15When heheard that Ilifted upmy
+voice andcried, helefthisgarment byme,
+andranoutside. ”
+16Shelaid uphisgarment byher, until
+hismaster came home.
+17She spoke tohim according tothese
+words, saying, “The Hebrew servant,
+whom youhave brought tous,came into
+metomock me,
+18and asIlifted upmyvoice and cried,
+helefthisgarment byme, and ranout-
+side. ”
+19When hismaster heard thewords of
+hiswife, which shespoke tohim, saying,
+“This iswhat your servant didtome, ”his
+wrath waskindled.
+20Joseph ’smaster took him, andputhim
+into theprison, theplace where theking ’s
+prisoners were bound, andhewasthere in
+custody.
+21ButtheLORD was with Joseph, and
+showed kindness tohim, andgave him fa-
+vorinthesight ofthekeeper oftheprison.
+22Thekeeper oftheprison committed to
+Joseph ’shand alltheprisoners who were
+intheprison. Whatever they didthere, he
+wasresponsible forit.
+23The keeper oftheprison didn ’tlook
+after anything that was under hishand,
+because theLORD was with him; andthat
+which hedid,theLORD made itprosper.
+40
+1After these things, thebutler oftheking
+ofEgypt andhisbaker offended their lord,
+theking ofEgypt.
+2Pharaoh was angry with histwo offi-
+cers, thechief cup bearer and thechief
+baker.
+3Heputthem incustody inthehouse of
+thecaptain oftheguard, into theprison,
+theplace where Joseph wasbound.
+4Thecaptain oftheguard assigned them
+toJoseph, andhetook care ofthem. They
+stayed inprison many days.5They both dreamed adream, each man
+hisdream, inonenight, each man accord-
+ingtotheinterpretation ofhisdream, the
+cup bearer and thebaker oftheking of
+Egypt, who were bound intheprison.
+6Joseph came intothem inthemorning,
+andsawthem, andsawthatthey were sad.
+7Heasked Pharaoh ’sofficers who were
+with him incustody inhismaster ’shouse,
+saying, “Why doyoulook sosadtoday? ”
+8They said tohim, “Wehave dreamed
+adream, and there isnoone who can
+interpret it.”
+Joseph said tothem, “Don ’tinterpreta-
+tions belong toGod? Please tellittome. ”
+9The chief cup bearer told hisdream
+toJoseph, and said tohim, “Inmydream,
+behold, avine wasinfront ofme,
+10andinthevine were three branches. It
+wasasthough itbudded, itblossomed, and
+itsclusters produced ripe grapes.
+11Pharaoh ’scup was inmyhand; and
+Itook thegrapes, and pressed them into
+Pharaoh ’scup, and Igave thecup into
+Pharaoh ’shand. ”
+12Joseph said tohim, “This isitsinterpre-
+tation: thethree branches arethree days.
+13Within three more days, Pharaoh will
+liftupyour head, and restore youtoyour
+office. Youwillgive Pharaoh ’scupinto his
+hand, theway youdidwhen youwere his
+cupbearer.
+14Butremember mewhen itiswell with
+you. Please show kindness tome, and
+make mention ofmetoPharaoh, andbring
+meoutofthishouse.
+15Forindeed, Iwas stolen away outof
+theland oftheHebrews, and here also I
+have done nothing thatthey should putme
+into thedungeon. ”
+16When thechief baker saw that the
+interpretation wasgood, hesaid toJoseph,
+“Ialsowasinmydream, andbehold, three
+baskets ofwhite bread were onmyhead.
+17Intheuppermost basket there were
+allkinds ofbaked food forPharaoh, and
+thebirds atethem outofthebasket onmy
+head. ”
+18Joseph answered, “This isitsinterpre-
+tation. Thethree baskets arethree days.
+19Within three more days, Pharaoh will
+liftupyour head from offyou, and will
+--- PAGE 47 ---
+Genesis 40:20 43 Genesis 41:24
+hang youonatree; and thebirds willeat
+your flesh from offyou. ”
+20Onthethird day,which wasPharaoh ’s
+birthday, hemade afeast forallhisser-
+vants, andhelifted upthehead ofthechief
+cupbearer andthehead ofthechief baker
+among hisservants.
+21Herestored thechief cupbearer tohis
+position again, and hegave thecup into
+Pharaoh ’shand;
+22but hehanged the chief baker, as
+Joseph hadinterpreted tothem.
+23Yetthechief cupbearer didn ’tremem-
+berJoseph, butforgot him.
+41
+1Attheend oftwo fullyears, Pharaoh
+dreamed, and behold, hestood bythe
+river.
+2Behold, seven cattle came upoutofthe
+river. They were sleek and fat,and they
+fedinthemarsh grass.
+3Behold, seven other cattle came upaf-
+terthem outoftheriver, ugly andthin, and
+stood bytheother cattle onthebrink ofthe
+river.
+4The ugly and thin cattle ateupthe
+seven sleek and fatcattle. SoPharaoh
+awoke.
+5Heslept and dreamed asecond time;
+andbehold, seven heads ofgrain came up
+ononestalk, healthy andgood.
+6Behold, seven heads ofgrain, thin and
+blasted with theeastwind, sprung upafter
+them.
+7The thin heads ofgrain swallowed up
+theseven healthy and fullears. Pharaoh
+awoke, andbehold, itwasadream.
+8Inthemorning, hisspirit wastroubled,
+and hesent and called forallofEgypt ’s
+magicians and wise men. Pharaoh told
+them hisdreams, butthere was noone
+who could interpret them toPharaoh.
+9Then thechief cup bearer spoke to
+Pharaoh, saying, “Iremember myfaults
+today.
+10Pharaoh was angry with hisservants,
+and putmeincustody inthehouse ofthe
+captain oftheguard, with thechief baker.11Wedreamed adream inonenight, he
+andI.Each man dreamed according tothe
+interpretation ofhisdream.
+12There waswith usthere ayoung man,
+aHebrew, servant tothecaptain ofthe
+guard, andwetoldhim, andheinterpreted
+tousourdreams. Heinterpreted toeach
+man according tohisdream.
+13Asheinterpreted tous,soitwas. He
+restored metomyoffice, and hehanged
+him. ”
+14Then Pharaoh sent andcalled Joseph,
+and they brought him hastily outofthe
+dungeon. Heshaved himself, changed his
+clothing, andcame intoPharaoh.
+15Pharaoh said toJoseph, “Ihave
+dreamed adream, andthere isnoonewho
+can interpret it.Ihave heard itsaid of
+you, that when youhear adream youcan
+interpret it.”
+16Joseph answered Pharaoh, saying, “It
+isn’tinme. God will give Pharaoh an
+answer ofpeace. ”
+17Pharaoh spoke toJoseph, “Inmy
+dream, behold, Istood onthebrink ofthe
+river;
+18andbehold, seven fatandsleek cattle
+came upoutoftheriver. They fedinthe
+marsh grass;
+19and behold, seven other cattle came
+upafter them, poor andvery ugly andthin,
+such asInever sawinalltheland ofEgypt
+forugliness.
+20Thethin andugly cattle ateupthefirst
+seven fatcattle;
+21and when they had eaten them up,
+itcouldn ’tbeknown that they had eaten
+them, butthey were still ugly, asatthe
+beginning. SoIawoke.
+22Isaw inmydream, andbehold, seven
+heads ofgrain came upononestalk, full
+andgood;
+23and behold, seven heads ofgrain,
+withered, thin, and blasted with theeast
+wind, sprung upafter them.
+24Thethin heads ofgrain swallowed up
+theseven good heads ofgrain. Itold itto
+themagicians, butthere was noonewho
+could explain ittome. ”
+--- PAGE 48 ---
+Genesis 41:25 44 Genesis 41:53
+25Joseph said toPharaoh, “Thedream of
+Pharaoh isone. What Godisabout todohe
+hasdeclared toPharaoh.
+26Theseven good cattle areseven years;
+and theseven good heads ofgrain are
+seven years. Thedream isone.
+27The seven thin and ugly cattle that
+came upafter them are seven years,
+and also theseven empty heads ofgrain
+blasted with theeast wind; they will be
+seven years offamine.
+28That isthething which Ihave spoken
+toPharaoh. God hasshown Pharaoh what
+heisabout todo.
+29Behold, seven years ofgreat plenty
+throughout alltheland ofEgypt arecom-
+ing.
+30Seven years offamine willarise after
+them, and alltheplenty will beforgotten
+intheland ofEgypt. Thefamine willcon-
+sume theland,
+31and theplenty will notbeknown in
+theland byreason ofthat famine which
+follows; foritwillbevery grievous.
+32The dream was doubled toPharaoh,
+because thething isestablished byGod,
+andGod willshortly bring ittopass.
+33“Now therefore letPharaoh look fora
+discreet and wise man, and sethim over
+theland ofEgypt.
+34LetPharaoh dothis, and lethim ap-
+point overseers over theland, andtake up
+thefifth part oftheland ofEgypt ’sproduce
+intheseven plenteous years.
+35Letthem gather allthefood ofthese
+good years that come, and store grain un-
+derthehand ofPharaoh forfood inthe
+cities, andletthem keep it.
+36The food will betosupply theland
+against theseven years offamine, which
+willbeintheland ofEgypt; sothattheland
+willnotperish through thefamine. ”
+37The thing was good intheeyes of
+Pharaoh, andintheeyes ofallhisservants.
+38Pharaoh said tohisservants, “Canwe
+find such aoneasthis, aman inwhom is
+theSpirit ofGod? ”
+39Pharaoh said toJoseph, “Because God
+hasshown youallofthis, there isnooneso
+discreet andwise asyou.40You shall beover myhouse. Allmy
+people will beruled according toyour
+word. Only inthethrone Iwillbegreater
+than you. ”
+41Pharaoh said toJoseph, “Behold, I
+have setyouover alltheland ofEgypt. ”
+42Pharaoh took offhissignet ring from
+hishand, andputitonJoseph ’shand, and
+arrayed him inrobes offinelinen, andput
+agold chain about hisneck.
+43Hemade him ride inthesecond char-
+iotwhich hehad. They cried before him,
+“Bow theknee! ”Hesethim over allthe
+land ofEgypt.
+44Pharaoh said toJoseph, “IamPharaoh.
+Without you, noman shall liftuphishand
+orhisfootinalltheland ofEgypt. ”
+45Pharaoh called Joseph ’sname
+Zaphenath-Paneah. Hegave him Asenath,
+thedaughter ofPotiphera priest ofOnas
+awife. Joseph went outover theland of
+Egypt.
+46Joseph was thirty years oldwhen he
+stood before Pharaoh king ofEgypt. Joseph
+went outfrom thepresence ofPharaoh,
+andwent throughout alltheland ofEgypt.
+47Intheseven plenteous years theearth
+produced abundantly.
+48Hegathered upallthefood ofthe
+seven years which were intheland of
+Egypt, and laid upthefood inthecities.
+Hestored food ineach cityfrom thefields
+around that city.
+49Joseph laidupgrain asthesand ofthe
+sea,very much, until hestopped counting,
+foritwaswithout number.
+50ToJoseph were born twosons before
+theyear offamine came, whom Asenath,
+thedaughter ofPotiphera priest ofOn,
+bore tohim.
+51Joseph called thename ofthefirstborn
+Manasseh, †“For”,hesaid, “God hasmade
+meforget allmytoil, and allmyfather ’s
+house. ”
+52The name ofthesecond, hecalled
+Ephraim: ‡“ForGod hasmade mefruitful
+intheland ofmyaffliction. ”
+53Theseven years ofplenty, that were in
+theland ofEgypt, came toanend.
+†41:51 “Manasseh ”sounds liketheHebrew for “forget ”.‡41:52 “Ephraim ”sounds liketheHebrew for “twice
+fruitful ”.
+--- PAGE 49 ---
+Genesis 41:54 45 Genesis 42:25
+54The seven years offamine began to
+come, justasJoseph had said. There was
+famine inalllands, butinalltheland of
+Egypt there wasbread.
+55When alltheland ofEgypt was fam-
+ished, the people cried toPharaoh for
+bread, and Pharaoh said toalltheEgyp-
+tians, “GotoJoseph. What hesays toyou,
+do.”
+56The famine was over allthesurface
+oftheearth. Joseph opened allthestore
+houses, and sold totheEgyptians. The
+famine wassevere intheland ofEgypt.
+57Allcountries came into Egypt, to
+Joseph, tobuy grain, because thefamine
+wassevere inalltheearth.
+42
+1Now Jacob saw that there was grain in
+Egypt, andJacob said tohissons, “Why do
+youlook atoneanother? ”
+2Hesaid, “Behold, Ihave heard that
+there isgrain inEgypt. Godown there, and
+buyforusfrom there, sothat wemay live,
+andnotdie. ”
+3Joseph ’stenbrothers went down tobuy
+grain from Egypt.
+4But Jacob didn ’tsend Benjamin,
+Joseph ’sbrother, with hisbrothers; forhe
+said, “Lest perhaps harm happen tohim. ”
+5Thesons ofIsrael came tobuy among
+those who came, forthefamine was inthe
+land ofCanaan.
+6Joseph wasthegovernor over theland.
+Itwas hewho sold toallthepeople ofthe
+land. Joseph ’sbrothers came, and bowed
+themselves down tohimwith their faces to
+theearth.
+7Joseph saw hisbrothers, and herec-
+ognized them, butacted likeastranger to
+them, and spoke roughly with them. He
+said tothem, “Where didyoucome from? ”
+They said, “From theland ofCanaan, to
+buyfood. ”
+8Joseph recognized hisbrothers, but
+they didn ’trecognize him.
+9Joseph remembered thedreams which
+hedreamed about them, andsaid tothem,
+“Youarespies! Youhave come toseethe
+nakedness oftheland. ”
+10They said tohim, “No,mylord, but
+your servants have come tobuyfood.11Weareallone man ’ssons; weare
+honest men. Your servants arenotspies. ”
+12Hesaid tothem, “No,butyou have
+come toseethenakedness oftheland! ”
+13They said, “We, your servants, are
+twelve brothers, thesons ofoneman inthe
+land ofCanaan; and behold, theyoungest
+istoday with our father, and one isno
+more. ”
+14Joseph said tothem, “Itislike Itold
+you, saying, ‘Youarespies! ’
+15Bythisyoushall betested. Bythelife
+ofPharaoh, youshall notgooutfrom here,
+unless your youngest brother comes here.
+16Send oneofyou, andlethim getyour
+brother, andyoushall bebound, that your
+words may betested, whether there is
+truth inyou, orelsebythelifeofPharaoh
+surely youarespies. ”
+17Heputthem alltogether into custody
+forthree days.
+18Joseph said tothem thethird day, “Do
+this, andlive, forIfear God.
+19Ifyouarehonest men, then letoneof
+your brothers bebound inyour prison; but
+yougo,carry grain forthefamine ofyour
+houses.
+20Bring your youngest brother tome;so
+willyour words beverified, andyouwon ’t
+die. ”
+They didso.
+21They said toone another, “Weare
+certainly guilty concerning our brother,
+inthat wesaw thedistress ofhissoul,
+when hebegged us,and wewouldn ’tlis-
+ten.Therefore thisdistress hascome upon
+us.”
+22Reuben answered them, saying,
+“Didn ’tItellyou, saying, ‘Don ’tsinagainst
+thechild, ’andyouwouldn ’tlisten? There-
+fore also, behold, hisblood isrequired. ”
+23They didn ’tknow that Joseph under-
+stood them; forthere was aninterpreter
+between them.
+24Heturned himself away from them,
+and wept. Then hereturned tothem,
+andspoke tothem, andtook Simeon from
+among them, and bound him before their
+eyes.
+25Then Joseph gave acommand tofill
+their bags with grain, and torestore each
+man ’smoney into hissack, and togive
+--- PAGE 50 ---
+Genesis 42:26 46 Genesis 43:11
+them food fortheway. Soitwas done to
+them.
+26They loaded their donkeys with their
+grain, anddeparted from there.
+27Asoneofthem opened hissack togive
+hisdonkey food inthelodging place, he
+sawhismoney. Behold, itwasinthemouth
+ofhissack.
+28Hesaid tohisbrothers, “Mymoney is
+restored! Behold, itisinmysack! ”Their
+hearts failed them, andthey turned trem-
+bling tooneanother, saying, “What isthis
+that God hasdone tous?”
+29They came toJacob their father, tothe
+land ofCanaan, and told him allthat had
+happened tothem, saying,
+30“Theman, thelord oftheland, spoke
+roughly with us,andtook usforspies ofthe
+country.
+31Wesaid tohim, ‘Wearehonest men.
+Wearenospies.
+32Wearetwelve brothers, sons ofour
+father; one isnomore, and theyoungest
+istoday with our father intheland of
+Canaan. ’
+33The man, thelord oftheland, said
+tous, ‘Bythis Iwill know that you are
+honest men: leave one ofyour brothers
+with me,and take grain forthefamine of
+your houses, andgoyour way.
+34Bring your youngest brother tome.
+Then Iwillknow thatyouarenotspies, but
+that youarehonest men. SoIwilldeliver
+your brother toyou, andyoushall trade in
+theland. ’ ”
+35Asthey emptied their sacks, behold,
+each man ’sbundle ofmoney was inhis
+sack. When they andtheir father sawtheir
+bundles ofmoney, they were afraid.
+36Jacob, their father, said tothem, “You
+have bereaved meofmychildren! Joseph
+isnomore, Simeon isnomore, and you
+want totake Benjamin away. Allthese
+things areagainst me. ”
+37Reuben spoke tohisfather, saying,
+“Killmytwo sons, ifIdon ’tbring him to
+you. Entrust him tomycare, and Iwill
+bring him toyouagain. ”
+38Hesaid, “Mysonshall notgodown
+with you; forhisbrother isdead, and heonly isleft. Ifharm happens tohim along
+theway inwhich you go,then you will
+bring down mygray hairs with sorrow to
+Sheol. ”†
+43
+1Thefamine wassevere intheland.
+2When they had eaten upthegrain
+which they hadbrought outofEgypt, their
+father said tothem, “Goagain, buy usa
+little more food. ”
+3Judah spoke tohim, saying, “Theman
+solemnly warned us,saying, ‘Youshall not
+seemyface, unless your brother iswith
+you. ’
+4Ifyou ’llsend ourbrother with us,we’ll
+godown andbuyyoufood;
+5butifyoudon ’tsend him, wewon ’tgo
+down, fortheman said tous,‘Youshall not
+seemyface, unless your brother iswith
+you. ’ ”
+6Israel said, “Why didyou treat meso
+badly, telling theman that you had an-
+other brother? ”
+7They said, “The man asked directly
+concerning ourselves, andconcerning our
+relatives, saying, ‘Isyour father stillalive?
+Have you another brother? ’Wejust an-
+swered hisquestions. Isthere anyway we
+could know that hewould say, ‘Bring your
+brother down ’?”
+8Judah said toIsrael, hisfather, “Send
+theboywith me,and we’llgetupand go,
+sothat wemay live, and notdie,both we,
+andyou, andalso ourlittle ones.
+9I’llbecollateral forhim. From myhand
+willyourequire him. IfIdon ’tbring him
+toyou, andsethim before you, then letme
+bear theblame forever;
+10forifwehadn ’tdelayed, surely we
+would have returned asecond time by
+now. ”
+11Their father, Israel, said tothem, “If
+itmust beso,then dothis: Take from the
+choice fruits oftheland inyour bags, and
+carry down apresent fortheman, alittle
+balm, alittle honey, spices and myrrh,
+nuts, andalmonds;
+†42:38 Sheol istheplace ofthedead.
