@@ -10,21 +10,12 @@ function ChapterNavigation({ htmlContent, currentChapter, onChapterClick }) {
       const parser = new DOMParser();
       const doc = parser.parseFromString(htmlContent, 'text/html');
       
-      // Find all h3 elements with chapter IDs (normal version)
-      let chapterElements = doc.querySelectorAll('h3[id^="c"]');
+      // First try Ruby version structure - look for div.chapter with numeric IDs
+      let rubyChapterElements = doc.querySelectorAll('div.chapter[id]');
       let chapterList = [];
       
-      if (chapterElements.length > 0) {
-        // Normal version structure
-        chapterList = Array.from(chapterElements).map((elem) => {
-          const id = elem.id;
-          const number = parseInt(id.substring(1));
-          const text = elem.textContent;
-          return { id, number, text };
-        });
-      } else {
-        // Ruby version structure - look for div.chapter with numeric IDs
-        const rubyChapterElements = doc.querySelectorAll('div.chapter[id]');
+      if (rubyChapterElements.length > 0) {
+        // Ruby version structure
         chapterList = Array.from(rubyChapterElements).map((elem) => {
           const id = elem.id;
           const number = parseInt(id);
@@ -32,6 +23,21 @@ function ChapterNavigation({ htmlContent, currentChapter, onChapterClick }) {
           const text = h3 ? h3.textContent : `第${number}章`;
           return { id, number, text };
         });
+      } else {
+        // Normal version structure - look for div elements with numeric IDs and h3 children
+        const normChapterElements = doc.querySelectorAll('div[id]');
+        chapterList = Array.from(normChapterElements)
+          .filter((elem) => {
+            const id = elem.id;
+            return /^\d+$/.test(id) && elem.querySelector('h3'); // Only divs with numeric IDs and h3 children
+          })
+          .map((elem) => {
+            const id = elem.id;
+            const number = parseInt(id);
+            const h3 = elem.querySelector('h3');
+            const text = h3 ? h3.textContent : `第${number}章`;
+            return { id, number, text };
+          });
       }
       
       setChapters(chapterList);
