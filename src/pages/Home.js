@@ -119,14 +119,21 @@ function Home() {
           title={deuteroTitle}
           type={type}
           books={[
+            ['1esdras', 'エズラ第一書'],
+            ['2esdras', 'エズラ第二書'],
             ['tobit', 'トビト書'],
-            ['judith', 'ユディト書'],
-            ['wisdom', '知恵の書'], 
-            ['sirach', 'シラ書'],
+            ['judith', 'ユデト書'],
+            ['esther-additions', 'エステル書殘篇'],
+            ['wisdom', 'ソロモンの智慧'],
+            ['sirach', 'ベン・シラの智慧'],
             ['baruch', 'バルク書'],
-            ['1maccabees', 'マカバイ記第一'],
-            ['2maccabees', 'マカバイ記第二'],
-            ['susanna', 'スザンナ']
+            ['letter-of-jeremiah', 'エレミヤの書翰'],
+            ['song-of-three', '三童兒の歌'],
+            ['susanna', 'スザンナ物語'],
+            ['bel-and-dragon', 'ベルと龍'],
+            ['prayer-of-manasseh', 'マナセの祈禱'],
+            ['1maccabees', 'マカビー第一書'],
+            ['2maccabees', 'マカビー第二書']
           ]}
         />
         <br/>

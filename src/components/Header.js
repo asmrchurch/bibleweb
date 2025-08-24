@@ -136,8 +136,6 @@ function Header({ bible, title, description, url, image, subon }) {
                <span className="pipe">| </span>
                <span className="ind"><a href="/seiroku">聖録</a></span> 
                <span className="pipe">| </span>
-               <span className="ind"><a href="/deuterocanonical">外典</a></span>
-               <span className="pipe">| </span>
                <span className="ind"><a href="/qa">Q&A</a></span>
                <span className="pipe">| </span>
                <span className="ind"><a href="https://suzuri.jp/asmrchurch2">SHOP</a></span>

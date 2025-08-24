@@ -18,7 +18,6 @@ import Seiroku from './pages/Seiroku';
 import Qa from './pages/qa';
 import Privacy from './pages/Privacy';
 import Support from './pages/Support';
-import Deuterocanonical from './pages/Deuterocanonical';
 
 function App() {
   return (
@@ -48,7 +47,6 @@ function App() {
         <Route path="/pay" element={<Pay />} />
         <Route path="/privacy" element={<Privacy />} />
         <Route path="/support" element={<Support />} />
-        <Route path="/deuterocanonical" element={<Deuterocanonical />} />
       </Routes>
     </Router>
   );

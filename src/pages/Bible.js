@@ -4,12 +4,14 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import PayComponent from '../components/PayComponent';
 import ChapterNavigation from '../components/ChapterNavigation';
+import ComingSoon from '../components/ComingSoon';
 
 function Bible() {
   const { section } = useParams();
   const [searchParams, setSearchParams] = useSearchParams();
   const [content, setContent] = useState('');
   const [currentChapter, setCurrentChapter] = useState('');
+  const [showComingSoon, setShowComingSoon] = useState(false);
 
   const sectionMap = {
     psalms: '3869678226',
@@ -48,8 +50,12 @@ function Bible() {
   useEffect(() => {
     let type = searchParams.get('type');
     
-    // List of deuterocanonical books
-    const deuterocanonicalBooks = ['tobit', 'judith', 'wisdom', 'sirach', 'baruch', '1maccabees', '2maccabees', 'susanna'];
+    // List of deuterocanonical books that are currently missing
+    const missingDeuterocanonicalBooks = [
+      '2esdras', 'tobit', 'judith', 'esther-additions', 'wisdom', 'sirach', 'baruch', 
+      'letter-of-jeremiah', 'song-of-three', 'susanna', 'bel-and-dragon', 
+      'prayer-of-manasseh', '1maccabees', '2maccabees'
+    ];
 
     // For all books, use existing logic to validate type
     if (!['norm', 'ruby', 'en'].includes(type)) {
@@ -57,10 +63,22 @@ function Bible() {
       setSearchParams({ type });
     }
 
+    // Check if this is a missing deuterocanonical book
+    if (missingDeuterocanonicalBooks.includes(section)) {
+      setShowComingSoon(true);
+      setContent('');
+      return;
+    }
+
+    setShowComingSoon(false);
     fetch(`${process.env.PUBLIC_URL}/static/html/${type}/${section}.htm`)
       .then(response => response.text())
       .then(data => setContent(data))
-      .catch(error => console.error('Error loading the HTML content:', error));
+      .catch(error => {
+        console.error('Error loading the HTML content:', error);
+        setShowComingSoon(true);
+        setContent('');
+      });
   }, [section, searchParams, setSearchParams]);
 
   return (
@@ -84,7 +102,11 @@ function Bible() {
     
         <div className="content">
           <section>
-            <div dangerouslySetInnerHTML={{ __html: content }} />
+            {showComingSoon ? (
+              <ComingSoon bookName={section} />
+            ) : (
+              <div dangerouslySetInnerHTML={{ __html: content }} />
+            )}
           </section>
         </div>
     
