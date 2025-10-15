@@ -1,7 +1,10 @@
 import React, { useState, useEffect } from 'react';
+import { useNavigate, useLocation } from 'react-router-dom';
 import './ChapterNavigation.css';
 
 function ChapterNavigation({ htmlContent, currentChapter, onChapterClick }) {
+  const navigate = useNavigate();
+  const location = useLocation();
   const [chapters, setChapters] = useState([]);
 
   useEffect(() => {
@@ -45,14 +48,36 @@ function ChapterNavigation({ htmlContent, currentChapter, onChapterClick }) {
   }, [htmlContent]);
 
   const scrollToChapter = (chapterId) => {
-    const element = document.getElementById(chapterId);
-    if (element) {
-      const yOffset = -60; // Offset for fixed header only
-      const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
-      window.scrollTo({ top: y, behavior: 'smooth' });
-      if (onChapterClick) {
-        onChapterClick(chapterId);
+    // Check if we're on a verse-specific URL (e.g., /bible/genesis/1/1)
+    const verseUrlPattern = /^\/bible\/[^/]+\/\d+\/\d+/;
+
+    if (verseUrlPattern.test(location.pathname)) {
+      // We're on a verse-specific URL, need to navigate back to book URL
+      const bookPath = location.pathname.split('/').slice(0, 3).join('/');
+      const searchParams = new URLSearchParams(location.search);
+      navigate(`${bookPath}?${searchParams.toString()}`, { replace: true });
+
+      // Wait for navigation, then scroll
+      setTimeout(() => {
+        const element = document.getElementById(chapterId);
+        if (element) {
+          const yOffset = -60;
+          const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
+          window.scrollTo({ top: y, behavior: 'smooth' });
+        }
+      }, 100);
+    } else {
+      // Normal scroll behavior
+      const element = document.getElementById(chapterId);
+      if (element) {
+        const yOffset = -60; // Offset for fixed header only
+        const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
+        window.scrollTo({ top: y, behavior: 'smooth' });
       }
+    }
+
+    if (onChapterClick) {
+      onChapterClick(chapterId);
     }
   };
 

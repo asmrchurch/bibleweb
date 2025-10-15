@@ -5,6 +5,7 @@ const app = express();
 
 // Serve the static files from the React app
 app.use(express.static(path.join(__dirname, 'build')));
+app.use('/static', express.static(path.join(__dirname, 'public', 'static')));
 
 // Function to extract metadata from markdown
 function extractMetadata(markdownPath) {
@@ -156,7 +157,7 @@ app.get('/bible/:section/:chapter/:verse', (req, res) => {
     const bookNameJa = bookNamesJa[section] || section;
     const title = `${bookNameJa} ${chapter}:${verse}`;
     const description = verseText || '口語訳聖書 旧約：1955年版・新約：1954年版';
-    const image = 'https://www.asmrchurch.com/static/images/card1.jpg';
+    const image = 'https://www.asmrchurch.com/static/images/c4.jpg';
 
     // Read the index.html file
     const indexPath = path.join(__dirname, 'build', 'index.html');

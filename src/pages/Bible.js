@@ -38,6 +38,12 @@ function Bible() {
     x: 0,
     y: 0
   });
+  const [hasScrolledToVerse, setHasScrolledToVerse] = useState(false);
+
+  // Reset scroll flag when URL changes
+  useEffect(() => {
+    setHasScrolledToVerse(false);
+  }, [section, chapter, verse]);
 
   const sectionMap = {
     psalms: '3869678226',
@@ -212,8 +218,11 @@ function Bible() {
             image: 'https://www.asmrchurch.com/static/images/card1.jpg'
           });
 
-          // Scroll to the verse
-          verseElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          // Scroll to the verse only once when first loaded
+          if (!hasScrolledToVerse) {
+            verseElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            setHasScrolledToVerse(true);
+          }
 
           return;
         }
@@ -228,7 +237,7 @@ function Bible() {
       url: `https://www.asmrchurch.com/bible/${section}`,
       image: 'https://www.asmrchurch.com/static/images/card1.jpg'
     });
-  }, [content, section, chapter, verse, bookNamesJa]);
+  }, [content, section, chapter, verse, bookNamesJa, hasScrolledToVerse]);
 
   // Add click handlers for verse sharing
   useEffect(() => {
