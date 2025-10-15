@@ -24,6 +24,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/bible/:section/:chapter/:verse" element={<Bible />} />
         <Route path="/bible/:section" element={<Bible />} />
         <Route path="/blog" element={<ListComponent type="blog" title={`ブログ`}/>} />
         <Route path="/blog/:id" element={<Blog />} />

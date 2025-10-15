@@ -19,7 +19,7 @@ import ChapterNavigation from '../components/ChapterNavigation';
 import ComingSoon from '../components/ComingSoon';
 
 function Bible() {
-  const { section } = useParams();
+  const { section, chapter, verse } = useParams();
   const [searchParams, setSearchParams] = useSearchParams();
   const [content, setContent] = useState('');
   const [currentChapter, setCurrentChapter] = useState('');
@@ -186,14 +186,14 @@ function Bible() {
       });
   }, [section, searchParams, setSearchParams]);
 
-  // Update metadata based on URL hash (for specific verse)
+  // Update metadata based on URL parameters (for specific verse)
   useEffect(() => {
     if (!content) return;
 
-    const hash = window.location.hash.substring(1); // Remove '#'
-    if (hash && hash.match(/^\d+-\d+$/)) {
-      // Hash is a verse reference like "1-1"
-      const verseElement = document.getElementById(hash);
+    if (chapter && verse) {
+      // URL has chapter and verse like /bible/genesis/1/1
+      const verseId = `${chapter}-${verse}`;
+      const verseElement = document.getElementById(verseId);
       if (verseElement) {
         const nextElement = verseElement.nextElementSibling;
         if (nextElement) {
@@ -203,14 +203,17 @@ function Bible() {
             : nextElement.textContent.trim();
 
           const bookNameJa = bookNamesJa[section] || section;
-          const verseRef = `${bookNameJa} ${hash.replace('-', ':')}`;
+          const verseRef = `${bookNameJa} ${chapter}:${verse}`;
 
           setMetaData({
             title: verseRef,
             description: verseText,
-            url: `https://www.asmrchurch.com/bible/${section}#${hash}`,
+            url: `https://www.asmrchurch.com/bible/${section}/${chapter}/${verse}`,
             image: 'https://www.asmrchurch.com/static/images/card1.jpg'
           });
+
+          // Scroll to the verse
+          verseElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
 
           return;
         }
@@ -225,7 +228,7 @@ function Bible() {
       url: `https://www.asmrchurch.com/bible/${section}`,
       image: 'https://www.asmrchurch.com/static/images/card1.jpg'
     });
-  }, [content, section, bookNamesJa]);
+  }, [content, section, chapter, verse, bookNamesJa]);
 
   // Add click handlers for verse sharing
   useEffect(() => {
@@ -238,6 +241,7 @@ function Bible() {
 
       e.preventDefault();
       const verseId = link.parentElement.id; // e.g., "1-1"
+      const [chapterNum, verseNum] = verseId.split('-');
 
       // Get the verse text
       const verseElement = link.parentElement.nextElementSibling;
@@ -252,10 +256,10 @@ function Bible() {
       // Get book name in Japanese
       const bookNameJa = bookNamesJa[section] || section;
 
-      // Construct share text
-      const shareTitle = `${bookNameJa} ${verseId.replace('-', ':')}`;
+      // Construct share text with new URL format
+      const shareTitle = `${bookNameJa} ${chapterNum}:${verseNum}`;
       const shareText = `${verseText} - ${shareTitle}`;
-      const shareUrl = `${window.location.origin}/bible/${section}#${verseId}`;
+      const shareUrl = `${window.location.origin}/bible/${section}/${chapterNum}/${verseNum}`;
 
       // Get click position for popup
       const rect = link.getBoundingClientRect();
