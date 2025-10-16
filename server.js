@@ -68,6 +68,44 @@ function extractVerseFromBible(htmlPath, chapter, verse) {
     }
 }
 
+// Function to handle content pages (sermon/blog) with meta tag injection
+function handleContentPage(markdownPath, url, res) {
+    try {
+        // Extract metadata from the markdown file
+        const { title, description, image } = extractMetadata(markdownPath);
+
+        // Read the index.html file
+        const indexPath = path.join(__dirname, 'build', 'index.html');
+        let html = fs.readFileSync(indexPath, 'utf-8');
+
+        // Inject meta tags into the head
+        const metaTags = `
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="${title.replace(/"/g, '&quot;')}" />
+    <meta property="og:description" content="${description.replace(/"/g, '&quot;')}" />
+    <meta property="og:url" content="${url}" />
+    <meta property="og:image" content="${image}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="${title.replace(/"/g, '&quot;')}" />
+    <meta name="twitter:description" content="${description.replace(/"/g, '&quot;')}" />
+    <meta name="twitter:url" content="${url}" />
+    <meta name="twitter:image" content="${image}" />
+    <title>${title.replace(/"/g, '&quot;')} - ASMRキリスト教会</title>
+    <meta name="description" content="${description.replace(/"/g, '&quot;')}" />
+    `;
+
+        // Replace the existing title and description, and inject OG tags
+        html = html.replace(/<title>.*?<\/title>/, `<title>${title.replace(/"/g, '&quot;')} - ASMRキリスト教会</title>`);
+        html = html.replace(/<meta name="description".*?>/, `<meta name="description" content="${description.replace(/"/g, '&quot;')}" />`);
+        html = html.replace('</head>', `${metaTags}</head>`);
+
+        res.send(html);
+    } catch (error) {
+        console.error('Error handling content page:', error);
+        res.status(500).send('Internal Server Error');
+    }
+}
+
 // Book name mapping (English to Japanese)
 const bookNamesJa = {
     genesis: '創世記',
@@ -219,35 +257,7 @@ app.get('/sermon/:id', (req, res) => {
     const markdownPath = path.join(__dirname, 'public', 'static', 'markdown', 'sermon', `${sermonId}.md`);
     const url = `https://www.asmrchurch.com/sermon/${sermonId}`;
 
-    // Extract metadata from the markdown file
-    const { title, description, image } = extractMetadata(markdownPath);
-
-    // Read the index.html file
-    const indexPath = path.join(__dirname, 'build', 'index.html');
-    let html = fs.readFileSync(indexPath, 'utf-8');
-
-    // Inject meta tags into the head
-    const metaTags = `
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="${title.replace(/"/g, '&quot;')}" />
-    <meta property="og:description" content="${description.replace(/"/g, '&quot;')}" />
-    <meta property="og:url" content="${url}" />
-    <meta property="og:image" content="${image}" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="${title.replace(/"/g, '&quot;')}" />
-    <meta name="twitter:description" content="${description.replace(/"/g, '&quot;')}" />
-    <meta name="twitter:url" content="${url}" />
-    <meta name="twitter:image" content="${image}" />
-    <title>${title.replace(/"/g, '&quot;')} - ASMRキリスト教会</title>
-    <meta name="description" content="${description.replace(/"/g, '&quot;')}" />
-    `;
-
-    // Replace the existing title and description, and inject OG tags
-    html = html.replace(/<title>.*?<\/title>/, `<title>${title.replace(/"/g, '&quot;')} - ASMRキリスト教会</title>`);
-    html = html.replace(/<meta name="description".*?>/, `<meta name="description" content="${description.replace(/"/g, '&quot;')}" />`);
-    html = html.replace('</head>', `${metaTags}</head>`);
-
-    res.send(html);
+    handleContentPage(markdownPath, url, res);
 });
 
 // Special handling for blog pages to inject meta tags
@@ -256,40 +266,7 @@ app.get('/blog/:id', (req, res) => {
     const markdownPath = path.join(__dirname, 'public', 'static', 'markdown', 'blog', `${blogId}.md`);
     const url = `https://www.asmrchurch.com/blog/${blogId}`;
 
-    // Extract metadata from the markdown file
-    let { title, description, image } = extractMetadata(markdownPath);
-
-    // Use c5.jpg as default for blog posts if no image found
-    if (image === 'https://www.asmrchurch.com/static/images/i4.jpg') {
-        image = 'https://www.asmrchurch.com/static/images/c5.jpg';
-    }
-
-    // Read the index.html file
-    const indexPath = path.join(__dirname, 'build', 'index.html');
-    let html = fs.readFileSync(indexPath, 'utf-8');
-
-    // Inject meta tags into the head
-    const metaTags = `
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="${title.replace(/"/g, '&quot;')}" />
-    <meta property="og:description" content="${description.replace(/"/g, '&quot;')}" />
-    <meta property="og:url" content="${url}" />
-    <meta property="og:image" content="${image}" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="${title.replace(/"/g, '&quot;')}" />
-    <meta name="twitter:description" content="${description.replace(/"/g, '&quot;')}" />
-    <meta name="twitter:url" content="${url}" />
-    <meta name="twitter:image" content="${image}" />
-    <title>${title.replace(/"/g, '&quot;')} - ASMRキリスト教会</title>
-    <meta name="description" content="${description.replace(/"/g, '&quot;')}" />
-    `;
-
-    // Replace the existing title and description, and inject OG tags
-    html = html.replace(/<title>.*?<\/title>/, `<title>${title.replace(/"/g, '&quot;')} - ASMRキリスト教会</title>`);
-    html = html.replace(/<meta name="description".*?>/, `<meta name="description" content="${description.replace(/"/g, '&quot;')}" />`);
-    html = html.replace('</head>', `${metaTags}</head>`);
-
-    res.send(html);
+    handleContentPage(markdownPath, url, res);
 });
 
 // Route all other non-matching requests to React's index.html

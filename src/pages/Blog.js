@@ -40,7 +40,7 @@ function Blog() {
         for (let i = titleIndex + 1; i < lines.length; i++) {
           const line = lines[i].trim();
           // Skip empty lines and image markdown
-          if (line && !line.startsWith('!') && !line.startsWith('#') && !line.startsWith('[') && !line.startsWith('*')) {
+          if (line && !line.startsWith('!') && !line.startsWith('#')) {
             descText = line;
             break;
           }
@@ -55,14 +55,14 @@ function Blog() {
           const imagePath = imageMatch[1];
           setImage(`https://www.asmrchurch.com${imagePath}`);
         } else {
-          setImage('https://www.asmrchurch.com/static/images/c5.jpg');
+          setImage('https://www.asmrchurch.com/static/images/i4.jpg');
         }
       })
       .catch((error) => {
         console.error(error);
         setTitle('ブログ');
         setDescription('ASMRキリスト教会のブログ');
-        setImage('https://www.asmrchurch.com/static/images/c5.jpg');
+        setImage('https://www.asmrchurch.com/static/images/i4.jpg');
       });
   }, [id]);
 
