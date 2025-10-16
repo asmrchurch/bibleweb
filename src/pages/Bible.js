@@ -36,7 +36,8 @@ function Bible() {
     text: '',
     url: '',
     x: 0,
-    y: 0
+    y: 0,
+    preview: '' // For showing selected verses
   });
   const [hasScrolledToVerse, setHasScrolledToVerse] = useState(false);
 
@@ -290,20 +291,105 @@ function Bible() {
         text: shareText,
         url: shareUrl,
         x: rect.left + window.scrollX,
-        y: rect.bottom + window.scrollY + 5
+        y: rect.bottom + window.scrollY + 5,
+        preview: '' // No preview for single verse click
       });
+    };
+
+    // Handle right-click on selected verses
+    const handleContextMenu = (e) => {
+      const selection = window.getSelection();
+      if (!selection || selection.isCollapsed) return;
+
+      const selectedText = selection.toString().trim();
+      if (!selectedText) return;
+
+      // Find all verse elements within the selection
+      const range = selection.getRangeAt(0);
+      const container = range.commonAncestorContainer;
+
+      // Get the parent element that contains the selection
+      const parentElement = container.nodeType === Node.TEXT_NODE
+        ? container.parentElement
+        : container;
+
+      // Find all verse number elements (em tags with id) in the selected area
+      const allEmElements = document.querySelectorAll('em[id]');
+      const selectedVerses = [];
+
+      allEmElements.forEach(emElement => {
+        if (selection.containsNode(emElement, true) ||
+            selection.containsNode(emElement.nextElementSibling, true)) {
+          const verseId = emElement.id;
+          const [chap, ver] = verseId.split('-');
+          const verseTextElement = emElement.nextElementSibling;
+
+          if (verseTextElement) {
+            const verseSpans = verseTextElement.querySelectorAll('span[id="verse"]');
+            const verseText = verseSpans.length > 0
+              ? verseSpans[verseSpans.length - 1].textContent.trim()
+              : verseTextElement.textContent.trim();
+
+            selectedVerses.push({
+              chapter: chap,
+              verse: ver,
+              text: verseText
+            });
+          }
+        }
+      });
+
+      if (selectedVerses.length > 0) {
+        e.preventDefault();
+
+        // Get book name in Japanese
+        const bookNameJa = bookNamesJa[section] || section;
+
+        // Construct combined text
+        const firstVerse = selectedVerses[0];
+        const lastVerse = selectedVerses[selectedVerses.length - 1];
+
+        let shareTitle, shareUrl;
+        if (selectedVerses.length === 1) {
+          shareTitle = `${bookNameJa} ${firstVerse.chapter}:${firstVerse.verse}`;
+          shareUrl = `${window.location.origin}/bible/${section}/${firstVerse.chapter}/${firstVerse.verse}`;
+        } else {
+          shareTitle = `${bookNameJa} ${firstVerse.chapter}:${firstVerse.verse}-${lastVerse.verse}`;
+          shareUrl = `${window.location.origin}/bible/${section}/${firstVerse.chapter}/${firstVerse.verse}`;
+        }
+
+        // Combine all verse texts
+        const combinedText = selectedVerses.map((v, i) =>
+          `${v.text}${i < selectedVerses.length - 1 ? ' ' : ''}`
+        ).join('');
+
+        const shareText = `${combinedText} - ${shareTitle}`;
+
+        // Show share popup at right-click position with preview
+        setSharePopup({
+          show: true,
+          title: shareTitle,
+          text: shareText,
+          url: shareUrl,
+          x: e.pageX,
+          y: e.pageY,
+          preview: combinedText // Show preview of selected verses
+        });
+      }
     };
 
     // Add event listener to content div
     const contentDiv = document.querySelector('.content section');
     if (contentDiv) {
       contentDiv.addEventListener('click', handleVerseClick);
+      contentDiv.addEventListener('contextmenu', handleContextMenu);
     }
 
     // Cleanup
     return () => {
       if (contentDiv) {
         contentDiv.removeEventListener('click', handleVerseClick);
+        contentDiv.removeEventListener('contextmenu', handleContextMenu);
       }
     };
   }, [content, section, bookNamesJa]);
@@ -386,27 +472,55 @@ function Bible() {
               padding: '12px',
               boxShadow: '0 2px 8px rgba(0,0,0,0.15)',
               zIndex: 1000,
-              display: 'flex',
-              gap: '8px',
-              alignItems: 'center'
+              maxWidth: '500px'
             }}
           >
-            <span style={{ fontSize: '14px', marginRight: '8px' }}>布教する:</span>
-            <TwitterShareButton url={sharePopup.url} title={sharePopup.text}>
-              <XIcon size={32} round={false} />
-            </TwitterShareButton>
-            <FacebookShareButton url={sharePopup.url} quote={sharePopup.text}>
-              <FacebookIcon size={32} round={false} />
-            </FacebookShareButton>
-            <EmailShareButton url={sharePopup.url} subject={sharePopup.title} body={sharePopup.text}>
-              <EmailIcon size={32} round={false} />
-            </EmailShareButton>
-            <RedditShareButton url={sharePopup.url} title={sharePopup.text}>
-              <RedditIcon size={32} round={false} />
-            </RedditShareButton>
-            <LinkedinShareButton url={sharePopup.url} title={sharePopup.title} summary={sharePopup.text}>
-              <LinkedinIcon size={32} round={false} />
-            </LinkedinShareButton>
+            {sharePopup.preview && (
+              <div
+                style={{
+                  backgroundColor: '#f9f9f9',
+                  padding: '10px',
+                  borderRadius: '4px',
+                  marginBottom: '12px',
+                  fontSize: '14px',
+                  lineHeight: '1.5',
+                  maxHeight: '150px',
+                  overflowY: 'auto',
+                  borderLeft: '3px solid #e99708'
+                }}
+              >
+                <div style={{ fontWeight: 'bold', marginBottom: '6px', color: '#333' }}>
+                  {sharePopup.title}
+                </div>
+                <div style={{ color: '#555' }}>
+                  {sharePopup.preview}
+                </div>
+              </div>
+            )}
+            <div
+              style={{
+                display: 'flex',
+                gap: '8px',
+                alignItems: 'center'
+              }}
+            >
+              <span style={{ fontSize: '14px', marginRight: '8px' }}>布教する:</span>
+              <TwitterShareButton url={sharePopup.url} title={sharePopup.text}>
+                <XIcon size={32} round={false} />
+              </TwitterShareButton>
+              <FacebookShareButton url={sharePopup.url} quote={sharePopup.text}>
+                <FacebookIcon size={32} round={false} />
+              </FacebookShareButton>
+              <EmailShareButton url={sharePopup.url} subject={sharePopup.title} body={sharePopup.text}>
+                <EmailIcon size={32} round={false} />
+              </EmailShareButton>
+              <RedditShareButton url={sharePopup.url} title={sharePopup.text}>
+                <RedditIcon size={32} round={false} />
+              </RedditShareButton>
+              <LinkedinShareButton url={sharePopup.url} title={sharePopup.title} summary={sharePopup.text}>
+                <LinkedinIcon size={32} round={false} />
+              </LinkedinShareButton>
+            </div>
           </div>
         </>
       )}
