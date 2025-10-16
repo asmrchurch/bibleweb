@@ -233,7 +233,11 @@ function Bible() {
 
           // Scroll to the first verse only once when first loaded
           if (v === startVerseNum && !hasScrolledToVerse) {
-            verseElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            setTimeout(() => {
+              const yOffset = -150; // Offset to center verse better
+              const y = verseElement.getBoundingClientRect().top + window.pageYOffset + yOffset;
+              window.scrollTo({ top: y, behavior: 'smooth' });
+            }, 100);
             setHasScrolledToVerse(true);
           }
         }

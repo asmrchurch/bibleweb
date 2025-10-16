@@ -173,7 +173,16 @@ app.get('/bible/:section/:chapter/:verse', (req, res) => {
     const title = endVerse
         ? `${bookNameJa} ${chapter}:${verse}-${endVerse}`
         : `${bookNameJa} ${chapter}:${verse}`;
-    const description = allVerseTexts.join(' ') || '口語訳聖書 旧約：1955年版・新約：1954年版';
+
+    // Combine verse texts and limit to 200 characters for better OG tag compatibility
+    let description = allVerseTexts.join(' ');
+    if (description.length > 200) {
+        description = description.substring(0, 197) + '...';
+    }
+    if (!description) {
+        description = '口語訳聖書 旧約：1955年版・新約：1954年版';
+    }
+
     const image = 'https://www.asmrchurch.com/static/images/c4.jpg';
 
     // Read the index.html file
