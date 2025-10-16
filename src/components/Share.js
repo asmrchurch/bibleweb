@@ -15,8 +15,15 @@ import {
 } from 'react-share';
 
 // Custom Blogger Share Button
-const BloggerShareButton = ({ url, title, children }) => {
-  const bloggerUrl = `https://www.blogger.com/blog-this.g?u=${encodeURIComponent(url)}&n=${encodeURIComponent(title)}`;
+const BloggerShareButton = ({ url, title, text, image, children }) => {
+  // Create content with image and text (max 5000 chars)
+  const truncatedText = text && text.length > 5000 ? text.substring(0, 5000) + '...' : (text || '');
+
+  // Build HTML content: image + text + link at bottom
+  const imageTag = image ? `<img src="${image}" alt="${title}" style="max-width:100%;height:auto;"><br><br>` : '';
+  const content = `${imageTag}${truncatedText}<br><br><a href="${url}">${url}</a>`;
+
+  const bloggerUrl = `https://www.blogger.com/blog-this.g?u=${encodeURIComponent(url)}&n=${encodeURIComponent(title)}&t=${encodeURIComponent(content)}`;
 
   return (
     <a
@@ -46,7 +53,7 @@ const BloggerIcon = ({ size = 32 }) => (
   </svg>
 );
 
-const Share = ({title, url}) => {
+const Share = ({title, url, text, image}) => {
   return (
     <div className="sharecontainer">
       <span className="tt"> 布教する: </span>
@@ -78,7 +85,7 @@ const Share = ({title, url}) => {
         </LinkedinShareButton>
 
         {/* Blogger Share Button */}
-        <BloggerShareButton url={url} title={title}>
+        <BloggerShareButton url={url} title={title} text={text} image={image}>
           <BloggerIcon size={32} />
         </BloggerShareButton>
       </div>

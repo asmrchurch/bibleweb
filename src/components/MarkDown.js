@@ -8,6 +8,7 @@ import Share from './Share';
 function MarkDown({ path, preview, type }) {
   const [markdown, setMarkdown] = useState('');
   const [title, setTitle] = useState('');
+  const [firstImage, setFirstImage] = useState('');
   const url = `https://www.asmrchurch.com${path}`;
 
   useEffect(() => {
@@ -26,6 +27,14 @@ function MarkDown({ path, preview, type }) {
         if (firstTitleLine) {
           const firstTitle = firstTitleLine.replace('# ', '');
           setTitle(firstTitle);
+        }
+
+        // Extract first image
+        const imageMatch = text.match(/!\[.*?\]\((.*?)\)/);
+        if (imageMatch && imageMatch[1]) {
+          setFirstImage(`https://www.asmrchurch.com${imageMatch[1]}`);
+        } else {
+          setFirstImage('https://www.asmrchurch.com/static/images/i4.jpg');
         }
 
         const dateLineIndex = lines.findIndex(line => /^\*\d{4}-\d{2}-\d{2}\*$/.test(line.trim()));
@@ -111,6 +120,8 @@ function MarkDown({ path, preview, type }) {
         <Share
           title={`【ASMRキリスト教会】${title} @asmrchurch #聖書 #ASMR #キリスト教`}
           url={url}
+          text={markdown}
+          image={firstImage}
         />
       )}
     </div>

@@ -19,8 +19,14 @@ import ChapterNavigation from '../components/ChapterNavigation';
 import ComingSoon from '../components/ComingSoon';
 
 // Custom Blogger Share Button
-const BloggerShareButton = ({ url, title, children }) => {
-  const bloggerUrl = `https://www.blogger.com/blog-this.g?u=${encodeURIComponent(url)}&n=${encodeURIComponent(title)}`;
+const BloggerShareButton = ({ url, title, text, image, children }) => {
+  const truncatedText = text && text.length > 5000 ? text.substring(0, 5000) + '...' : (text || '');
+
+  // Build HTML content: image + text + link at bottom
+  const imageTag = image ? `<img src="${image}" alt="${title}" style="max-width:100%;height:auto;"><br><br>` : '';
+  const content = `${imageTag}${truncatedText}<br><br><a href="${url}">${url}</a>`;
+
+  const bloggerUrl = `https://www.blogger.com/blog-this.g?u=${encodeURIComponent(url)}&n=${encodeURIComponent(title)}&t=${encodeURIComponent(content)}`;
 
   return (
     <a
@@ -572,7 +578,12 @@ function Bible() {
               <LinkedinShareButton url={sharePopup.url} title={sharePopup.title} summary={sharePopup.text}>
                 <LinkedinIcon size={32} round={false} />
               </LinkedinShareButton>
-              <BloggerShareButton url={sharePopup.url} title={sharePopup.title}>
+              <BloggerShareButton
+                url={sharePopup.url}
+                title={sharePopup.title}
+                text={sharePopup.preview || sharePopup.text}
+                image="https://www.asmrchurch.com/static/images/c4.jpg"
+              >
                 <BloggerIcon size={32} />
               </BloggerShareButton>
             </div>
