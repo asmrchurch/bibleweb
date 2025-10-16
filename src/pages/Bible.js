@@ -196,6 +196,10 @@ function Bible() {
   useEffect(() => {
     if (!content) return;
 
+    // Remove previous highlights
+    const previousHighlights = document.querySelectorAll('.verse-highlight');
+    previousHighlights.forEach(el => el.classList.remove('verse-highlight'));
+
     if (chapter && verse) {
       // URL has chapter and verse like /bible/genesis/1/1
       const verseId = `${chapter}-${verse}`;
@@ -217,6 +221,12 @@ function Bible() {
             url: `https://www.asmrchurch.com/bible/${section}/${chapter}/${verse}`,
             image: 'https://www.asmrchurch.com/static/images/card1.jpg'
           });
+
+          // Highlight the verse
+          verseElement.classList.add('verse-highlight');
+          if (nextElement) {
+            nextElement.classList.add('verse-highlight');
+          }
 
           // Scroll to the verse only once when first loaded
           if (!hasScrolledToVerse) {
@@ -402,6 +412,16 @@ function Bible() {
       )}
 
       <Footer />
+
+      {/* Verse highlight styles */}
+      <style>{`
+        .verse-highlight {
+          background-color: rgba(255, 255, 0, 0.3);
+          padding: 2px 4px;
+          border-radius: 3px;
+          transition: background-color 0.3s ease;
+        }
+      `}</style>
     </div>
   );
 }
