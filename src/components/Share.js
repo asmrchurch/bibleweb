@@ -16,8 +16,29 @@ import {
 
 // Custom Blogger Share Button
 const BloggerShareButton = ({ url, title, text, image, children }) => {
-  // Create content with image and text (max 5000 chars)
-  const truncatedText = text && text.length > 5000 ? text.substring(0, 5000) + '...' : (text || '');
+  // Clean text: remove HTML tags and markdown syntax
+  let cleanText = text || '';
+
+  // Remove HTML tags
+  cleanText = cleanText.replace(/<[^>]*>/g, '');
+
+  // Remove markdown image syntax
+  cleanText = cleanText.replace(/!\[.*?\]\(.*?\)/g, '');
+
+  // Remove markdown headers
+  cleanText = cleanText.replace(/^#{1,6}\s+/gm, '');
+
+  // Remove markdown bold/italic
+  cleanText = cleanText.replace(/[*_]{1,2}([^*_]+)[*_]{1,2}/g, '$1');
+
+  // Remove markdown links but keep text
+  cleanText = cleanText.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+
+  // Normalize whitespace
+  cleanText = cleanText.replace(/\s+/g, ' ').trim();
+
+  // Truncate to 1000 chars to avoid URL length issues
+  const truncatedText = cleanText.length > 1000 ? cleanText.substring(0, 997) + '...' : cleanText;
 
   // Build HTML content: image + text + link at bottom
   const imageTag = image ? `<img src="${image}" alt="${title}" style="max-width:100%;height:auto;"><br><br>` : '';
