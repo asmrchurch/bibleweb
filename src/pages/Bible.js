@@ -18,6 +18,38 @@ import PayComponent from '../components/PayComponent';
 import ChapterNavigation from '../components/ChapterNavigation';
 import ComingSoon from '../components/ComingSoon';
 
+// Custom Blogger Share Button
+const BloggerShareButton = ({ url, title, children }) => {
+  const bloggerUrl = `https://www.blogger.com/blog-this.g?u=${encodeURIComponent(url)}&n=${encodeURIComponent(title)}`;
+
+  return (
+    <a
+      href={bloggerUrl}
+      target="_blank"
+      rel="noopener noreferrer"
+      style={{ display: 'inline-block', cursor: 'pointer' }}
+    >
+      {children}
+    </a>
+  );
+};
+
+// Custom Blogger Icon
+const BloggerIcon = ({ size = 32 }) => (
+  <svg
+    viewBox="0 0 24 24"
+    width={size}
+    height={size}
+    style={{ display: 'block' }}
+  >
+    <rect width="24" height="24" fill="#FF5722" />
+    <path
+      d="M10.5 9h3c.28 0 .5.22.5.5s-.22.5-.5.5h-3c-.28 0-.5-.22-.5-.5s.22-.5.5-.5zm0 5h3c.28 0 .5.22.5.5s-.22.5-.5.5h-3c-.28 0-.5-.22-.5-.5s.22-.5.5-.5zm6.5-7h-2.5V5c0-1.1-.9-2-2-2h-4C7.9 3 7 3.9 7 5v4c0 1.1.9 2 2 2v1c0 1.1.9 2 2 2v3c0 1.1.9 2 2 2h4c1.1 0 2-.9 2-2V9c0-1.1-.9-2-2-2z"
+      fill="white"
+    />
+  </svg>
+);
+
 function Bible() {
   const { section, chapter, verse } = useParams();
   const [searchParams, setSearchParams] = useSearchParams();
@@ -540,6 +572,9 @@ function Bible() {
               <LinkedinShareButton url={sharePopup.url} title={sharePopup.title} summary={sharePopup.text}>
                 <LinkedinIcon size={32} round={false} />
               </LinkedinShareButton>
+              <BloggerShareButton url={sharePopup.url} title={sharePopup.title}>
+                <BloggerIcon size={32} />
+              </BloggerShareButton>
             </div>
           </div>
         </>
