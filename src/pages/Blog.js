@@ -5,6 +5,7 @@ import remarkGfm from 'remark-gfm';
 import Header from '../components/Header';
 import MarkDown from '../components/MarkDown';
 import Footer from '../components/Footer';
+import { AdIcons } from '../components/Ad';
 import '../blog.css';
 
 function Blog() {
@@ -76,10 +77,24 @@ function Blog() {
         url={url}
         image={image}
       />
-      <div className="cont2">
-        <MarkDown path={`/blog/${id}`} />
-        <a href="/blog">ブログ一覧</a>
-        <div className="return">
+      <div className="flex-container">
+        <div className="left-area">
+          <AdIcons />
+        </div>
+        <div className="cont2">
+          <MarkDown path={`/blog/${id}`} />
+          <a href="/blog">ブログ一覧</a>
+          <div className="return">
+          </div>
+        </div>
+        <div className="right-area">
+          <span className="pad">
+            <stripe-buy-button
+              buy-button-id="buy_btn_1QiEyXJrEFc0aoshZrg6uGA0"
+              publishable-key="pk_live_51L77y9JrEFc0aoshDbT8faRDJBWQJjQTGvMb6jngK3GGGpMtIYf8omncPkMd8e0be0ZsfG2yEWaxYdMSlGSS9pgX00RNzmWvfw"
+            >
+            </stripe-buy-button>
+          </span>
         </div>
       </div>
       <Footer />

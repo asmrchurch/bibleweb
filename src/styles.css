@@ -94,6 +94,7 @@ rt {
     color: white;
     padding: 1em; /* Add padding for content */
     box-sizing: border-box;
+    z-index: 100; /* Above chapter navigation */
 }
 
 .left-area {
