@@ -89,13 +89,16 @@ function Sermon() {
         <div className="return">
           <a href="/sermon">説教一覧</a>
         </div>
+        <div className="mobile-ads">
+          <AdIcons />
+        </div>
       </div>
 
       <div className="right-area">
         <span className="pad">
           <stripe-buy-button
             buy-button-id="buy_btn_1QiEyXJrEFc0aoshZrg6uGA0"
-            publishable-key="pk_live_51L77y9JrEFc0aoshDbT8faRDJBWQJjQTGvMb6jngK3GGGpMtIYf8omncPkMd8e0be0ZsfG2yEWaxYdMSlGSS9pgX00RNzmWvfw"
+            publishable-key="pk_live_51L77y9JrEFc0aoshDbT8faRDJBWQJjQTGvMb8e0be0ZsfG2yEWaxYdMSlGSS9pgX00RNzmWvfw"
           >
           </stripe-buy-button>
         </span>

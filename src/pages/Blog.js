@@ -86,6 +86,9 @@ function Blog() {
           <a href="/blog">ブログ一覧</a>
           <div className="return">
           </div>
+          <div className="mobile-ads">
+            <AdIcons />
+          </div>
         </div>
         <div className="right-area">
           <span className="pad">

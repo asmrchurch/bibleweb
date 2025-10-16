@@ -503,6 +503,9 @@ function Bible() {
               <div dangerouslySetInnerHTML={{ __html: content }} />
             )}
           </section>
+          <div className="mobile-ads">
+            <AdIcons />
+          </div>
         </div>
 
         <div className="right-area">
