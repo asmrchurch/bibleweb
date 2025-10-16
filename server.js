@@ -149,14 +149,31 @@ const bookNamesJa = {
 // Special handling for Bible verse pages to inject meta tags
 app.get('/bible/:section/:chapter/:verse', (req, res) => {
     const { section, chapter, verse } = req.params;
+    const endVerse = req.query.end; // Get optional end verse from query parameter
     const htmlPath = path.join(__dirname, 'public', 'static', 'html', 'norm', `${section}.htm`);
-    const url = `https://www.asmrchurch.com/bible/${section}/${chapter}/${verse}`;
 
-    // Extract verse text from HTML
-    const verseText = extractVerseFromBible(htmlPath, chapter, verse);
+    // Build URL with optional end parameter
+    const url = endVerse
+        ? `https://www.asmrchurch.com/bible/${section}/${chapter}/${verse}?end=${endVerse}`
+        : `https://www.asmrchurch.com/bible/${section}/${chapter}/${verse}`;
+
+    // Extract verse text(s) from HTML
+    let allVerseTexts = [];
+    const startVerseNum = parseInt(verse);
+    const endVerseNum = endVerse ? parseInt(endVerse) : startVerseNum;
+
+    for (let v = startVerseNum; v <= endVerseNum; v++) {
+        const verseText = extractVerseFromBible(htmlPath, chapter, v.toString());
+        if (verseText) {
+            allVerseTexts.push(verseText);
+        }
+    }
+
     const bookNameJa = bookNamesJa[section] || section;
-    const title = `${bookNameJa} ${chapter}:${verse}`;
-    const description = verseText || '口語訳聖書 旧約：1955年版・新約：1954年版';
+    const title = endVerse
+        ? `${bookNameJa} ${chapter}:${verse}-${endVerse}`
+        : `${bookNameJa} ${chapter}:${verse}`;
+    const description = allVerseTexts.join(' ') || '口語訳聖書 旧約：1955年版・新約：1954年版';
     const image = 'https://www.asmrchurch.com/static/images/c4.jpg';
 
     // Read the index.html file

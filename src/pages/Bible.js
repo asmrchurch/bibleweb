@@ -202,42 +202,58 @@ function Bible() {
     previousHighlights.forEach(el => el.classList.remove('verse-highlight'));
 
     if (chapter && verse) {
-      // URL has chapter and verse like /bible/genesis/1/1
-      const verseId = `${chapter}-${verse}`;
-      const verseElement = document.getElementById(verseId);
-      if (verseElement) {
-        const nextElement = verseElement.nextElementSibling;
-        if (nextElement) {
-          const verseSpans = nextElement.querySelectorAll('span[id="verse"]');
-          const verseText = verseSpans.length > 0
-            ? verseSpans[verseSpans.length - 1].textContent.trim()
-            : nextElement.textContent.trim();
+      // URL has chapter and verse like /bible/genesis/1/1 or /bible/genesis/1/1?end=3
+      const endVerse = searchParams.get('end');
+      const startVerseNum = parseInt(verse);
+      const endVerseNum = endVerse ? parseInt(endVerse) : startVerseNum;
 
-          const bookNameJa = bookNamesJa[section] || section;
-          const verseRef = `${bookNameJa} ${chapter}:${verse}`;
+      // Collect all verse texts for metadata
+      let allVerseTexts = [];
 
-          setMetaData({
-            title: verseRef,
-            description: verseText,
-            url: `https://www.asmrchurch.com/bible/${section}/${chapter}/${verse}`,
-            image: 'https://www.asmrchurch.com/static/images/card1.jpg'
-          });
+      // Highlight all verses in range
+      for (let v = startVerseNum; v <= endVerseNum; v++) {
+        const verseId = `${chapter}-${v}`;
+        const verseElement = document.getElementById(verseId);
+
+        if (verseElement) {
+          const nextElement = verseElement.nextElementSibling;
 
           // Highlight the verse
           verseElement.classList.add('verse-highlight');
           if (nextElement) {
             nextElement.classList.add('verse-highlight');
+
+            // Collect verse text
+            const verseSpans = nextElement.querySelectorAll('span[id="verse"]');
+            const verseText = verseSpans.length > 0
+              ? verseSpans[verseSpans.length - 1].textContent.trim()
+              : nextElement.textContent.trim();
+            allVerseTexts.push(verseText);
           }
 
-          // Scroll to the verse only once when first loaded
-          if (!hasScrolledToVerse) {
+          // Scroll to the first verse only once when first loaded
+          if (v === startVerseNum && !hasScrolledToVerse) {
             verseElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
             setHasScrolledToVerse(true);
           }
-
-          return;
         }
       }
+
+      // Set metadata
+      const bookNameJa = bookNamesJa[section] || section;
+      const verseRef = endVerse
+        ? `${bookNameJa} ${chapter}:${verse}-${endVerse}`
+        : `${bookNameJa} ${chapter}:${verse}`;
+      const combinedText = allVerseTexts.join(' ');
+
+      setMetaData({
+        title: verseRef,
+        description: combinedText || '口語訳聖書 旧約：1955年版・新約：1954年版',
+        url: `https://www.asmrchurch.com/bible/${section}/${chapter}/${verse}${endVerse ? `?end=${endVerse}` : ''}`,
+        image: 'https://www.asmrchurch.com/static/images/card1.jpg'
+      });
+
+      return;
     }
 
     // Default metadata for the book
@@ -248,7 +264,7 @@ function Bible() {
       url: `https://www.asmrchurch.com/bible/${section}`,
       image: 'https://www.asmrchurch.com/static/images/card1.jpg'
     });
-  }, [content, section, chapter, verse, bookNamesJa, hasScrolledToVerse]);
+  }, [content, section, chapter, verse, searchParams, bookNamesJa, hasScrolledToVerse]);
 
   // Add click handlers for verse sharing
   useEffect(() => {
@@ -355,7 +371,7 @@ function Bible() {
           shareUrl = `${window.location.origin}/bible/${section}/${firstVerse.chapter}/${firstVerse.verse}`;
         } else {
           shareTitle = `${bookNameJa} ${firstVerse.chapter}:${firstVerse.verse}-${lastVerse.verse}`;
-          shareUrl = `${window.location.origin}/bible/${section}/${firstVerse.chapter}/${firstVerse.verse}`;
+          shareUrl = `${window.location.origin}/bible/${section}/${firstVerse.chapter}/${firstVerse.verse}?end=${lastVerse.verse}`;
         }
 
         // Combine all verse texts
