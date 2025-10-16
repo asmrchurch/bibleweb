@@ -111,6 +111,22 @@ function MarkDown({ path, preview, type }) {
           components={{
             div: ({ node, ...props }) => <div {...props} />,
             img: ({ node, ...props }) => <img {...props} />,
+            a: ({ node, href, children, ...props }) => {
+              // Check if this is the YouTube channel link
+              if (href === 'https://youtube.com/@asmrchurch' || href === 'http://youtube.com/@asmrchurch') {
+                return (
+                  <a href={href} target="_blank" rel="noopener noreferrer" {...props} className="youtube-thumbnail-link">
+                    <img
+                      src="/static/images/thumbnail.png"
+                      alt="YouTube Channel"
+                      className="youtube-thumbnail"
+                    />
+                  </a>
+                );
+              }
+              // Default link rendering
+              return <a href={href} {...props}>{children}</a>;
+            },
           }}
         />
       </div>

@@ -98,9 +98,24 @@ function ListComponent({ type, title }) {
     }
   };
 
+  // Set OG tags based on type
+  const metaTitle = type === 'blog' ? 'ブログ - ASMRキリスト教会' : `${title} - ASMRキリスト教会`;
+  const metaDescription = type === 'blog'
+    ? 'ASMRキリスト教会のブログ記事一覧。聖書、信仰、日常について綴っています。'
+    : `${title}の一覧ページです。`;
+  const metaImage = type === 'blog'
+    ? 'https://www.asmrchurch.com/static/images/c5.jpg'
+    : 'https://www.asmrchurch.com/static/images/i4.jpg';
+  const metaUrl = `https://www.asmrchurch.com/${type}`;
+
   return (
     <div>
-      <Header />
+      <Header
+        title={metaTitle}
+        description={metaDescription}
+        url={metaUrl}
+        image={metaImage}
+      />
       <div className="news-container">
         <h1 className="news-title">{title}</h1>
 

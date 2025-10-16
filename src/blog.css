@@ -125,3 +125,25 @@
   list-style-type: disc;
   margin-left: 20px;
 }
+
+/* YouTube Thumbnail Hover Effect */
+.youtube-thumbnail-link {
+  display: block;
+  margin: 20px 0;
+  transition: transform 0.3s ease;
+}
+
+.youtube-thumbnail {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.youtube-thumbnail:hover {
+  filter: brightness(1.2);
+  box-shadow: 0 8px 30px rgba(233, 151, 8, 0.6), 0 0 40px rgba(233, 151, 8, 0.4);
+  transform: scale(1.02);
+}
